@@ -17,7 +17,7 @@ def print_sorted_image_indexes(directory):
             with open(file_path, 'r', encoding='utf-8') as file:
                 data = json.load(file)  # Cargamos el contenido del archivo
                 if isinstance(data, list):  # Verificamos si es un array
-                    print(f"Archivo: {file_name}")
+                    # print(f"Archivo: {file_name}")
                     image_indexes = []
                     for item in data:
                         if 'imageIndex' in item:
@@ -25,10 +25,11 @@ def print_sorted_image_indexes(directory):
                     
                     # Ordenar los índices de manera numérica
                     sorted_indexes = sorted(image_indexes)
-                    print(f"imageIndexes ordenados: {sorted_indexes}")
+                    print(f"{sorted_indexes}")
+                    # print(f"imageIndexes ordenados: {sorted_indexes}")
                 else:
                     print(f"Archivo: {file_name} no contiene un array.")
-                print()  # Separador entre archivos
+                # print()  # Separador entre archivos
 
 # Función principal
 def main():

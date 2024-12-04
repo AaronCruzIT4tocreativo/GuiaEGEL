@@ -1,4 +1,5 @@
-[
+# Lista de números
+numeros = [
     1, 2, 3, 4, 5,
     6, 7, 8, 9, 10,
     11, 12, 13, 14, 15, 16,
@@ -19,3 +20,19 @@
     171, 172, 173, 174, 175,
     176, 177, 178, 179, 180
 ]
+
+# Rango esperado
+rango_completo = set(range(1, 194))
+
+# Convertir la lista en un conjunto para eliminar duplicados y compararla
+numeros_unicos = set(numeros)
+
+# Verificar duplicados
+duplicados = sorted(set([num for num in numeros if numeros.count(num) > 1]))
+
+# Encontrar números faltantes
+faltantes = sorted(rango_completo - numeros_unicos)
+
+# Resultados
+print(f"Duplicados: {duplicados}")
+print(f"Faltantes: {faltantes}")
