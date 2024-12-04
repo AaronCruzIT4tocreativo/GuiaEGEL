@@ -1,0 +1,122 @@
+[
+    {
+        "imageIndex": "158",
+        "index": 17,
+        "text": "En un hospital para niños con cáncer se requiere de una aplicación para registrar el estado de ánimo de aquellos que van a entrar a un procedimiento; por medio de una encuesta con animaciones se explicará a cada uno de ellos el tipo de preguntas. La mayoría de los niños por encuestar se encuentra en la cama y no se puede desplazar.\n\n¿Qué tipo de plataforma de desarrollo se requiere? \n",
+        "options": [
+            {
+                "index": 0,
+                "text": "De escritorio "
+            },
+            {
+                "index": 1,
+                "text": "Embebido "
+            },
+            {
+                "index": 2,
+                "text": "Móvil"
+            }
+        ],
+        "answer": {
+            "index": null,
+            "text": ""
+        },
+        "questionIndex": 17
+    },
+    {
+        "imageIndex": "10",
+        "index": 10,
+        "text": "Se desea diseñar una aplicación móvil para que los alumnos hagan pedidos de comida en una cafetería universitaria, con el propósito de reducir la acumulación de personas en el establecimiento y el tiempo de espera en filas.\n\n¿Qué técnica de recolección de requerimientos se debe utilizar para evaluar el alcance de propósito?",
+        "options": [
+            {
+                "index": 0,
+                "text": "Observación"
+            },
+            {
+                "index": 1,
+                "text": "Entrevista"
+            },
+            {
+                "index": 2,
+                "text": "Workshop"
+            }
+        ],
+        "answer": {
+            "index": 1,
+            "text": "Entrevista"
+        },
+        "questionIndex": 16
+    },
+    {
+        "imageIndex": "157",
+        "index": 16,
+        "text": "Un equipo de desarrollo de software ha codificado una aplicación móvil que permite mantener una conversación con una persona, detectar su estado de ánimo y proponer la actividades, dependiendo del caso; la aplicación ha sido desarrollada utilizando Android Studio. El equipo desea un código fuente de calidad que proporcione un alto rendimiento, por lo que va a utilizar un validador de código estático para verificar si existen problemas estructurales.\n\n¿Qué tipo de validador se requiere?",
+        "options": [
+            {
+                "index": 0,
+                "text": "SonarQube"
+            },
+            {
+                "index": 1,
+                "text": "Lint"
+            },
+            {
+                "index": 2,
+                "text": "Review Board"
+            }
+        ],
+        "answer": {
+            "index": null,
+            "text": ""
+        },
+        "questionIndex": 16
+    },
+    {
+        "imageIndex": "9",
+        "index": 9,
+        "text": "Una institución dedicada al cuidado del ambiente solicita apoyo para el desarrollo de un software que permita llevar el control de la información de las especies nativas de una entidad federativa. Ha obtenido recursos económicos de una convocatoria estatal, en la que se especifican algunas condiciones como mínimos de accesibilidad del software.\n\nDe acuerdo con lo anterior, ¿Que stakeholder debe considerarse en primer término para determinar la factibilidad del proyecto?",
+        "options": [
+            {
+                "index": 0,
+                "text": "Usuarios finales"
+            },
+            {
+                "index": 1,
+                "text": "Desarrolladores"
+            },
+            {
+                "index": 2,
+                "text": "Ingenieros de software"
+            }
+        ],
+        "answer": {
+            "index": 0,
+            "text": "Usuarios finales"
+        },
+        "questionIndex": 15
+    },
+    {
+        "imageIndex": "156",
+        "index": 15,
+        "text": "Se desarrolló una aplicación para hacer empleada en un proyecto de lanzamiento que correrá en un sistema operativo iOS; sin embargo, aún no se dan cuenta con los dispositivos, por lo que las pruebas se deberán correrse en un emulador para PC para que para no desfasar el proyecto.\n\n¿Cuál es la herramienta que se puede emplear para aprobarla?",
+        "options": [
+            {
+                "index": 0,
+                "text": "Apetito"
+            },
+            {
+                "index": 1,
+                "text": "Genimotion "
+            },
+            {
+                "index": 2,
+                "text": "Memi"
+            }
+        ],
+        "answer": {
+            "index": null,
+            "text": ""
+        },
+        "questionIndex": 15
+    }
+]

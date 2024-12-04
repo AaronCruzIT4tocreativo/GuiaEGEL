@@ -1,0 +1,122 @@
+[
+    {
+        "imageIndex": "32",
+        "index": 26,
+        "text": "Una empresa que se dedica a la fabricación de baños de vapor está inmersa en un proceso de transformación digital y para ello han surgido algunos requerimientos relacionados con el nuevo producto de software que se va a implementar.\n\n¿Cuál de los siguientes requerimientos forma parte de la visión del producto y del alcance del proyecto?",
+        "options": [
+            {
+                "index": 0,
+                "text": "Se propone utilizar programación orientada a objetos para resolver el control de clientes, creando una clase Cliente con atributos, métodos y constructores"
+            },
+            {
+                "index": 1,
+                "text": "Se debe contratar a un arquitecto de datos para la recopilación e integración de la información de clientes potenciales"
+            },
+            {
+                "index": 2,
+                "text": "Se recomienda usar una metodología Scrum para su facilidad de aprendizaje"
+            }
+        ],
+        "answer": {
+            "index": null,
+            "text": ""
+        },
+        "questionIndex": 32
+    },
+    {
+        "imageIndex": "32",
+        "index": 25,
+        "text": "En el proceso de compras de un sistema se deben realizar las siguientes transacciones: ingreso de la requisición, emisión de la solicitud de cotización y emisión de la orden de compra. Además, deben visualizarse los flujos de los procesos para identificar las áreas que necesitan mejoras o para destacar los sectores de eficiencia.\n\n¿Qué artefactos se necesita documentar de acuerdo con las especificaciones de requerimientos dadas?",
+        "options": [
+            {
+                "index": 0,
+                "text": "Casos de uso"
+            },
+            {
+                "index": 1,
+                "text": "Prototipo de interfaz de usuario"
+            },
+            {
+                "index": 2,
+                "text": "Diagrama de actividades"
+            }
+        ],
+        "answer": {
+            "index": null,
+            "text": ""
+        },
+        "questionIndex": 31
+    },
+    {
+        "imageIndex": "172",
+        "index": 31,
+        "text": "Una microempresa inicia un proyecto de desarrollo de una aplicación de intercambio de divisas para una casa de cambio que tiene sucursales en diferentes ciudades del mundo.\n\nSi desea tener el reconocimiento de mercado internacional, cuál es el estándar de calidad que debe utilizar",
+        "options": [
+            {
+                "index": 0,
+                "text": "ISO/IEC 29110"
+            },
+            {
+                "index": 1,
+                "text": "ITMark"
+            },
+            {
+                "index": 2,
+                "text": "Moprosoft"
+            }
+        ],
+        "answer": {
+            "index": null,
+            "text": ""
+        },
+        "questionIndex": 31
+    },
+    {
+        "imageIndex": "30",
+        "index": 24,
+        "text": "Un sistema web de pagos a terceros está sujeto constantemente a revisiones de seguridad para evitar fraudes; los fallos al sistema son revisados por medio de tickets que permiten confirmar transacciones que no fueron exitosas con los clientes o con las instituciones bancarias involucradas en la disposición de los recursos. Se tiene como objetivo cumplir el escenario de calidad para el atributo rendimiento:\n\nFuente = clientes\nEstímulo = 85 clientes simultáneamente\nEntorno = operación normal\nArtefacto = interfaz de usuario\nRespuesta = tiempo de respuesta\n\nEl estímulo de respuesta al estímulo especificado representa el tiempo en que...",
+        "options": [
+            {
+                "index": 0,
+                "text": "ocurren fallos"
+            },
+            {
+                "index": 1,
+                "text": "atiende un cliente"
+            },
+            {
+                "index": 2,
+                "text": "debe operar"
+            }
+        ],
+        "answer": {
+            "index": null,
+            "text": ""
+        },
+        "questionIndex": 30
+    },
+    {
+        "imageIndex": "171",
+        "index": 30,
+        "text": "La empresa TecnoVisión está desarrollando sistema de control administrativo para una inmobiliaria. La duración del proyecto es de 4 meses, con la colaboración de dos desarrolladores y un analista de datos. El cliente solicita que el proyecto se termine en un 1 mes antes de lo previsto, por lo que el líder de proyecto debe mostrar la diferentes alternativas para lograr cumplir con la reducción del tiempo de desarrollo que el cliente solicita.\n\n¿Qué métrica se requiere para calcular este proyecto?",
+        "options": [
+            {
+                "index": 0,
+                "text": "Variación del cronograma "
+            },
+            {
+                "index": 1,
+                "text": "Índice de desempeño del trabajo por completar (TCPI)"
+            },
+            {
+                "index": 2,
+                "text": "Ruta crítica"
+            }
+        ],
+        "answer": {
+            "index": null,
+            "text": ""
+        },
+        "questionIndex": 30
+    }
+]

@@ -1,0 +1,122 @@
+[
+    {
+        "imageIndex": "124-125",
+        "index": 73,
+        "text": "Una institución privada desarrollo una base de datos científica con diferentes áreas de conocimiento para que sus estudiantes descarguen información de acuerdo con sus necesidades. Se desea saber con qué frecuencia visitan ciertos contenidos y qué tan irrelevantes son (si tienen poca o mucha importancia los contenidos visitados).\n\n ¿Qué caso de prueba debe aplicarse?",
+        "options": [
+            {
+                "index": 0,
+                "text": "Repeticiones de Sesiones "
+            },
+            {
+                "index": 1,
+                "text": "Pruebas A/B"
+            },
+            {
+                "index": 2,
+                "text": "Mapas de calor"
+            }
+        ],
+        "answer": {
+            "index": null,
+            "text": ""
+        },
+        "questionIndex": 73
+    },
+    {
+        "imageIndex": "122-123",
+        "index": 72,
+        "text": "En una clínica dental con varios consultorios, los usuarios agendan citas mediante un sistema en línea. Al iniciar una jornada de trabajo, el sistema despliega las citas del día a cada médico. El sistema cuenta con dos componentes: \n 1. Gestor de citas encargado de agendar las citas y generar los reportes de citas.\n 2. SD_cita: encargado de la manipulación y consulta de datos de las citas en la base de datos.\nDetermine el diagrama HIPO que describe la interfaz Obtener_Bajo_Listado_Citas entre el Gestor de citas y SD_ cita",
+        "options": [
+            {
+                "index": 0,
+                "text": "$img$"
+            },
+            {
+                "index": 1,
+                "text": "$img$"
+            },
+            {
+                "index": 2,
+                "text": "$img$"
+            }
+        ],
+        "answer": {
+            "index": null,
+            "text": ""
+        },
+        "questionIndex": 72
+    },
+    {
+        "imageIndex": "120-121",
+        "index": 71,
+        "text": "En una página web dirigida a personas que desean aprender a programar, al intentar crear una cuenta de maestro aparece el siguiente error.\n\n$img$\n\n Considerando la heurística \"Ayuda a los usuarios a reconocer, diagnosticar y recuperarse de errores\",  ¿qué modificación se requiere para la correcta implementación de la cuenta de maestro?",
+        "options": [
+            {
+                "index": 0,
+                "text": "Colocar un botón que permita regresar al paso anterior e ilustrar el error en color rojo."
+            },
+            {
+                "index": 1,
+                "text": "Agregar al mensaje de las características que debe de tener un password válido."
+            },
+            {
+                "index": 2,
+                "text": "Mostrar el error junto al campo de contraseña."
+            }
+        ],
+        "answer": {
+            "index": null,
+            "text": ""
+        },
+        "questionIndex": 71
+    },
+    {
+        "imageIndex": "116-119",
+        "index": 70,
+        "text": "Se desea diseñar una aplicación (skill) para un asistente de voz que permita hacer pedidos de diferentes tipos de pizza.\n\n Si la intención (intent) es order_pizza, ¿cuál de las siguientes opciones indica el esquema de una expresión (utterance) válida que incluya un nombre de ranura (slot)?",
+        "options": [
+            {
+                "index": 0,
+                "text": "$img$"
+            },
+            {
+                "index": 1,
+                "text": "$img$"
+            },
+            {
+                "index": 2,
+                "text": "$img$"
+            }
+        ],
+        "answer": {
+            "index": null,
+            "text": ""
+        },
+        "questionIndex": 70
+    },
+    {
+        "imageIndex": "114-115",
+        "index": 69,
+        "text": "El equipo de desarrollo realiza el caso de uso \"editor de texto\". Esto debe contener una barra de menú y el área donde se escribirá la información. ¿Cómo se completa el código snippet que aplica el esquema de diseño de alta fidelidad? \n\nJFrame v = new JFrame (\"\");\nJMenuBar barraMenu= new JMenuBar();\nJTextArea areaTexto= new jTextArea();",
+        "options": [
+            {
+                "index": 0,
+                "text": "v.getContentPane().add(barra Menu, BorderLayout.NORTH);\n\nv.getContentPane().add(areaTexto, BorderLayout.CENTER);"
+            },
+            {
+                "index": 1,
+                "text": "v.getContentPane().add(barra Menu, FlowLayout.NORTH);\n\nv.getContentPane().add(area Texto, FlowLayout.CENTER);"
+            },
+            {
+                "index": 2,
+                "text": "v.getContentPane().add(barraMenu, GridLayout.NORTH);\n\nv.getContentPane().add(areaTexto, GridLayout.CENTER);"
+            }
+        ],
+        "answer": {
+            "index": null,
+            "text": ""
+        },
+        "questionIndex": 69
+    }
+]

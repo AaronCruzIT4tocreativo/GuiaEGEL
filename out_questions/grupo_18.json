@@ -1,0 +1,122 @@
+[
+    {
+        "imageIndex": "142-143",
+        "index": 7,
+        "text": "La red de servicios hospitalarios del país decide distribuir los datos de su base de datos a cada uno de los estados para una mayor velocidad de consulta. Se desea fragmentar las tablas 1 y 2, tomando como criterio el estado al cual se van a transferir.\n\nSi el primer estado que se le va a distribuir es Pue, ¿qué tipo de fragmentación se lleva a cabo en la tabla 3?\n\nTabla 1\n$img$\n\nTabla2\n$img$ \n\nTabla3\n$img$",
+        "options": [
+            {
+                "index": 0,
+                "text": "S/R"
+            },
+            {
+                "index": 1,
+                "text": "S/R"
+            },
+            {
+                "index": 2,
+                "text": "S/R"
+            }
+        ],
+        "answer": {
+            "index": null,
+            "text": ""
+        },
+        "questionIndex": 7
+    },
+    {
+        "imageIndex": "138-141",
+        "index": 6,
+        "text": "En una aseguradora de vehículos, cada vez que se presenta un accidente, el ajustador (código, nombre) acude para levantar un acta de incidente que incluye los datos del accidente (folio, lugar, fecha, hora, causante), de los vehículos involucrados (matrícula, modelo, color, estado, propietario, tipo_participación), de los conductores (id, nombre, versión), de los propietarios (id, nombre, versión), de la póliza de seguro (número, vigencia, cobertura) y de los posibles testigos (id, nombre, versión).\n¿Cuál de los siguientes esquemas representa correctamente la estructura de los datos en una base de datos orientada a grafos?",
+        "options": [
+            {
+                "index": 0,
+                "text": "$img$"
+            },
+            {
+                "index": 1,
+                "text": "$img$"
+            },
+            {
+                "index": 2,
+                "text": "$img$"
+            }
+        ],
+        "answer": {
+            "index": null,
+            "text": ""
+        },
+        "questionIndex": 6
+    },
+    {
+        "imageIndex": "134-137",
+        "index": 5,
+        "text": "Una empresa cuenta con un sistema que administra la información de su persona. La base de datos contiene estas tablas:\n\n$img$\n\n$img$\n\n La empresa tiene dos sucursales, en una se desarrollan las actividades propias de producción que únicamente requieren los datos personales de los trabajadores como parte de los registros y la otra, donde se llevan a cabo labores administrativas como el cálculo de la nómina. Para tener una respuesta más rápida del sistema en cada sucursal, el administrador de la base de datos ha decidido fragmentarla, quedando las tablas de este modo:\n\n$img$\n\n$img$\n\n ¿Qué tipo de fragmentación debe realizarse para generar ese resultado?",
+        "options": [
+            {
+                "index": 0,
+                "text": "Mixta"
+            },
+            {
+                "index": 1,
+                "text": "Horizontal "
+            },
+            {
+                "index": 2,
+                "text": "Vertical"
+            }
+        ],
+        "answer": {
+            "index": null,
+            "text": ""
+        },
+        "questionIndex": 5
+    },
+    {
+        "imageIndex": "130-133",
+        "index": 77,
+        "text": "En un taller mecánico un empleado (código, nombre) repara las averías (id, descripción) de un vehículo (matrícula, modelo, color) de una orden de servicio (numero, fecha_entrada, fecha_entrega).\n \nDetermine el registro que representa correctamente el diseño de datos",
+        "options": [
+            {
+                "index": 0,
+                "text": "$img$"
+            },
+            {
+                "index": 1,
+                "text": "$img$"
+            },
+            {
+                "index": 2,
+                "text": "$img$"
+            }
+        ],
+        "answer": {
+            "index": null,
+            "text": ""
+        },
+        "questionIndex": 4
+    },
+    {
+        "imageIndex": "128-129",
+        "index": 76,
+        "text": "El equipo de desarrollo se reunió para analizar la construcción de un algoritmo que prediga el contagio por coronavirus, basado en datos históricos. \n\n\"En este modelo se basa en ecuaciones diferenciales para describir la dinámica de los contagios en una población cerrada. Quienes las integran, van contagiándose a una determinada velocidad (V) y se convierten en infectados (I).  Tras un periodo de enfermedad activa, los que no fallecen pasan al estado de inmunes:  se han recuperado (R) y ya no contagiarán más.\"\n\n El lenguaje utilizado para el desarrollo es Java. Considerando las partes del modelo, determine las características que se deben tomar en cuenta para finalizar correctamente dicho algoritmo",
+        "options": [
+            {
+                "index": 0,
+                "text": "Algunas de las variables del modelo deben ser consideradas flotantes\n"
+            },
+            {
+                "index": 1,
+                "text": "Es suficiente considerar la variable del resultado del cálculo del modelo de tipo flotante\n"
+            },
+            {
+                "index": 2,
+                "text": "Todas las variables deben ser de tipo booleano y que correspondan de igual manera al resultado final"
+            }
+        ],
+        "answer": {
+            "index": null,
+            "text": ""
+        },
+        "questionIndex": 3
+    }
+]

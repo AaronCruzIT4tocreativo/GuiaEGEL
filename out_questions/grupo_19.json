@@ -1,0 +1,50 @@
+[
+    {
+        "imageIndex": "128",
+        "index": 75,
+        "text": "En una comercializadora de abarrotes al mayoreo se dispone de una base de datos relacional con estas especificaciones: tres entidades, una tabla llamada \"Clientes\",  indexada por medio de una llave primaria a la tabla \"Pedidos\" que, a su vez, se relaciona con la tabla \"Productos\"\n\n¿Qué elemento de la base de datos relacional representa el costo unitario de los productos?",
+        "options": [
+            {
+                "index": 0,
+                "text": "Atributo"
+            },
+            {
+                "index": 1,
+                "text": "Registro"
+            },
+            {
+                "index": 2,
+                "text": "Instancia"
+            }
+        ],
+        "answer": {
+            "index": null,
+            "text": ""
+        },
+        "questionIndex": 2
+    },
+    {
+        "imageIndex": "126",
+        "index": 74,
+        "text": "Una tienda de licores ha registrado en papel sus ventas diarias de los últimos 20 meses, pero requiere analizar algunas operaciones con los datos, como conocer las fechas de ventas más altas y bajas, y el promedio de ventas. Por este motivo necesita un programa que lea esa información y la almacene en memoria para obtener el resultado de las operaciones solicitadas de una forma sencilla.\n\n ¿Qué tipo de estructura de datos se requiere para este caso?",
+        "options": [
+            {
+                "index": 0,
+                "text": "Matriz "
+            },
+            {
+                "index": 1,
+                "text": "Arreglo "
+            },
+            {
+                "index": 2,
+                "text": "Cola"
+            }
+        ],
+        "answer": {
+            "index": null,
+            "text": ""
+        },
+        "questionIndex": 1
+    }
+]

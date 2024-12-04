@@ -1,0 +1,122 @@
+[
+    {
+        "imageIndex": "40",
+        "index": 31,
+        "text": "En época de elecciones se ha pedido a la autoridad encargada de la legalidad del proceso que genere un portal web con una aplicación que permita a la ciudadanía ubicar la casilla que les corresponde para emitir su voto, por medio de La búsqueda del nombre, el código postal, la colonia de procedencia o algún otro dato que conozcan. Se tiene que considerar la compatibilidad con los distintos dispositivos (teléfonos, tabletas o computadoras) y la amplia gama de sistemas operativos desde los que se puede conectar el usuario.\n\n¿Cuál es el requisito funcional de usuario que se relaciona con el planteamiento?",
+        "options": [
+            {
+                "index": 0,
+                "text": "Ser fácil de utilizar"
+            },
+            {
+                "index": 1,
+                "text": "Registrar datos del usuario"
+            },
+            {
+                "index": 2,
+                "text": "Indicar cómo llegar al destino"
+            }
+        ],
+        "answer": {
+            "index": null,
+            "text": ""
+        },
+        "questionIndex": 37
+    },
+    {
+        "imageIndex": "177-180",
+        "index": 36,
+        "text": "Una empresa utiliza RUP como método de desarrollo de software. El cliente ha definido las funcionalidades del sistema, entre ellas que cuando un usuario ingrese y no esté registrado en el sistema, pueda registrarse. Se necesita verificar que el documento de requerimientos cumpla con lo que el cliente ha establecido. \n\n\n De acuerdo con la gestión de la calidad en la disciplina de requisitos y los artefactos de requisitos para construir coherencia (entre estándares de artefacto y otros artefactos), determine el caso de uso que garantiza la calidad del producto",
+        "options": [
+            {
+                "index": 0,
+                "text": "$img$"
+            },
+            {
+                "index": 1,
+                "text": "$img$"
+            },
+            {
+                "index": 2,
+                "text": "$img$"
+            }
+        ],
+        "answer": {
+            "index": null,
+            "text": ""
+        },
+        "questionIndex": 36
+    },
+    {
+        "imageIndex": "39",
+        "index": 30,
+        "text": "En una aplicación móvil para una tienda de autoservicio, el usuario escanea el código de producto y así se va generando su ticket de salida, para ahorrar tiempo al momento del cobro. Se ha decidido incorporar nuevas funcionalidades a la aplicación, entre ellas, qué se pueden integrar las frutas y verduras a los registros, lo cual implica usar el celular de los clientes como báscula.\n\nLos puntos indispensables que debe llevar a cabo el control de cambio de este requerimiento son _, _ y _.",
+        "options": [
+            {
+                "index": 0,
+                "text": "usuario solicita - esfuerzo - tiempo"
+            },
+            {
+                "index": 1,
+                "text": "análisis funcional - usuario solicita - tiempo"
+            },
+            {
+                "index": 2,
+                "text": "análisis funcional - costo - tiempo"
+            }
+        ],
+        "answer": {
+            "index": null,
+            "text": ""
+        },
+        "questionIndex": 36
+    },
+    {
+        "imageIndex": "176",
+        "index": 35,
+        "text": "Un equipo desarrolla un sistema que cuenta con 10,000 líneas de código, el esfuerzo ha sido de 50 p* m y  se ha detectado 20 errores. Calcule el porcentaje de calidad del producto",
+        "options": [
+            {
+                "index": 0,
+                "text": "0.2%"
+            },
+            {
+                "index": 1,
+                "text": "40.0%"
+            },
+            {
+                "index": 2,
+                "text": "99.8%"
+            }
+        ],
+        "answer": {
+            "index": null,
+            "text": ""
+        },
+        "questionIndex": 35
+    },
+    {
+        "imageIndex": "38",
+        "index": 29,
+        "text": "Un programa social gubernamental de alcance nacional va a iniciar y requiere garantizar el acceso masivo de solicitudes a una plataforma web. Como los requisitos para los aspirantes al programa son extensos, se piensa que habrá una gran cantidad de usuarios en los días finales de la convocatoria con el riesgo de que la plataforma colapse por saturación. Existen alternativas tecnológicas para evitar este problema pero tiene un alto costo.\n\n¿Qué técnica de gestión de riesgos debe emplearse para determinar aquella alternativa que equilibra la relación costo-beneficio?",
+        "options": [
+            {
+                "index": 0,
+                "text": "Evaluación del riesgo global del proyecto"
+            },
+            {
+                "index": 1,
+                "text": "Proyección del riesgo"
+            },
+            {
+                "index": 2,
+                "text": "Refinamiento del riesgo"
+            }
+        ],
+        "answer": {
+            "index": null,
+            "text": ""
+        },
+        "questionIndex": 35
+    }
+]

@@ -1,0 +1,122 @@
+[
+    {
+        "imageIndex": "3",
+        "index": 3,
+        "text": "Una vez que se autoriza el desarrollo de una aplicación móvil para el control de las unidades de reparto de una empresa, se solicita al Área de Sistemas que se elabore el cronograma de trabajo determinando el menor tiempo posible de entrega, ya que será un desarrollo prioritario para la empresa. ¿Qué aspecto se debe revisar para poder elaborarlo?",
+        "options": [
+            {
+                "index": 0,
+                "text": "Proyectos en cartera"
+            },
+            {
+                "index": 1,
+                "text": "Lenguaje de programación"
+            },
+            {
+                "index": 2,
+                "text": "Infraestructura para el desarrollo"
+            }
+        ],
+        "answer": {
+            "index": null,
+            "text": ""
+        },
+        "questionIndex": 9
+    },
+    {
+        "imageIndex": "146",
+        "index": 9,
+        "text": "En una empresa de distribución se ha tomado la decisión de llevar los datos a la nube, por lo cual se resolvió que toda descarga de archivos debe tener un hash asociado para que el usuario que lo descargue lo valide de forma inmediata.\n\n¿Qué principio de seguridad se utiliza en la descarga de archivos?",
+        "options": [
+            {
+                "index": 0,
+                "text": "Disponibilidad "
+            },
+            {
+                "index": 1,
+                "text": "Integridad "
+            },
+            {
+                "index": 2,
+                "text": "Confidencialidad"
+            }
+        ],
+        "answer": {
+            "index": null,
+            "text": ""
+        },
+        "questionIndex": 9
+    },
+    {
+        "imageIndex": "2",
+        "index": 2,
+        "text": "En una empresa del sector asegurador se necesita calcular la tendencia de las primas de seguro y realizar un pronóstico de su comportamiento para los siguientes 24 meses, usando gráficas, sin invertir tiempo programando el cálculo de las tendencias y los pronósticos ni comprando ningún componente adicional.\n\n¿Qué lenguaje de programación se requiere?",
+        "options": [
+            {
+                "index": 0,
+                "text": "Python"
+            },
+            {
+                "index": 1,
+                "text": "Java"
+            },
+            {
+                "index": 2,
+                "text": "C++"
+            }
+        ],
+        "answer": {
+            "index": 0,
+            "text": "Python"
+        },
+        "questionIndex": 8
+    },
+    {
+        "imageIndex": "144-145",
+        "index": 8,
+        "text": "El encargado del Registro Civil de una ciudad desea filtrar en un archivo el número del libro, el nombre, la fecha de nacimiento y el género de las personas registradas ahí, y algunos datos estadísticos por libro. Se desea respetar la confidencialidad de la información filtrada, por lo que se ha creado un archivo que pueda leer la información y mostrarla al encargado de forma entendible. Sin este programa, cuando alguien abra el archivo de forma directa, no podrá visualizar la información. \n\n¿Qué tipo de archivo se requiere utilizar?",
+        "options": [
+            {
+                "index": 0,
+                "text": "De texto con flujos de bytes"
+            },
+            {
+                "index": 1,
+                "text": "De texto con flujos de caracteres"
+            },
+            {
+                "index": 2,
+                "text": "Binario "
+            }
+        ],
+        "answer": {
+            "index": null,
+            "text": ""
+        },
+        "questionIndex": 8
+    },
+    {
+        "imageIndex": "1",
+        "index": 1,
+        "text": "Un equipo de desarrollo con distintos recursos operacionales Crea una aplicación para venta de cuadros de una galería. Los dueños piden que pueda ser utilizada en celulares y tabletas con el mejor rendimiento.\n\n¿Cuál es un requerimiento que corresponde a la necesidad planteada?",
+        "options": [
+            {
+                "index": 0,
+                "text": "La aplicación será desarrollada para sistemas operativos nativos"
+            },
+            {
+                "index": 1,
+                "text": "La aplicación será desarrollada de forma híbrida"
+            },
+            {
+                "index": 2,
+                "text": "La aplicación será desarrollada utilizando HTML5"
+            }
+        ],
+        "answer": {
+            "index": 3,
+            "text": "La aplicación será desarrollada utilizando HTML5"
+        },
+        "questionIndex": 7
+    }
+]

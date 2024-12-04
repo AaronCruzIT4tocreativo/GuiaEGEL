@@ -1,0 +1,122 @@
+[
+    {
+        "imageIndex": "175",
+        "index": 34,
+        "text": "Calidrax desarrolla  un software para el control de contratos en compra  de suministros, el Departamento de Calidad tiene que validar en dónde se encuentra el error, documentar la revisión, inspeccionar para identificar las fallas y tener el registro de incidencias. Es necesario realizar las anotaciones pertinentes con identificación de defectos en el sistema.\n\n¿Cuál es el método que tiene que implementar el departamento de calidad?",
+        "options": [
+            {
+                "index": 0,
+                "text": "Revisiones de desempeño "
+            },
+            {
+                "index": 1,
+                "text": "Hojas de verificación "
+            },
+            {
+                "index": 2,
+                "text": "Listas de verificación"
+            }
+        ],
+        "answer": {
+            "index": null,
+            "text": ""
+        },
+        "questionIndex": 34
+    },
+    {
+        "imageIndex": "37",
+        "index": 28,
+        "text": "Una empresa de desarrollo informático está escalando su producción de software, por lo que debe mejorar la gestión de sus procesos. En lo concerniente a la gestión de requerimientos, actualmente usa MS Office y desea migrar a otra herramienta; sin embargo, se ha contemplado que la principal restricción para ello es que es necesario que esta sea de uso libre y accesible, vía plataforma web.\n\nCon base en el contexto, ¿Qué herramienta de gestión de desarrollo debe elegirse?",
+        "options": [
+            {
+                "index": 0,
+                "text": "REM Software"
+            },
+            {
+                "index": 1,
+                "text": "JAMA Software"
+            },
+            {
+                "index": 2,
+                "text": "DRES"
+            }
+        ],
+        "answer": {
+            "index": null,
+            "text": ""
+        },
+        "questionIndex": 34
+    },
+    {
+        "imageIndex": "174",
+        "index": 33,
+        "text": "La empresa Teknei desarrolla un software para la administración de un servicio de transporte público de autobuses en una ciudad donde debe controlar recorridos por camiones, cobro por usuario estación con mayor demanda estación con menor demanda, tiempo de recorrido, etcétera. El sistema presenta un error en el código ya que no está ejecutando la instrucción correcta para que se contabilice de manera adecuada el cobro por usuario y se vaya sumando para que nos arroje el total de los ingresos al día.\n\n¿Cuál técnica se requiere para resolver el problema?",
+        "options": [
+            {
+                "index": 0,
+                "text": "Depuración"
+            },
+            {
+                "index": 1,
+                "text": "Bitácora "
+            },
+            {
+                "index": 2,
+                "text": "Guías y estándares de programación"
+            }
+        ],
+        "answer": {
+            "index": null,
+            "text": ""
+        },
+        "questionIndex": 33
+    },
+    {
+        "imageIndex": "33-36",
+        "index": 27,
+        "text": "Una empresa desarrolla un sistema de citas para un consultorio médico y utiliza RUP como método de desarrollo. El cliente pide que tanto el asistente del consultorio como los pacientes puedan agendar las consultas en los horarios disponibles y derivado de esto, cancelar o reagendar citas. Cuando un paciente llegue a su cita médica, la asistente debe acreditar su asistencia.\n\n¿Qué diagrama de casos de uso corresponde a la documentación de requerimientos?",
+        "options": [
+            {
+                "index": 0,
+                "text": "$img$"
+            },
+            {
+                "index": 1,
+                "text": "$img$"
+            },
+            {
+                "index": 2,
+                "text": "$img$"
+            }
+        ],
+        "answer": {
+            "index": null,
+            "text": ""
+        },
+        "questionIndex": 33
+    },
+    {
+        "imageIndex": "173",
+        "index": 32,
+        "text": "Un equipo, desarrollo en sistema de incorporación transaccional, utilizando una metodología de desarrollo RUP. Con base en los requisitos funcionales y el análisis de sistema, se estimado una duración de 10 meses, durante los cuales será implementado por cinco programadores quienes cobran $1,500 por día. Sin embargo, el cliente ha solicitado un tiempo de 9 meses para la terminación del proyecto.\n\n¿Qué método permite identificar los ajustes requeridos por cumplir con la solicitud del cliente?",
+        "options": [
+            {
+                "index": 0,
+                "text": "Variación del cronograma "
+            },
+            {
+                "index": 1,
+                "text": "Índice de desempeño del cronograma"
+            },
+            {
+                "index": 2,
+                "text": "Ruta crítica"
+            }
+        ],
+        "answer": {
+            "index": null,
+            "text": ""
+        },
+        "questionIndex": 32
+    }
+]

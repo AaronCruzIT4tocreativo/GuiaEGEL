@@ -1,0 +1,122 @@
+[
+    {
+        "imageIndex": "168",
+        "index": 27,
+        "text": "El análisis de viabilidad de un proyecto para un corporativo financiero indica que el principal aspecto por considerar son los problemas de seguridad. Una alternativa de solución para la ejecución del proyecto es el desarrollo de un software bancario, cuya característica más importante debe ser la resistencia de los ataques accidentales o intencionales que podrían hacerse en los programas, datos y documentación.\n\nLa acción que sigue para ejecutar el proyecto es definirlas las ___ por utilizar",
+        "options": [
+            {
+                "index": 0,
+                "text": "métricas de contenido"
+            },
+            {
+                "index": 1,
+                "text": "métricas de calidad "
+            },
+            {
+                "index": 2,
+                "text": "métricas de proceso"
+            }
+        ],
+        "answer": {
+            "index": null,
+            "text": ""
+        },
+        "questionIndex": 27
+    },
+    {
+        "imageIndex": "21",
+        "index": 20,
+        "text": "En el desarrollo de un proyecto de software trabajan varios programadores a la vez debido a su complejidad. Una vez aprobado un cambio, siguen teniendo acceso en paralelo a un mismo código, pero no cuentan con un controlador de versiones que integra el control de acceso y de sincronización.\n\nEn el escenario anterior, se recomienda implementar el controlador de versiones con el fin de...",
+        "options": [
+            {
+                "index": 0,
+                "text": "Dar acceso al código para la modificación"
+            },
+            {
+                "index": 1,
+                "text": "Bloquear el objeto de código por modificar"
+            },
+            {
+                "index": 2,
+                "text": "Bloquear el acceso y el objeto de código"
+            }
+        ],
+        "answer": {
+            "index": null,
+            "text": ""
+        },
+        "questionIndex": 26
+    },
+    {
+        "imageIndex": "167",
+        "index": 26,
+        "text": "Un desarrollo de software de inteligencia artificial para el reconocimiento de patrones debe tener un atributo de exactitud, bajo acoplamiento y alta cohesión, por lo que se debe considerar el riesgo de incluir módulos en el sistema que no cumplan con lo solicitado.\n\nLa siguiente tabla muestra los posibles riesgos:\n\n$img$\n\n¿Cuál es la estimación de riesgo, si se aplica un análisis cuantitativo, al realizar la inspecciones en los módulos del sistema?",
+        "options": [
+            {
+                "index": 0,
+                "text": "$8,000"
+            },
+            {
+                "index": 1,
+                "text": "$15,000"
+            },
+            {
+                "index": 2,
+                "text": "$39,000"
+            }
+        ],
+        "answer": {
+            "index": null,
+            "text": ""
+        },
+        "questionIndex": 26
+    },
+    {
+        "imageIndex": "20",
+        "index": 19,
+        "text": "Se liberó una aplicación para el control de asistencia de los médicos en un hospital. Con los turnos previamente asignados se obtuvieron las siguientes historias de usuario para integrarse de forma inmediata a ella:\n    • H1. Como doctor responsable, necesito conocer al colega que no ha llegado al hospital, a fin de poder llamar a algún otro doctor que lo sopla y esté disponible para mantener el nivel de servicio del hospital.\n    • H2. Como administrador, requiero programar turnos adicionales para poder cubrir necesidades de atención a grupos vulnerables como parte de la responsabilidad civil del hospital.\n    • H3. Como doctor, necesito avisar en la aplicación mi hora de llegada para que el médico responsable sepa que voy atrasado y no se llame a ningún compañero.\n\nSe decidió considerar sólo una, por lo que se obtuvieron los siguientes valores de costo y beneficio que representan para el hospital cada historia de usuario:\n\n$img$\n\nConsiderando la técnica de costo beneficio, ¿Qué historia de usuario se debe implementar?",
+        "options": [
+            {
+                "index": 0,
+                "text": "H1"
+            },
+            {
+                "index": 1,
+                "text": "H2"
+            },
+            {
+                "index": 2,
+                "text": "H3"
+            }
+        ],
+        "answer": {
+            "index": null,
+            "text": ""
+        },
+        "questionIndex": 25
+    },
+    {
+        "imageIndex": "166",
+        "index": 25,
+        "text": "Una empresa de desarrollo de software trabaja en la creación de un sistema para el control de una línea de ensamble de una planta automotriz.\n\nTeniendo en cuenta el modelo Cocomo ll, y que dicho sistema tendrá un tamaño de 20KLDC, una constante de esfuerzo de 2.8 debido a la alta complejidad del proyecto y un factor exponencial de 1.2, ¿cuál es el esfuerzo requerido en personas-mes, para atender con éxito dicho proyecto?",
+        "options": [
+            {
+                "index": 0,
+                "text": "33.4 persona-mes"
+            },
+            {
+                "index": 1,
+                "text": "66.8 persona-mes"
+            },
+            {
+                "index": 2,
+                "text": "101.94 persona-mes"
+            }
+        ],
+        "answer": {
+            "index": null,
+            "text": ""
+        },
+        "questionIndex": 25
+    }
+]

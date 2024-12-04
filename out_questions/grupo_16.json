@@ -1,0 +1,122 @@
+[
+    {
+        "imageIndex": "151-152",
+        "index": 12,
+        "text": "En una empresa farmacéutica existe la necesidad de registrar los movimientos del almacén para llevar el control exacto de las existencias. De acuerdo con el último conteo de movimientos se efectúan alrededor de 5000 diarios.\n\n¿Qué tipo de procesamiento resuelve la problemática planteada?",
+        "options": [
+            {
+                "index": 0,
+                "text": "OLAP"
+            },
+            {
+                "index": 1,
+                "text": "OLTP"
+            },
+            {
+                "index": 2,
+                "text": "Consulta histórica"
+            }
+        ],
+        "answer": {
+            "index": null,
+            "text": ""
+        },
+        "questionIndex": 12
+    },
+    {
+        "imageIndex": "5",
+        "index": 5,
+        "text": "Un sitio web de una tienda en línea sufrió un ataque recientemente, mediante el método de inyección SQL, el cual corrompió algunos datos de los productos. Afortunadamente el daño no fue extenso y pudo repararse de forma rápida por medio de una copia de respaldo; sin embargo, se debe prevenir está vulnerabilidad, por lo que se definió un requerimiento para establecer medidas preventivas contra ataques por inyección de código.\n\nCon la interpretación de este requerimiento de seguridad, ¿Qué medidas deben implementarse?",
+        "options": [
+            {
+                "index": 0,
+                "text": "Habilitar un servidor web espejo"
+            },
+            {
+                "index": 1,
+                "text": "Proteger las interfaces del sistema"
+            },
+            {
+                "index": 2,
+                "text": "Implementar un sistema de detección de intrusos"
+            }
+        ],
+        "answer": {
+            "index": 1,
+            "text": "Proteger las interfaces del sistema"
+        },
+        "questionIndex": 11
+    },
+    {
+        "imageIndex": "149-150",
+        "index": 11,
+        "text": "El equipo de desarrollo configurará un repositorio de código para utilizarlo Durante la etapa de construcción. El líder del equipo ha decidido mantener la integridad de la rama master.\n¿Cuál de las siguientes opciones permite tener un mejor control de versiones para el equipo de desarrollo?",
+        "options": [
+            {
+                "index": 0,
+                "text": "Mantener una rama para cada programador y configurar el merge en la rama master a través de pull request obligatorios"
+            },
+            {
+                "index": 1,
+                "text": "Generar una rama para cada programador y hacerlos colaboradores en el repositorio para tener acceso a la rama master "
+            },
+            {
+                "index": 2,
+                "text": "Generar un esquema de pruebas de integración en el equipo de desarrollo con un acceso a la rama Master"
+            }
+        ],
+        "answer": {
+            "index": null,
+            "text": ""
+        },
+        "questionIndex": 11
+    },
+    {
+        "imageIndex": "4",
+        "index": 4,
+        "text": "En un sistema de nómina de una empresa se detectaron varios accesos no autorizados y se determinó que se realizaron mediante crackers de contraseñas de usuarios activos, a pesar que se le solicita frecuentemente al usuario adoptar prácticas que reduzcan riesgos derivados del mal uso de contraseñas y su establecimiento se controla por software. Por tal motivo, se le solicita al Área de Sistemas que se apliquen otros mecanismos que queden aprobados y establecidos en las políticas informáticas de la empresa.\n\n¿Qué requerimiento debe quedar integrado en las políticas informáticas de la empresa para mitigar el riesgo detectado?",
+        "options": [
+            {
+                "index": 0,
+                "text": "Utilizar contraseñas seguras y cambiarlas periódicamente"
+            },
+            {
+                "index": 1,
+                "text": "Dar de baja cuentas sin acceso de acuerdo con periodos establecidos"
+            },
+            {
+                "index": 2,
+                "text": "Aplicar la autenticación multifactor en todos los sistemas"
+            }
+        ],
+        "answer": {
+            "index": 2,
+            "text": "Aplicar la autenticación multifactor en todos los sistemas"
+        },
+        "questionIndex": 10
+    },
+    {
+        "imageIndex": "147-148",
+        "index": 10,
+        "text": "De acuerdo con el responsable de desarrollo, se plantea la necesidad de implementar un sistema web que dentro de su funcionalidad permita una navegación intuitiva y que su desarrollo esté enfocado al front-end exclusivamente.\n\n¿Qué framework se requiere para conseguir estos dos objetivos planteados por el responsable?",
+        "options": [
+            {
+                "index": 0,
+                "text": "Bootstrap"
+            },
+            {
+                "index": 1,
+                "text": "React Native"
+            },
+            {
+                "index": 2,
+                "text": "Laravel"
+            }
+        ],
+        "answer": {
+            "index": null,
+            "text": ""
+        },
+        "questionIndex": 10
+    }
+]

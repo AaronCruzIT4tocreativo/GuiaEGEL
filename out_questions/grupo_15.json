@@ -1,0 +1,122 @@
+[
+    {
+        "imageIndex": "8",
+        "index": 8,
+        "text": "Una solución informática que se va a desarrollar debe determinar las preferencias de los usuarios de redes sociales con base en las noticias o los eventos que comparten o comentan, a fin de promover la comercialización de productos que se consideren de interés para ellos.\n\n¿Qué grupos de interés del desarrollo del proyecto son de utilidad para generar la información relativa a las preferencias que se esperan del usuario?",
+        "options": [
+            {
+                "index": 0,
+                "text": "Analistas y programadores"
+            },
+            {
+                "index": 1,
+                "text": "Comunicaciones y mercadotecnia"
+            },
+            {
+                "index": 2,
+                "text": "Usuarios finales y soporte técnico"
+            }
+        ],
+        "answer": {
+            "index": 2,
+            "text": "Usuarios finales y soporte técnico"
+        },
+        "questionIndex": 14
+    },
+    {
+        "imageIndex": "155",
+        "index": 14,
+        "text": "Se hicieron cambios a un sistema de venta de boletos que permitía hasta 500 usuarios, simultáneos para soportar 3000 usuarios; se desea validar cuál es la respuesta al procesar el ingreso de 500, 1500 y 3000 usuarios, de forma parametrizada. \n\nLa prueba que se debe efectuar, de acuerdo con el atributo de calidad solicitado, es la de…",
+        "options": [
+            {
+                "index": 0,
+                "text": "carga"
+            },
+            {
+                "index": 1,
+                "text": "estrés"
+            },
+            {
+                "index": 2,
+                "text": "rendimiento "
+            }
+        ],
+        "answer": {
+            "index": null,
+            "text": ""
+        },
+        "questionIndex": 14
+    },
+    {
+        "imageIndex": "7",
+        "index": 7,
+        "text": "La empresa Atom, S.A. está desarrollando un software. El cliente le especificó que uno de los requerimientos que desea es que este contenga una alta velocidad para comenzar a trabajar como elemento de alta importancia.\n\n¿Qué característica atiende el requerimiento señalado por el cliente?",
+        "options": [
+            {
+                "index": 0,
+                "text": "No ambigüedad"
+            },
+            {
+                "index": 1,
+                "text": "Priorizable"
+            },
+            {
+                "index": 2,
+                "text": "Verificable"
+            }
+        ],
+        "answer": {
+            "index": 1,
+            "text": "Priorizable"
+        },
+        "questionIndex": 13
+    },
+    {
+        "imageIndex": "153-154",
+        "index": 13,
+        "text": "En el desarrollo de un sistema para el ramo químico-bacteriológico, se está por entrar al al sprint que creará el programa de cálculo de resultados para cualquier fórmula química, por lo que se necesita asegurar que el componente esté optimizado en líneas de código y ninguna de las condiciones que se plantean llevan a un resultado no previsto.\n\n ¿Cuál es la técnica de prueba que se debe aplicar a la problemática planteada?",
+        "options": [
+            {
+                "index": 0,
+                "text": "Caja blanca "
+            },
+            {
+                "index": 1,
+                "text": "Caja negra "
+            },
+            {
+                "index": 2,
+                "text": "Top-down"
+            }
+        ],
+        "answer": {
+            "index": null,
+            "text": ""
+        },
+        "questionIndex": 13
+    },
+    {
+        "imageIndex": "6",
+        "index": 6,
+        "text": "Una zapatería contrató a un desarrollador para diseñar un software que permita llevar el control del inventario de sus tiendas. Una vez concluida la etapa de análisis, el cliente verificó con el desarrollador que todos los estados posibles, cambios de estado entradas, productos y restricciones estuvieran ya descritos en alguno de los requerimientos.\n\n¿A qué característica de los requerimientos corresponden estos elementos?",
+        "options": [
+            {
+                "index": 0,
+                "text": "Completitud"
+            },
+            {
+                "index": 1,
+                "text": "Correctitud"
+            },
+            {
+                "index": 2,
+                "text": "Factibilidad"
+            }
+        ],
+        "answer": {
+            "index": null,
+            "text": ""
+        },
+        "questionIndex": 12
+    }
+]

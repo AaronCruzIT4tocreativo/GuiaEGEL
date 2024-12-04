@@ -1,0 +1,122 @@
+[
+    {
+        "imageIndex": "27-29",
+        "index": 23,
+        "text": "Se requiere escribir historias de un usuario con perfil de viajero para diseñar una aplicación de reservación de vuelos.\n\n¿Qué historia es la más adecuada?",
+        "options": [
+            {
+                "index": 0,
+                "text": "Como viajero, quiero que el sistema me muestre en orden los vuelos más baratos de mis fechas disponibles."
+            },
+            {
+                "index": 1,
+                "text": "Cómo viajero, quiero saber cuáles son los destinos más baratos a partir de mi lugar de origen en mis fechas disponibles, para decidir dónde ir de vacaciones"
+            },
+            {
+                "index": 2,
+                "text": "Cómo usuario, quiero saber cuáles son los destinos más baratos para poder seleccionarlos desde un menú desplegable"
+            }
+        ],
+        "answer": {
+            "index": null,
+            "text": ""
+        },
+        "questionIndex": 29
+    },
+    {
+        "imageIndex": "170",
+        "index": 29,
+        "text": "En una empresa de transporte se desarrolló un sistema para el pago por medio de tarjeta, el cual tendrá que validar 25 procesos por un máximo de 3 segundos para dar acceso al usuario. El sistema está presentado problemas ya que en ocasiones el sistema tiene un atraso hasta de 30 segundos. Asumiendo que la conexión de Internet funciona correctamente y tiene una velocidad estándar en el mercado, se requiere identificar el problema raíz.\n\n¿Cuál es la métrica a implementar?",
+        "options": [
+            {
+                "index": 0,
+                "text": "Reporte de tiempo de respuesta al cliente"
+            },
+            {
+                "index": 1,
+                "text": "Reporte de throughput"
+            },
+            {
+                "index": 2,
+                "text": "Reporte de errores encontrados por línea de código  "
+            }
+        ],
+        "answer": {
+            "index": null,
+            "text": ""
+        },
+        "questionIndex": 29
+    },
+    {
+        "imageIndex": "24-26",
+        "index": 22,
+        "text": "Se desea documentar los casos de uso de una aplicación móvil para compartir auto.\n\n¿Cuál diagrama modelo correctamente el caso de uso para este sistema?",
+        "options": [
+            {
+                "index": 0,
+                "text": "$img$"
+            },
+            {
+                "index": 1,
+                "text": "$img$"
+            },
+            {
+                "index": 2,
+                "text": "$img$"
+            }
+        ],
+        "answer": {
+            "index": null,
+            "text": ""
+        },
+        "questionIndex": 28
+    },
+    {
+        "imageIndex": "169",
+        "index": 28,
+        "text": "Se tiene que un requerimiento de un sistema web complejo y con tiempos muy acotados, que de acuerdo con el contrato será penalizado con 18% del costo total del proyecto establecido en $250,000, en caso de accederse hasta 15 días de fecha límite. Derivado de la alta rotación de los líderes de proyecto con experiencia que existe en la consultoría para este tipo de desarrollos, se tiene identificado el riesgo de qué se retrase la conclusión del proyecto hasta semana y media más el tiempo estimado, y con base en los movimientos del personal que se ha tenido de los en el último año, la probabilidad de qué el proyecto se pueda retrasar hasta 10 días, es de15%.\n\nLa consultoría utilizada la matriz de calificación, evaluación y respuesta al riesgo, a la cual desea integrar el riesgo existente en este proyecto. Determine el resultado del cálculo.",
+        "options": [
+            {
+                "index": 0,
+                "text": "$6,750"
+            },
+            {
+                "index": 1,
+                "text": "$37,500"
+            },
+            {
+                "index": 2,
+                "text": "$45,000"
+            }
+        ],
+        "answer": {
+            "index": null,
+            "text": ""
+        },
+        "questionIndex": 28
+    },
+    {
+        "imageIndex": "23",
+        "index": 21,
+        "text": "Una empresa de desarrollo de software debe implementar un sistema informático de gestión de tutorías para una reconocida universidad. Entre los requisitos del cliente se incluye que contenga un dashboard con información obtenida del sistema externo de servicios escolares desarrollado con enfoque orientado a objetos. Por otro lado, también debe apegarse a proceso existente, ya que este se encuentra certificado. Indique el lenguaje de modelado por utilizar para construir y documentar el sistema de forma gráfica, de acuerdo con los requerimientos establecidos.",
+        "options": [
+            {
+                "index": 0,
+                "text": "UML (Unified Modeling Language)"
+            },
+            {
+                "index": 1,
+                "text": "BPMN (Business Processing Modeling Notation)"
+            },
+            {
+                "index": 2,
+                "text": "EMF (Eclipse Modeling Framework)"
+            }
+        ],
+        "answer": {
+            "index": null,
+            "text": ""
+        },
+        "questionIndex": 27
+    }
+]

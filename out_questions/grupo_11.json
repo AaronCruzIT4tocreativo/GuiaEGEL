@@ -1,0 +1,122 @@
+[
+    {
+        "imageIndex": "19",
+        "index": 18,
+        "text": "Para el desarrollo de un sitio web para licitaciones gubernamentales, se ha visto que la forma adecuada de construcción es mediante iteraciones, debido a que para el cliente es fácil determinar cuáles requerimientos se deben realizar, cuáles podrían hacerse, cuáles deberían estar y cuáles se pueden dejar para otra iteración.\n\nDesde la complejidad en cada iteración, ¿Qué herramienta de priorización y validación de requerimientos se requiere?",
+        "options": [
+            {
+                "index": 0,
+                "text": "In Vision"
+            },
+            {
+                "index": 1,
+                "text": "Axure RP"
+            },
+            {
+                "index": 2,
+                "text": "Proto.io"
+            }
+        ],
+        "answer": {
+            "index": null,
+            "text": ""
+        },
+        "questionIndex": 24
+    },
+    {
+        "imageIndex": "165",
+        "index": 24,
+        "text": "El área de sistemas de una empresa requiere desarrollar un proyecto que va a trabajar con Oracle para la base de datos en un servidor de dos procesadores y versión de Oracle gratuita para el servidor de pruebas, así como un servidor web HTTP con Oracle web Logic. El licenciamiento requerido es nominal hasta para 30 usuarios concurrentes, en el caso de Oracle data Base Enterprise Edition y se contará con una infraestructura de producción replicada en tiempo real, para asegurar la continuidad de operaciones en el caso de falla.\nEl costo de licenciamiento de Oracle Database Enterprise Edition (25 Usuarios Nominales Plus por cada procesador) es de $80,000 y el de Oracle WebLogic de $30,000.\n\nDetermine el costo del licenciamiento del proyecto",
+        "options": [
+            {
+                "index": 0,
+                "text": "$190,000"
+            },
+            {
+                "index": 1,
+                "text": "$220,000"
+            },
+            {
+                "index": 2,
+                "text": "$380,000"
+            }
+        ],
+        "answer": {
+            "index": null,
+            "text": ""
+        },
+        "questionIndex": 24
+    },
+    {
+        "imageIndex": "18",
+        "index": 17,
+        "text": "Un equipo desarrolla una aplicación web de venta de boletos para conciertos, luego de la revisión con el cliente se pide que el sistema tenga un control del acceso, que sea más rápido, qué puede responder ante fallos o caídas de la red y que haya un respaldo cada 24 horas. Derivado de esto, se deben revisar los requisitos para verificar que su especificación cumpla con las características de un requerimiento excelente.\n\n¿Qué requerimiento no funcional anteriormente mencionado incumple con la característica de no ambigüedad?",
+        "options": [
+            {
+                "index": 0,
+                "text": "El sistema debe de tener un control de acceso"
+            },
+            {
+                "index": 1,
+                "text": "El sistema debe ser más rápido"
+            },
+            {
+                "index": 2,
+                "text": "El sistema debe responder ante fallos o caídas de la red"
+            }
+        ],
+        "answer": {
+            "index": null,
+            "text": ""
+        },
+        "questionIndex": 23
+    },
+    {
+        "imageIndex": "164",
+        "index": 23,
+        "text": "La empresa Design debe desarrollar un sistema para control de ventas e inventarios para el cual contra dos desarrolladores y un analista por 2 meses. La compañía hizo un proyecto similar, hace 1 año y el costo por día fue de $530 para los desarrolladores y $350 para analistas, trabajando 8 horas por dos meses, sólo en días hábiles.\n\nUtilizando la herramienta de estimación análoga, calcula el costo en el recurso humano para este proyecto.",
+        "options": [
+            {
+                "index": 0,
+                "text": "$56,400"
+            },
+            {
+                "index": 1,
+                "text": "$78,960"
+            },
+            {
+                "index": 2,
+                "text": "631,680"
+            }
+        ],
+        "answer": {
+            "index": null,
+            "text": ""
+        },
+        "questionIndex": 23
+    },
+    {
+        "imageIndex": "17",
+        "index": 16,
+        "text": "Una institución dedicada a los servicios de salud desea obtener una certificación internacional en el área de calidad de software, por lo que requiere la validación y verificación de sus procesos informáticos y de los sistemas automatizados que controlan los diferentes programas y aplicaciones que usan. En la primera etapa la autoridad competente le solicitó a la institución revisar documentación del software que utiliza y los manuales de procedimiento de los procesos para verificar el cumplimiento de ciertos estándares.\n\n¿Qué técnica de validación de requerimientos se debe aplicar para obtener la certificación?",
+        "options": [
+            {
+                "index": 0,
+                "text": "Auditoría"
+            },
+            {
+                "index": 1,
+                "text": "Pruebas"
+            },
+            {
+                "index": 2,
+                "text": "Simulación"
+            }
+        ],
+        "answer": {
+            "index": null,
+            "text": ""
+        },
+        "questionIndex": 22
+    }
+]
