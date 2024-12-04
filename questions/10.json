@@ -1,0 +1,26 @@
+[
+  {
+    "imageName": "49",
+    "imageIndex": "58-61",
+    "index": 49,
+    "text": "Un distribuidor de productos tecnológicos va a implementar un nuevo sistema para administrar su negocio, con los siguientes elementos:\n    • Módulo de clientes. En dicho bloque se gestionarán los datos de clientes y medios de pago\n    • Módulo de ventas. Serán encargados de administrar las compras que realizan los clientes\n    • Módulo de proveedores. Se administrarán sus contactos y las adquisiciones hechas con cada uno de ellos\n    • Módulo de facturación. Emitirá y administrará las facturas electrónicas tanto para clientes como para las recepciones por parte de los proveedores\n\n¿Qué diagrama representa la arquitectura basada en dichos módulos?",
+    "options": [
+      {
+        "index": 0,
+        "text": "$img$"
+      },
+      {
+        "index": 1,
+        "text": "$img$"
+      },
+      {
+        "index": 2,
+        "text": "$img$"
+      }
+    ],
+    "answer": {
+      "index": null,
+      "text": ""
+    }
+  }
+]

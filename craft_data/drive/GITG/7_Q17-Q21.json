@@ -1,0 +1,122 @@
+[
+  {
+    "imageName": "17",
+    "imageIndex": "158",
+    "index": 17,
+    "text": "En un hospital para niños con cáncer se requiere de una aplicación para registrar el estado de ánimo de aquellos que van a entrar a un procedimiento; por medio de una encuesta con animaciones se explicará a cada uno de ellos el tipo de preguntas. La mayoría de los niños por encuestar se encuentra en la cama y no se puede desplazar.\n\n¿Qué tipo de plataforma de desarrollo se requiere? \n",
+    "options": [
+      {
+        "index": 0,
+        "text": "De escritorio "
+      },
+      {
+        "index": 1,
+        "text": "Embebido "
+      },
+      {
+        "index": 2,
+        "text": "Móvil"
+      }
+    ],
+    "answer": {
+      "index": null,
+      "text": ""
+    }
+  },
+  {
+    "imageName": "18",
+    "imageIndex": "159",
+    "index": 18,
+    "text": "Se han contratado los servicios de un ingeniero de software para documentar una API que se liberará en una semana. Debido a que el líder de proyecto responsable renunció y no dejó nada documentado, se revisaron los programas y se encontró que todas las clases sin excepción, tienen los identificadores en el inicio: @autor,@deprecated,@param,@return,@see,@versión. Es necesario que la documentación sea generada en HTML. \n\n¿Cuál es la herramienta necesaria para generar documentación de acuerdo con lo planteado?",
+    "options": [
+      {
+        "index": 0,
+        "text": "DocFX"
+      },
+      {
+        "index": 1,
+        "text": "JavaDoc"
+      },
+      {
+        "index": 2,
+        "text": "Docxgen"
+      }
+    ],
+    "answer": {
+      "index": null,
+      "text": ""
+    }
+  },
+  {
+    "imageName": "19",
+    "imageIndex": "160",
+    "index": 19,
+    "text": "Un sistema de rastreo, dentro de un centro de tutorías para estudiantes, se accede mediante una aplicación web; en este, los estudiantes o sus \ntutores pueden registrar su ingreso o salida. El centro de tutorías puede rastrear la asistencia, las actualizaciones de estado y, además, pueden registrar información de contacto para tutores y estudiantes. Asimismo, se probó cuando fuera aumentando el número de usuarios (Estudiantes y tutores) no disminuyera la velocidad y tampoco la cantidad de tráfico en la red.\n\n¿Qué artefacto permite documentar los resultados de las pruebas en la aplicación web?",
+    "options": [
+      {
+        "index": 0,
+        "text": "Formulario de carta de aceptación"
+      },
+      {
+        "index": 1,
+        "text": "Formulario de instrucciones de entrega"
+      },
+      {
+        "index": 2,
+        "text": "Matriz de seguimiento de requerimientos"
+      }
+    ],
+    "answer": {
+      "index": null,
+      "text": ""
+    }
+  },
+  {
+    "imageName": "20",
+    "imageIndex": "161",
+    "index": 20,
+    "text": "Un equipo de trabajo requiere desarrollar una aplicación Movil, multi plataforma( iOS, Android, Windows Phone en C# y .NET) para ayudar a los pacientes diabéticos a calcular las dosis de insulina antes de la ingesta diaria de los alimentos. El cálculo se realiza con base en el conteo de carbohidratos, el nivel de glucosa actual y otros parámetros. Adicionalmente, se ha pedido que la aplicación conserve el aspecto y comportamiento inherentes a cada tipo de dispositivo móvil. \n\n¿Cuál de las siguientes plataformas se requiere para desarrollar la aplicación?",
+    "options": [
+      {
+        "index": 0,
+        "text": "Knockout"
+      },
+      {
+        "index": 1,
+        "text": "Ionic"
+      },
+      {
+        "index": 2,
+        "text": "Xamarin"
+      }
+    ],
+    "answer": {
+      "index": null,
+      "text": ""
+    }
+  },
+  {
+    "imageName": "21",
+    "imageIndex": "162",
+    "index": 21,
+    "text": "Se implementará un desarrollo web para una empresa de la industria planificadora. En ese sentido, el requerimiento es administrar las ventas en la línea de sus productos. Asimismo, el servidor propio para la empresa debe contar con las siguientes características: \n\nprocesador Intel Xeon(ocho núcleos)\n\nDisco duro 2 × 1 TB en RAID 1 \n\nMemoria RAM de 8 GB.\n\nControl de puerto.\n\nSistema operativo Linux.\n\nPor otra parte, se lleva a cabo un estudio de costo, y el valor optimista del servidor es de $8,000, el más probable es de $10,000 y la pesimista es de $12,000;  no obstante, el contrato de mantenimiento costaría $5,000 y los componentes de reemplazo de servidor $2,500.\n\nAplicando la distribución beta de la estimación por tres valores, ¿cuál es el costo total del servidor para el desarrollo web?",
+    "options": [
+      {
+        "index": 0,
+        "text": "$16,500"
+      },
+      {
+        "index": 1,
+        "text": "$17,500"
+      },
+      {
+        "index": 2,
+        "text": "$18,500"
+      }
+    ],
+    "answer": {
+      "index": null,
+      "text": ""
+    }
+  }
+]

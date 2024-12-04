@@ -1,0 +1,23 @@
+{
+  "imageName": "IMG_20220825_163710188.jpg",
+  "index": 178,
+  "text": "",
+  "options": [
+    {
+      "index": 0,
+      "text": "Revisiones de desempeño"
+    },
+    {
+      "index": 1,
+      "text": "Hojas de verificación"
+    },
+    {
+      "index": 2,
+      "text": "Listas de verificación"
+    }
+  ],
+  "answer": {
+    "index": null,
+    "text": ""
+  }
+}

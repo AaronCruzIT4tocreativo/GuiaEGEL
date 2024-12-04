@@ -1,0 +1,50 @@
+[
+  {
+    "imageName": "47",
+    "imageIndex": "54",
+    "index": 41,
+    "text": "El arquitecto de software, encargado en un proyecto para implementar un sitio para registrar a los ciudadanos en un programa de salud, ha solicitado a los desarrolladores del sistema que los servicios se construyen utilizando tres diferentes tipos de componentes, uno que se encargue de la presentación, otros separados para atender y administrar solicitudes del usuario, y otros más independientes para la comunicación y el manejo de datos. La finalidad es separar la lógica de la vista de la solución. Este requerimiento está alineado a las buenas prácticas en desarrollo de soluciones.\n\n¿Qué patrón de diseño se debe utilizar?",
+    "options": [
+      {
+        "index": 0,
+        "text": "DTO"
+      },
+      {
+        "index": 1,
+        "text": "DAO"
+      },
+      {
+        "index": 2,
+        "text": "MVC"
+      }
+    ],
+    "answer": {
+      "index": null,
+      "text": ""
+    }
+  },
+  {
+    "imageName": "48",
+    "imageIndex": "55",
+    "index": 42,
+    "text": "El desarrollo de un sistema para la administración de una clínica veterinaria cuenta con las siguientes historias de usuario:\n    1. Un paciente solicita una cita a la recepcionista, la cual consulta la agenda en busca de días y horas disponibles. Una vez determinada la fecha y la hora, la recepcionista registra los datos de usuario y el motivo de la cita\n    2. Al iniciar la jornada, la recepcionista envía al médico una lista de las citas por atender. Si se presenta el paciente a la cita, el médico cambia el estado de la cita a Atendida. En caso contrario, cambia el estado a No atendida\n    3. Cada vez que termina una consulta, el médico indica a la recepcionista el monto total de la consulta por los conceptos de honorarios, medicinas, materiales utilizados. La recepcionistas se encarga de registrar los pagos y de generar un reporte al final de la jornada.\n\nDetermine el esqueleto de arquitectura que implementa este sistema.",
+    "options": [
+      {
+        "index": 0,
+        "text": "$img$"
+      },
+      {
+        "index": 1,
+        "text": "$img$"
+      },
+      {
+        "index": 2,
+        "text": "$img$"
+      }
+    ],
+    "answer": {
+      "index": null,
+      "text": ""
+    }
+  }
+]

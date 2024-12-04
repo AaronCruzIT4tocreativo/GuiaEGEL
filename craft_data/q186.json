@@ -1,0 +1,23 @@
+{
+  "imageName": "IMG_20220825_165407947_HDR.jpg",
+  "index": 186,
+  "text": "",
+  "options": [
+    {
+      "index": 0,
+      "text": "entregas parciales aceptadas por el cliente"
+    },
+    {
+      "index": 1,
+      "text": "los requisitos estáticos definidos al inicio del proyecto"
+    },
+    {
+      "index": 2,
+      "text": "el análisis de riesgos elaborado por el emprendedor"
+    }
+  ],
+  "answer": {
+    "index": null,
+    "text": ""
+  }
+}

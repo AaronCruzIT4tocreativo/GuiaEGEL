@@ -1,0 +1,122 @@
+[
+  {
+    "imageName": "42",
+    "imageIndex": "45",
+    "index": 36,
+    "text": "Se desea crear un sistema de servicios en la nube. Para el diseño arquitectónico se busca que el usuario pueda utilizar las aplicaciones de su modelo de negocios, en el que su servicio pueda comunicarse con las aplicaciones estandarizadas con interfaz XML (Java, PHP, ASP, etc.) en la nube. También se requiere que estas aplicaciones tengan compatibilidad con el servicio para poder generar informes, extensiones, entre otros. Para esto es necesario una descomposición de los diferentes tipos de aplicaciones y sus características, para que exista comunicación con el servicio por medio de las interfaces XML.\n\n¿Qué método de diseño de arquitectura de software atiende las especificaciones planteadas?",
+    "options": [
+      {
+        "index": 0,
+        "text": "Architecture-centric design method (ACDM)"
+      },
+      {
+        "index": 1,
+        "text": "Attribute-Drive Design (ADD)"
+      },
+      {
+        "index": 2,
+        "text": "Rozanski and Woods (RW)"
+      }
+    ],
+    "answer": {
+      "index": null,
+      "text": ""
+    }
+  },
+  {
+    "imageName": "43",
+    "imageIndex": "46",
+    "index": 37,
+    "text": "En una empresa de fabricación de chocolates es necesario realizar cambios al sistema de control de producción, que está construido en Java. Se adoptaron los principios ágiles para el desarrollo de los cambios, por lo que se encuentra con historias de usuario. Así mismo, hay que invertir tiempo en conocer la interfaz entre Java y los sensores de la línea de producción debido a que no hay documentación al respecto.\n\n¿Qué método de evaluación de arquitectura de software se debe de utilizar?",
+    "options": [
+      {
+        "index": 0,
+        "text": "Spikes"
+      },
+      {
+        "index": 1,
+        "text": "ARID"
+      },
+      {
+        "index": 2,
+        "text": "ATAM"
+      }
+    ],
+    "answer": {
+      "index": null,
+      "text": ""
+    }
+  },
+  {
+    "imageName": "44",
+    "imageIndex": "47",
+    "index": 38,
+    "text": "En una empresa del sector asegurador, los desarrollos se realizan en RUP; los usuarios están familiarizados con casos de uso y con UML. Además es necesario proponer un método de documentación de arquitectura, ya que actualmente solo se documenta el diagrama de implementación del sistema y se necesita tener el registro de la parte funcional y estática de los desarrollos de acuerdo con la política del grupo. Por otra parte, no se deben utilizar plantillas estándar, pero si UML.\n\n¿Qué método de documentación de arquitectura de software se requiere?",
+    "options": [
+      {
+        "index": 0,
+        "text": "4+1 views"
+      },
+      {
+        "index": 1,
+        "text": "Views and beyond"
+      },
+      {
+        "index": 2,
+        "text": "C4"
+      }
+    ],
+    "answer": {
+      "index": null,
+      "text": ""
+    }
+  },
+  {
+    "imageName": "45",
+    "imageIndex": "48",
+    "index": 39,
+    "text": "Se necesita generar la documentación de la arquitectura de un sistema que toma los pedidos electrónicos bajo una plataforma de red; el sistema está construido en Java, utiliza Tomcat como servidor de aplicaciones en el puerto 8080, una MongoDB como servidor BD en el puerto 1670 y todas las peticiones de los clientes son recibidas en un servidor Apache en el puerto 80. Todos los servidores tienen Linux, excepto el Tomcat, que se ejecuta en Windows.\n\nIndique el diagrama UML que representa el sistema.",
+    "options": [
+      {
+        "index": 0,
+        "text": "$img$"
+      },
+      {
+        "index": 1,
+        "text": "$img$"
+      },
+      {
+        "index": 2,
+        "text": "$img$"
+      }
+    ],
+    "answer": {
+      "index": null,
+      "text": ""
+    }
+  },
+  {
+    "imageName": "46",
+    "imageIndex": "49-53",
+    "index": 40,
+    "text": "En un sistema de distribución de mercancía se tienen tres componentes: facturación, almacén y pedidos. El módulo de facturación tiene una interfaz expuesta para la generación de facturas, el componente de almacén tiene una interfaz expuesta para la verificación de existencia, y ambas interfaces son utilizadas por el módulo de pedido, en cuál no tiene interfaces.\n\n¿Cuál es el diagrama en UML que representa un sistema descrito?",
+    "options": [
+      {
+        "index": 0,
+        "text": "$img$"
+      },
+      {
+        "index": 1,
+        "text": "$img$"
+      },
+      {
+        "index": 2,
+        "text": "$img$"
+      }
+    ],
+    "answer": {
+      "index": null,
+      "text": ""
+    }
+  }
+]

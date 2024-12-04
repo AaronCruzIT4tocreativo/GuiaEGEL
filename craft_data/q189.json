@@ -1,0 +1,23 @@
+{
+  "imageName": "IMG_20220825_170136791_HDR.jpg",
+  "index": 189,
+  "text": "",
+  "options": [
+    {
+      "index": 0,
+      "text": "Programación en pares"
+    },
+    {
+      "index": 1,
+      "text": "Refactorización"
+    },
+    {
+      "index": 2,
+      "text": "Propiedad colectiva"
+    }
+  ],
+  "answer": {
+    "index": null,
+    "text": ""
+  }
+}

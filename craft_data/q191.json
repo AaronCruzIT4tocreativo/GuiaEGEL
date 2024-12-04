@@ -1,0 +1,23 @@
+{
+  "imageName": "IMG_20220825_170513877_HDR.jpg",
+  "index": 191,
+  "text": "",
+  "options": [
+    {
+      "index": 0,
+      "text": "Equipo grande"
+    },
+    {
+      "index": 1,
+      "text": "Disponibilidad de recursos"
+    },
+    {
+      "index": 2,
+      "text": "Tiempo Ilimitado"
+    }
+  ],
+  "answer": {
+    "index": null,
+    "text": ""
+  }
+}

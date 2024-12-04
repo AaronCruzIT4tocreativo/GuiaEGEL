@@ -1,0 +1,23 @@
+{
+  "imageName": "IMG_20220825_165208748_HDR.jpg",
+  "index": 185,
+  "text": "",
+  "options": [
+    {
+      "index": 0,
+      "text": "El cliente no sabe exactamente qué es lo que necesita"
+    },
+    {
+      "index": 1,
+      "text": "El cliente no puede participar activamente en el proyecto"
+    },
+    {
+      "index": 2,
+      "text": "Las reuniones con el cliente serán cada 2 semanas"
+    }
+  ],
+  "answer": {
+    "index": null,
+    "text": ""
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "imageName": "IMG_20220825_170357236_HDR.jpg",
+  "index": 190,
+  "text": "",
+  "options": [
+    {
+      "index": 0,
+      "text": "La empresa maneja un repositorio maestro"
+    },
+    {
+      "index": 1,
+      "text": "La empresa requiere automatizar las pruebas de software"
+    },
+    {
+      "index": 2,
+      "text": "La empresa requiere un sistema de control de versiones centralizado"
+    }
+  ],
+  "answer": {
+    "index": null,
+    "text": ""
+  }
+}

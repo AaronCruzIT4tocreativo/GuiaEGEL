@@ -1,0 +1,23 @@
+{
+  "imageName": "IMG_20220825_164320460.jpg",
+  "index": 182,
+  "text": "",
+  "options": [
+    {
+      "index": 0,
+      "text": "ISO/IEC/IEEE 24765"
+    },
+    {
+      "index": 1,
+      "text": "IEEE 1028"
+    },
+    {
+      "index": 2,
+      "text": "IEEE 1016"
+    }
+  ],
+  "answer": {
+    "index": null,
+    "text": ""
+  }
+}

@@ -1,0 +1,122 @@
+[
+  {
+    "imageName": "37",
+    "imageIndex": "40",
+    "index": 31,
+    "text": "En época de elecciones se ha pedido a la autoridad encargada de la legalidad del proceso que genere un portal web con una aplicación que permita a la ciudadanía ubicar la casilla que les corresponde para emitir su voto, por medio de La búsqueda del nombre, el código postal, la colonia de procedencia o algún otro dato que conozcan. Se tiene que considerar la compatibilidad con los distintos dispositivos (teléfonos, tabletas o computadoras) y la amplia gama de sistemas operativos desde los que se puede conectar el usuario.\n\n¿Cuál es el requisito funcional de usuario que se relaciona con el planteamiento?",
+    "options": [
+      {
+        "index": 0,
+        "text": "Ser fácil de utilizar"
+      },
+      {
+        "index": 1,
+        "text": "Registrar datos del usuario"
+      },
+      {
+        "index": 2,
+        "text": "Indicar cómo llegar al destino"
+      }
+    ],
+    "answer": {
+      "index": null,
+      "text": ""
+    }
+  },
+  {
+    "imageName": "38",
+    "imageIndex": "41",
+    "index": 32,
+    "text": "Una empresa dedicada a las ventas en línea decidió hacer mejoras en sus capacidades tecnológicas con el fin de incrementar la disponibilidad de su sistema; para ello, decidió integrar un balanceador de cargas en su infraestructura. El diagrama arquitectónico de su plataforma, integrando dicho componente, queda como se muestra en la imagen.\n\nPara lograr una mayor tolerancia fallos en esta arquitectura y lograr que el software esté disponible el mayor tiempo posible, ¿Cómo debe realizarse la instalación de los componentes del sistema en los servidores de aplicaciones?\n\n$img$",
+    "options": [
+      {
+        "index": 0,
+        "text": "Hay que distribuir la mitad de los componentes en servidor 1 y la otra mitad en servidor 2"
+      },
+      {
+        "index": 1,
+        "text": "Se deben instalar los componentes de software directamente al balanceador"
+      },
+      {
+        "index": 2,
+        "text": "Es necesario duplicar el total de los componentes de software en los servidores 1 y 2"
+      }
+    ],
+    "answer": {
+      "index": null,
+      "text": ""
+    }
+  },
+  {
+    "imageName": "39",
+    "imageIndex": "42",
+    "index": 33,
+    "text": "En una línea aérea se tiene un servidor que toma las peticiones web, la redirecciona a un servidor de balanceo de carga y realiza la primera autenticación del usuario en 0.006 segundos; el servidor de balanceo de carga administra a 10 servidores que son activados o desactivados en función de la carga de usuarios que puede alcanzar (hasta 200 al mismo tiempo) y aumentarse en hasta 200%. La autenticación solo permite tres intentos antes de bloquearse.\n\n¿Cuál es el requerimiento de restricción arquitectónico que corresponde al atributo de calidad de escalabilidad?",
+    "options": [
+      {
+        "index": 0,
+        "text": "Con 200 usuarios conectados, en tiempo de autenticación debe ser de 0.006 segundos"
+      },
+      {
+        "index": 1,
+        "text": "El tiempo de autenticación de los usuarios debe ser siempre de 0.006 segundos, sin que se degrade, aún cuando la carga de usuarios se incremente hasta en 200%"
+      },
+      {
+        "index": 2,
+        "text": "El número de intentos que puede hacer un usuario antes de bloquear su cuenta es de tres, no importando el número de usuarios conectados"
+      }
+    ],
+    "answer": {
+      "index": null,
+      "text": ""
+    }
+  },
+  {
+    "imageName": "40",
+    "imageIndex": "43",
+    "index": 34,
+    "text": "En una empresa de mensajería se necesita activar un nuevo sistema tipo web; además, dentro de la intranet, el sistema debe atender a los controladores que suben fotos y archivos de cada embarque que se enviará al repositorio de documentos de la empresa. Por su parte, las fotos y los archivos tienen un peso desde 1 kB hasta 100 MB.\n\nLos patrones arquitectónicos que se deben utilizar para satisfacer la arquitectura necesaria y atender al sistema planteado son...",
+    "options": [
+      {
+        "index": 0,
+        "text": "Bus y MVC"
+      },
+      {
+        "index": 1,
+        "text": "MVC y cliente-servidor"
+      },
+      {
+        "index": 2,
+        "text": "Bus y cliente-servidor"
+      }
+    ],
+    "answer": {
+      "index": null,
+      "text": ""
+    }
+  },
+  {
+    "imageName": "41",
+    "imageIndex": "44",
+    "index": 35,
+    "text": "En una empresa de construcción de partes automotrices existen diferentes piezas de software que controlan la producción. Se ha solicitado al arquitecto de software la creación de una nueva arquitectura que unifique el control de las líneas de producción. Así mismo, recibe documentados los atributos de calidad ya definidos y necesita identificar de manera interactiva qué tácticas arquitectónicas resolverán los atributos de calidad.\n\n¿Qué método de diseño de software requiere implementar el arquitecto?",
+    "options": [
+      {
+        "index": 0,
+        "text": "Attribute-driven design (ADD)"
+      },
+      {
+        "index": 1,
+        "text": "Architecture-centric design method (ACDM)"
+      },
+      {
+        "index": 2,
+        "text": "Método de arquitecturas r\nRosanski y Wood"
+      }
+    ],
+    "answer": {
+      "index": null,
+      "text": ""
+    }
+  }
+]

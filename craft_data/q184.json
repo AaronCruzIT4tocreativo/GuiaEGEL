@@ -1,0 +1,23 @@
+{
+  "imageName": "IMG_20220825_165020653_HDR.jpg",
+  "index": 184,
+  "text": "",
+  "options": [
+    {
+      "index": 0,
+      "text": "R1: tranferir, R2: mitigar, R3: aceptar"
+    },
+    {
+      "index": 1,
+      "text": "R1: mitigar, R2: mitigar, R3: mitigar"
+    },
+    {
+      "index": 2,
+      "text": "R1: mitigar, R2: mitigar, R3: aceptar"
+    }
+  ],
+  "answer": {
+    "index": null,
+    "text": ""
+  }
+}

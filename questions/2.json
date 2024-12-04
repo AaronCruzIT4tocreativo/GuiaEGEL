@@ -1,0 +1,122 @@
+[
+  {
+    "imageName": "12",
+    "imageIndex": "6",
+    "index": 6,
+    "text": "Una zapatería contrató a un desarrollador para diseñar un software que permita llevar el control del inventario de sus tiendas. Una vez concluida la etapa de análisis, el cliente verificó con el desarrollador que todos los estados posibles, cambios de estado entradas, productos y restricciones estuvieran ya descritos en alguno de los requerimientos.\n\n¿A qué característica de los requerimientos corresponden estos elementos?",
+    "options": [
+      {
+        "index": 0,
+        "text": "Completitud"
+      },
+      {
+        "index": 1,
+        "text": "Correctitud"
+      },
+      {
+        "index": 2,
+        "text": "Factibilidad"
+      }
+    ],
+    "answer": {
+      "index": null,
+      "text": ""
+    }
+  },
+  {
+    "imageName": "13",
+    "imageIndex": "7",
+    "index": 7,
+    "text": "La empresa Atom, S.A. está desarrollando un software. El cliente le especificó que uno de los requerimientos que desea es que este contenga una alta velocidad para comenzar a trabajar como elemento de alta importancia.\n\n¿Qué característica atiende el requerimiento señalado por el cliente?",
+    "options": [
+      {
+        "index": 0,
+        "text": "No ambigüedad"
+      },
+      {
+        "index": 1,
+        "text": "Priorizable"
+      },
+      {
+        "index": 2,
+        "text": "Verificable"
+      }
+    ],
+    "answer": {
+      "index": 1,
+      "text": "Priorizable"
+    }
+  },
+  {
+    "imageName": "14",
+    "imageIndex": "8",
+    "index": 8,
+    "text": "Una solución informática que se va a desarrollar debe determinar las preferencias de los usuarios de redes sociales con base en las noticias o los eventos que comparten o comentan, a fin de promover la comercialización de productos que se consideren de interés para ellos.\n\n¿Qué grupos de interés del desarrollo del proyecto son de utilidad para generar la información relativa a las preferencias que se esperan del usuario?",
+    "options": [
+      {
+        "index": 0,
+        "text": "Analistas y programadores"
+      },
+      {
+        "index": 1,
+        "text": "Comunicaciones y mercadotecnia"
+      },
+      {
+        "index": 2,
+        "text": "Usuarios finales y soporte técnico"
+      }
+    ],
+    "answer": {
+      "index": 2,
+      "text": "Usuarios finales y soporte técnico"
+    }
+  },
+  {
+    "imageName": "15",
+    "imageIndex": "9",
+    "index": 9,
+    "text": "Una institución dedicada al cuidado del ambiente solicita apoyo para el desarrollo de un software que permita llevar el control de la información de las especies nativas de una entidad federativa. Ha obtenido recursos económicos de una convocatoria estatal, en la que se especifican algunas condiciones como mínimos de accesibilidad del software.\n\nDe acuerdo con lo anterior, ¿Que stakeholder debe considerarse en primer término para determinar la factibilidad del proyecto?",
+    "options": [
+      {
+        "index": 0,
+        "text": "Usuarios finales"
+      },
+      {
+        "index": 1,
+        "text": "Desarrolladores"
+      },
+      {
+        "index": 2,
+        "text": "Ingenieros de software"
+      }
+    ],
+    "answer": {
+      "index": 0,
+      "text": "Usuarios finales"
+    }
+  },
+  {
+    "imageName": "16",
+    "imageIndex": "10",
+    "index": 10,
+    "text": "Se desea diseñar una aplicación móvil para que los alumnos hagan pedidos de comida en una cafetería universitaria, con el propósito de reducir la acumulación de personas en el establecimiento y el tiempo de espera en filas.\n\n¿Qué técnica de recolección de requerimientos se debe utilizar para evaluar el alcance de propósito?",
+    "options": [
+      {
+        "index": 0,
+        "text": "Observación"
+      },
+      {
+        "index": 1,
+        "text": "Entrevista"
+      },
+      {
+        "index": 2,
+        "text": "Workshop"
+      }
+    ],
+    "answer": {
+      "index": 1,
+      "text": "Entrevista"
+    }
+  }
+]

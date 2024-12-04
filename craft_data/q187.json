@@ -1,0 +1,23 @@
+{
+  "imageName": "IMG_20220825_165502102.jpg",
+  "index": 187,
+  "text": "",
+  "options": [
+    {
+      "index": 0,
+      "text": "Diseño"
+    },
+    {
+      "index": 1,
+      "text": "Verificación"
+    },
+    {
+      "index": 2,
+      "text": "Mantenimiento"
+    }
+  ],
+  "answer": {
+    "index": null,
+    "text": ""
+  }
+}

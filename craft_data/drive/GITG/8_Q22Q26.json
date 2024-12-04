@@ -1,0 +1,122 @@
+[
+  {
+    "imageName": "22",
+    "imageIndex": "163",
+    "index": 22,
+    "text": "Un equipo desarrolla un sistema de reservas para un hotel y utilizar RUP como método de desarrollo. Ha concluido un ciclo de vida para el proyecto y el cliente solicita incorporar nuevas funcionalidades al sistema por lo que se debe estimar el tiempo de desarrollo con base en la ruta crítica.\n\nDe acuerdo con los datos de la tabla, determine, en semanas, el tiempo de desarrollo para incorporar las nuevas funcionalidades al sistema\n\n$img$",
+    "options": [
+      {
+        "index": 0,
+        "text": "9"
+      },
+      {
+        "index": 1,
+        "text": "10"
+      },
+      {
+        "index": 2,
+        "text": "11"
+      }
+    ],
+    "answer": {
+      "index": null,
+      "text": ""
+    }
+  },
+  {
+    "imageName": "23",
+    "imageIndex": "164",
+    "index": 23,
+    "text": "La empresa Design debe desarrollar un sistema para control de ventas e inventarios para el cual contra dos desarrolladores y un analista por 2 meses. La compañía hizo un proyecto similar, hace 1 año y el costo por día fue de $530 para los desarrolladores y $350 para analistas, trabajando 8 horas por dos meses, sólo en días hábiles.\n\nUtilizando la herramienta de estimación análoga, calcula el costo en el recurso humano para este proyecto.",
+    "options": [
+      {
+        "index": 0,
+        "text": "$56,400"
+      },
+      {
+        "index": 1,
+        "text": "$78,960"
+      },
+      {
+        "index": 2,
+        "text": "631,680"
+      }
+    ],
+    "answer": {
+      "index": null,
+      "text": ""
+    }
+  },
+  {
+    "imageName": "24",
+    "imageIndex": "165",
+    "index": 24,
+    "text": "El área de sistemas de una empresa requiere desarrollar un proyecto que va a trabajar con Oracle para la base de datos en un servidor de dos procesadores y versión de Oracle gratuita para el servidor de pruebas, así como un servidor web HTTP con Oracle web Logic. El licenciamiento requerido es nominal hasta para 30 usuarios concurrentes, en el caso de Oracle data Base Enterprise Edition y se contará con una infraestructura de producción replicada en tiempo real, para asegurar la continuidad de operaciones en el caso de falla.\nEl costo de licenciamiento de Oracle Database Enterprise Edition (25 Usuarios Nominales Plus por cada procesador) es de $80,000 y el de Oracle WebLogic de $30,000.\n\nDetermine el costo del licenciamiento del proyecto",
+    "options": [
+      {
+        "index": 0,
+        "text": "$190,000"
+      },
+      {
+        "index": 1,
+        "text": "$220,000"
+      },
+      {
+        "index": 2,
+        "text": "$380,000"
+      }
+    ],
+    "answer": {
+      "index": null,
+      "text": ""
+    }
+  },
+  {
+    "imageName": "25",
+    "imageIndex": "166",
+    "index": 25,
+    "text": "Una empresa de desarrollo de software trabaja en la creación de un sistema para el control de una línea de ensamble de una planta automotriz.\n\nTeniendo en cuenta el modelo Cocomo ll, y que dicho sistema tendrá un tamaño de 20KLDC, una constante de esfuerzo de 2.8 debido a la alta complejidad del proyecto y un factor exponencial de 1.2, ¿cuál es el esfuerzo requerido en personas-mes, para atender con éxito dicho proyecto?",
+    "options": [
+      {
+        "index": 0,
+        "text": "33.4 persona-mes"
+      },
+      {
+        "index": 1,
+        "text": "66.8 persona-mes"
+      },
+      {
+        "index": 2,
+        "text": "101.94 persona-mes"
+      }
+    ],
+    "answer": {
+      "index": null,
+      "text": ""
+    }
+  },
+  {
+    "imageName": "26",
+    "imageIndex": "167",
+    "index": 26,
+    "text": "Un desarrollo de software de inteligencia artificial para el reconocimiento de patrones debe tener un atributo de exactitud, bajo acoplamiento y alta cohesión, por lo que se debe considerar el riesgo de incluir módulos en el sistema que no cumplan con lo solicitado.\n\nLa siguiente tabla muestra los posibles riesgos:\n\n$img$\n\n¿Cuál es la estimación de riesgo, si se aplica un análisis cuantitativo, al realizar la inspecciones en los módulos del sistema?",
+    "options": [
+      {
+        "index": 0,
+        "text": "$8,000"
+      },
+      {
+        "index": 1,
+        "text": "$15,000"
+      },
+      {
+        "index": 2,
+        "text": "$39,000"
+      }
+    ],
+    "answer": {
+      "index": null,
+      "text": ""
+    }
+  }
+]

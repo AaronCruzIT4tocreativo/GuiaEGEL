@@ -1,0 +1,23 @@
+{
+  "imageName": "IMG_20220825_164051132.jpg",
+  "index": 181,
+  "text": "",
+  "options": [
+    {
+      "index": 0,
+      "text": "simulación de Montecarlo"
+    },
+    {
+      "index": 1,
+      "text": "sumas estadísticas"
+    },
+    {
+      "index": 2,
+      "text": "árboles de decisión"
+    }
+  ],
+  "answer": {
+    "index": null,
+    "text": ""
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "imageName": "IMG_20220825_163833310.jpg",
+  "index": 179,
+  "text": "",
+  "options": [
+    {
+      "index": 0,
+      "text": "0.2%"
+    },
+    {
+      "index": 1,
+      "text": "40.0%"
+    },
+    {
+      "index": 2,
+      "text": "99.8%"
+    }
+  ],
+  "answer": {
+    "index": null,
+    "text": ""
+  }
+}

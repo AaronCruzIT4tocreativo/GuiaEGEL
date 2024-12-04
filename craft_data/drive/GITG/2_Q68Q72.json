@@ -1,0 +1,122 @@
+[
+  {
+    "imageName": "68",
+    "imageIndex": "112-113",
+    "index": 68,
+    "text": "Se desea crear un juego didáctico para que los niños aprendan diversos temas de interés escolar o de cultura general, por medio de preguntas correctas que les permitan acceder a escenarios más complejos.\nSe contará con un estímulo de recompensas por avanzar de nivel y se obtendrán certificados de \nparticipación sobresaliente. \nConsiderando que la aplicación será utilizada por niños y no es tan relevante llevar un registro muy estricto o confidencialidad de los usuarios, se puede identificar la línea desde donde se recibe la solicitud de acceso. Dado que el diseño debe ser sencillo, ¿qué interfaz de autenticación de baja fidelidad se requiere?",
+    "options": [
+      {
+        "index": 0,
+        "text": "$img$"
+      },
+      {
+        "index": 1,
+        "text": "$img$"
+      },
+      {
+        "index": 2,
+        "text": "$img$"
+      }
+    ],
+    "answer": {
+      "index": null,
+      "text": ""
+    }
+  },
+  {
+    "imageName": "69",
+    "imageIndex": "114,115",
+    "index": 69,
+    "text": "El equipo de desarrollo realiza el caso de uso \"editor de texto\". Esto debe contener una barra de menú y el área donde se escribirá la información. ¿Cómo se completa el código snippet que aplica el esquema de diseño de alta fidelidad? \n\nJFrame v = new JFrame (\"\");\nJMenuBar barraMenu= new JMenuBar();\nJTextArea areaTexto= new jTextArea();",
+    "options": [
+      {
+        "index": 0,
+        "text": "v.getContentPane().add(barra Menu, BorderLayout.NORTH);\n\nv.getContentPane().add(areaTexto, BorderLayout.CENTER);"
+      },
+      {
+        "index": 1,
+        "text": "v.getContentPane().add(barra Menu, FlowLayout.NORTH);\n\nv.getContentPane().add(area Texto, FlowLayout.CENTER);"
+      },
+      {
+        "index": 2,
+        "text": "v.getContentPane().add(barraMenu, GridLayout.NORTH);\n\nv.getContentPane().add(areaTexto, GridLayout.CENTER);"
+      }
+    ],
+    "answer": {
+      "index": null,
+      "text": ""
+    }
+  },
+  {
+    "imageName": "70",
+    "imageIndex": "116-119",
+    "index": 70,
+    "text": "Se desea diseñar una aplicación (skill) para un asistente de voz que permita hacer pedidos de diferentes tipos de pizza.\n\n Si la intención (intent) es order_pizza, ¿cuál de las siguientes opciones indica el esquema de una expresión (utterance) válida que incluya un nombre de ranura (slot)?",
+    "options": [
+      {
+        "index": 0,
+        "text": "$img$"
+      },
+      {
+        "index": 1,
+        "text": "$img$"
+      },
+      {
+        "index": 2,
+        "text": "$img$"
+      }
+    ],
+    "answer": {
+      "index": null,
+      "text": ""
+    }
+  },
+  {
+    "imageName": "71",
+    "imageIndex": "120-121",
+    "index": 71,
+    "text": "En una página web dirigida a personas que desean aprender a programar, al intentar crear una cuenta de maestro aparece el siguiente error.\n\n$img$\n\n Considerando la heurística \"Ayuda a los usuarios a reconocer, diagnosticar y recuperarse de errores\",  ¿qué modificación se requiere para la correcta implementación de la cuenta de maestro?",
+    "options": [
+      {
+        "index": 0,
+        "text": "Colocar un botón que permita regresar al paso anterior e ilustrar el error en color rojo."
+      },
+      {
+        "index": 1,
+        "text": "Agregar al mensaje de las características que debe de tener un password válido."
+      },
+      {
+        "index": 2,
+        "text": "Mostrar el error junto al campo de contraseña."
+      }
+    ],
+    "answer": {
+      "index": null,
+      "text": ""
+    }
+  },
+  {
+    "imageName": "72",
+    "imageIndex": "122-123",
+    "index": 72,
+    "text": "En una clínica dental con varios consultorios, los usuarios agendan citas mediante un sistema en línea. Al iniciar una jornada de trabajo, el sistema despliega las citas del día a cada médico. El sistema cuenta con dos componentes: \n 1. Gestor de citas encargado de agendar las citas y generar los reportes de citas.\n 2. SD_cita: encargado de la manipulación y consulta de datos de las citas en la base de datos.\nDetermine el diagrama HIPO que describe la interfaz Obtener_Bajo_Listado_Citas entre el Gestor de citas y SD_ cita",
+    "options": [
+      {
+        "index": 0,
+        "text": "$img$"
+      },
+      {
+        "index": 1,
+        "text": "$img$"
+      },
+      {
+        "index": 2,
+        "text": "$img$"
+      }
+    ],
+    "answer": {
+      "index": null,
+      "text": ""
+    }
+  }
+]

@@ -1,0 +1,23 @@
+{
+  "imageName": "IMG_20220825_165732004.jpg",
+  "index": 188,
+  "text": "",
+  "options": [
+    {
+      "index": 0,
+      "text": "Probabilidad del riesgo"
+    },
+    {
+      "index": 1,
+      "text": "Proyección del riesgo"
+    },
+    {
+      "index": 2,
+      "text": "Exposición al riesgo"
+    }
+  ],
+  "answer": {
+    "index": null,
+    "text": ""
+  }
+}

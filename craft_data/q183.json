@@ -1,0 +1,23 @@
+{
+  "imageName": "IMG_20220825_164754442.jpg",
+  "index": 183,
+  "text": "",
+  "options": [
+    {
+      "index": 0,
+      "text": "Técnico"
+    },
+    {
+      "index": 1,
+      "text": "Organizacional"
+    },
+    {
+      "index": 2,
+      "text": "Externo"
+    }
+  ],
+  "answer": {
+    "index": null,
+    "text": ""
+  }
+}

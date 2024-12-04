@@ -1,0 +1,23 @@
+{
+  "imageName": "IMG_20220825_170831953.jpg",
+  "index": 193,
+  "text": "",
+  "options": [
+    {
+      "index": 0,
+      "text": "Big boss"
+    },
+    {
+      "index": 1,
+      "text": "Coach"
+    },
+    {
+      "index": 2,
+      "text": "Tracker"
+    }
+  ],
+  "answer": {
+    "index": null,
+    "text": ""
+  }
+}

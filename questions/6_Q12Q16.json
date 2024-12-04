@@ -1,0 +1,122 @@
+[
+  {
+    "imageName": "12",
+    "imageIndex": "151-152",
+    "index": 12,
+    "text": "En una empresa farmacéutica existe la necesidad de registrar los movimientos del almacén para llevar el control exacto de las existencias. De acuerdo con el último conteo de movimientos se efectúan alrededor de 5000 diarios.\n\n¿Qué tipo de procesamiento resuelve la problemática planteada?",
+    "options": [
+      {
+        "index": 0,
+        "text": "OLAP"
+      },
+      {
+        "index": 1,
+        "text": "OLTP"
+      },
+      {
+        "index": 2,
+        "text": "Consulta histórica"
+      }
+    ],
+    "answer": {
+      "index": null,
+      "text": ""
+    }
+  },
+  {
+    "imageName": "13",
+    "imageIndex": "153-154",
+    "index": 13,
+    "text": "En el desarrollo de un sistema para el ramo químico-bacteriológico, se está por entrar al al sprint que creará el programa de cálculo de resultados para cualquier fórmula química, por lo que se necesita asegurar que el componente esté optimizado en líneas de código y ninguna de las condiciones que se plantean llevan a un resultado no previsto.\n\n ¿Cuál es la técnica de prueba que se debe aplicar a la problemática planteada?",
+    "options": [
+      {
+        "index": 0,
+        "text": "Caja blanca "
+      },
+      {
+        "index": 1,
+        "text": "Caja negra "
+      },
+      {
+        "index": 2,
+        "text": "Top-down"
+      }
+    ],
+    "answer": {
+      "index": null,
+      "text": ""
+    }
+  },
+  {
+    "imageName": "14",
+    "imageIndex": "155",
+    "index": 14,
+    "text": "Se hicieron cambios a un sistema de venta de boletos que permitía hasta 500 usuarios, simultáneos para soportar 3000 usuarios; se desea validar cuál es la respuesta al procesar el ingreso de 500, 1500 y 3000 usuarios, de forma parametrizada. \n\nLa prueba que se debe efectuar, de acuerdo con el atributo de calidad solicitado, es la de…",
+    "options": [
+      {
+        "index": 0,
+        "text": "carga"
+      },
+      {
+        "index": 1,
+        "text": "estrés"
+      },
+      {
+        "index": 2,
+        "text": "rendimiento "
+      }
+    ],
+    "answer": {
+      "index": null,
+      "text": ""
+    }
+  },
+  {
+    "imageName": "15",
+    "imageIndex": "156",
+    "index": 15,
+    "text": "Se desarrolló una aplicación para hacer empleada en un proyecto de lanzamiento que correrá en un sistema operativo iOS; sin embargo, aún no se dan cuenta con los dispositivos, por lo que las pruebas se deberán correrse en un emulador para PC para que para no desfasar el proyecto.\n\n¿Cuál es la herramienta que se puede emplear para aprobarla?",
+    "options": [
+      {
+        "index": 0,
+        "text": "Apetito"
+      },
+      {
+        "index": 1,
+        "text": "Genimotion "
+      },
+      {
+        "index": 2,
+        "text": "Memi"
+      }
+    ],
+    "answer": {
+      "index": null,
+      "text": ""
+    }
+  },
+  {
+    "imageName": "16",
+    "imageIndex": "157",
+    "index": 16,
+    "text": "Un equipo de desarrollo de software ha codificado una aplicación móvil que permite mantener una conversación con una persona, detectar su estado de ánimo y proponer la actividades, dependiendo del caso; la aplicación ha sido desarrollada utilizando Android Studio. El equipo desea un código fuente de calidad que proporcione un alto rendimiento, por lo que va a utilizar un validador de código estático para verificar si existen problemas estructurales.\n\n¿Qué tipo de validador se requiere?",
+    "options": [
+      {
+        "index": 0,
+        "text": "SonarQube"
+      },
+      {
+        "index": 1,
+        "text": "Lint"
+      },
+      {
+        "index": 2,
+        "text": "Review Board"
+      }
+    ],
+    "answer": {
+      "index": null,
+      "text": ""
+    }
+  }
+]
