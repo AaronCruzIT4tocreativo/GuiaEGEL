@@ -56,7 +56,7 @@
   },
   {
     "imageName": "2",
-    "imageIndex": "128",
+    "imageIndex": "127",
     "index": 75,
     "text": "En una comercializadora de abarrotes al mayoreo se dispone de una base de datos relacional con estas especificaciones: tres entidades, una tabla llamada \"Clientes\",  indexada por medio de una llave primaria a la tabla \"Pedidos\" que, a su vez, se relaciona con la tabla \"Productos\"\n\n¿Qué elemento de la base de datos relacional representa el costo unitario de los productos?",
     "options": [
@@ -78,7 +78,7 @@
       "text": ""
     },
     "imageIndexes": [
-      128
+      127
     ]
   },
   {

@@ -82,7 +82,7 @@
   },
   {
     "imageName": "25",
-    "imageIndex": "20",
+    "imageIndex": "20-21",
     "index": 19,
     "text": "Se liberó una aplicación para el control de asistencia de los médicos en un hospital. Con los turnos previamente asignados se obtuvieron las siguientes historias de usuario para integrarse de forma inmediata a ella:\n    • H1. Como doctor responsable, necesito conocer al colega que no ha llegado al hospital, a fin de poder llamar a algún otro doctor que lo sopla y esté disponible para mantener el nivel de servicio del hospital.\n    • H2. Como administrador, requiero programar turnos adicionales para poder cubrir necesidades de atención a grupos vulnerables como parte de la responsabilidad civil del hospital.\n    • H3. Como doctor, necesito avisar en la aplicación mi hora de llegada para que el médico responsable sepa que voy atrasado y no se llame a ningún compañero.\n\nSe decidió considerar sólo una, por lo que se obtuvieron los siguientes valores de costo y beneficio que representan para el hospital cada historia de usuario:\n\n$img$\n\nConsiderando la técnica de costo beneficio, ¿Qué historia de usuario se debe implementar?",
     "options": [
@@ -104,12 +104,13 @@
       "text": ""
     },
     "imageIndexes": [
-      20
+      20,
+      21
     ]
   },
   {
     "imageName": "26",
-    "imageIndex": "21",
+    "imageIndex": "22",
     "index": 20,
     "text": "En el desarrollo de un proyecto de software trabajan varios programadores a la vez debido a su complejidad. Una vez aprobado un cambio, siguen teniendo acceso en paralelo a un mismo código, pero no cuentan con un controlador de versiones que integra el control de acceso y de sincronización.\n\nEn el escenario anterior, se recomienda implementar el controlador de versiones con el fin de...",
     "options": [
@@ -131,7 +132,7 @@
       "text": ""
     },
     "imageIndexes": [
-      21
+      22
     ]
   }
 ]

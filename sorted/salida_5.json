@@ -113,7 +113,7 @@
   },
   {
     "imageName": "31",
-    "imageIndex": "32",
+    "imageIndex": "31",
     "index": 25,
     "text": "En el proceso de compras de un sistema se deben realizar las siguientes transacciones: ingreso de la requisición, emisión de la solicitud de cotización y emisión de la orden de compra. Además, deben visualizarse los flujos de los procesos para identificar las áreas que necesitan mejoras o para destacar los sectores de eficiencia.\n\n¿Qué artefactos se necesita documentar de acuerdo con las especificaciones de requerimientos dadas?",
     "options": [
@@ -135,7 +135,7 @@
       "text": ""
     },
     "imageIndexes": [
-      32
+      31
     ]
   }
 ]
