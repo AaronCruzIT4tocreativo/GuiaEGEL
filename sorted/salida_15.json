@@ -1,0 +1,137 @@
+[
+  {
+    "imageName": "15",
+    "imageIndex": "156",
+    "index": 15,
+    "text": "Se desarrolló una aplicación para hacer empleada en un proyecto de lanzamiento que correrá en un sistema operativo iOS; sin embargo, aún no se dan cuenta con los dispositivos, por lo que las pruebas se deberán correrse en un emulador para PC para que para no desfasar el proyecto.\n\n¿Cuál es la herramienta que se puede emplear para aprobarla?",
+    "options": [
+      {
+        "index": 0,
+        "text": "Apetito"
+      },
+      {
+        "index": 1,
+        "text": "Genimotion "
+      },
+      {
+        "index": 2,
+        "text": "Memi"
+      }
+    ],
+    "answer": {
+      "index": null,
+      "text": ""
+    },
+    "imageIndexes": [
+      156
+    ]
+  },
+  {
+    "imageName": "16",
+    "imageIndex": "157",
+    "index": 16,
+    "text": "Un equipo de desarrollo de software ha codificado una aplicación móvil que permite mantener una conversación con una persona, detectar su estado de ánimo y proponer la actividades, dependiendo del caso; la aplicación ha sido desarrollada utilizando Android Studio. El equipo desea un código fuente de calidad que proporcione un alto rendimiento, por lo que va a utilizar un validador de código estático para verificar si existen problemas estructurales.\n\n¿Qué tipo de validador se requiere?",
+    "options": [
+      {
+        "index": 0,
+        "text": "SonarQube"
+      },
+      {
+        "index": 1,
+        "text": "Lint"
+      },
+      {
+        "index": 2,
+        "text": "Review Board"
+      }
+    ],
+    "answer": {
+      "index": null,
+      "text": ""
+    },
+    "imageIndexes": [
+      157
+    ]
+  },
+  {
+    "imageName": "17",
+    "imageIndex": "158",
+    "index": 17,
+    "text": "En un hospital para niños con cáncer se requiere de una aplicación para registrar el estado de ánimo de aquellos que van a entrar a un procedimiento; por medio de una encuesta con animaciones se explicará a cada uno de ellos el tipo de preguntas. La mayoría de los niños por encuestar se encuentra en la cama y no se puede desplazar.\n\n¿Qué tipo de plataforma de desarrollo se requiere? \n",
+    "options": [
+      {
+        "index": 0,
+        "text": "De escritorio "
+      },
+      {
+        "index": 1,
+        "text": "Embebido "
+      },
+      {
+        "index": 2,
+        "text": "Móvil"
+      }
+    ],
+    "answer": {
+      "index": null,
+      "text": ""
+    },
+    "imageIndexes": [
+      158
+    ]
+  },
+  {
+    "imageName": "18",
+    "imageIndex": "159",
+    "index": 18,
+    "text": "Se han contratado los servicios de un ingeniero de software para documentar una API que se liberará en una semana. Debido a que el líder de proyecto responsable renunció y no dejó nada documentado, se revisaron los programas y se encontró que todas las clases sin excepción, tienen los identificadores en el inicio: @autor,@deprecated,@param,@return,@see,@versión. Es necesario que la documentación sea generada en HTML. \n\n¿Cuál es la herramienta necesaria para generar documentación de acuerdo con lo planteado?",
+    "options": [
+      {
+        "index": 0,
+        "text": "DocFX"
+      },
+      {
+        "index": 1,
+        "text": "JavaDoc"
+      },
+      {
+        "index": 2,
+        "text": "Docxgen"
+      }
+    ],
+    "answer": {
+      "index": null,
+      "text": ""
+    },
+    "imageIndexes": [
+      159
+    ]
+  },
+  {
+    "imageName": "19",
+    "imageIndex": "160",
+    "index": 19,
+    "text": "Un sistema de rastreo, dentro de un centro de tutorías para estudiantes, se accede mediante una aplicación web; en este, los estudiantes o sus \ntutores pueden registrar su ingreso o salida. El centro de tutorías puede rastrear la asistencia, las actualizaciones de estado y, además, pueden registrar información de contacto para tutores y estudiantes. Asimismo, se probó cuando fuera aumentando el número de usuarios (Estudiantes y tutores) no disminuyera la velocidad y tampoco la cantidad de tráfico en la red.\n\n¿Qué artefacto permite documentar los resultados de las pruebas en la aplicación web?",
+    "options": [
+      {
+        "index": 0,
+        "text": "Formulario de carta de aceptación"
+      },
+      {
+        "index": 1,
+        "text": "Formulario de instrucciones de entrega"
+      },
+      {
+        "index": 2,
+        "text": "Matriz de seguimiento de requerimientos"
+      }
+    ],
+    "answer": {
+      "index": null,
+      "text": ""
+    },
+    "imageIndexes": [
+      160
+    ]
+  }
+]

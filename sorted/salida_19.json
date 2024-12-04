@@ -1,0 +1,59 @@
+[
+  {
+    "imageName": "35",
+    "imageIndex": "176",
+    "index": 35,
+    "text": "Un equipo desarrolla un sistema que cuenta con 10,000 líneas de código, el esfuerzo ha sido de 50 p* m y  se ha detectado 20 errores. Calcule el porcentaje de calidad del producto",
+    "options": [
+      {
+        "index": 0,
+        "text": "0.2%"
+      },
+      {
+        "index": 1,
+        "text": "40.0%"
+      },
+      {
+        "index": 2,
+        "text": "99.8%"
+      }
+    ],
+    "answer": {
+      "index": null,
+      "text": ""
+    },
+    "imageIndexes": [
+      176
+    ]
+  },
+  {
+    "imageName": "36",
+    "imageIndex": "177-180",
+    "index": 36,
+    "text": "Una empresa utiliza RUP como método de desarrollo de software. El cliente ha definido las funcionalidades del sistema, entre ellas que cuando un usuario ingrese y no esté registrado en el sistema, pueda registrarse. Se necesita verificar que el documento de requerimientos cumpla con lo que el cliente ha establecido. \n\n\n De acuerdo con la gestión de la calidad en la disciplina de requisitos y los artefactos de requisitos para construir coherencia (entre estándares de artefacto y otros artefactos), determine el caso de uso que garantiza la calidad del producto",
+    "options": [
+      {
+        "index": 0,
+        "text": "$img$"
+      },
+      {
+        "index": 1,
+        "text": "$img$"
+      },
+      {
+        "index": 2,
+        "text": "$img$"
+      }
+    ],
+    "answer": {
+      "index": null,
+      "text": ""
+    },
+    "imageIndexes": [
+      177,
+      178,
+      179,
+      180
+    ]
+  }
+]

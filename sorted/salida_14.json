@@ -1,0 +1,141 @@
+[
+  {
+    "imageName": "10",
+    "imageIndex": "147-148",
+    "index": 10,
+    "text": "De acuerdo con el responsable de desarrollo, se plantea la necesidad de implementar un sistema web que dentro de su funcionalidad permita una navegación intuitiva y que su desarrollo esté enfocado al front-end exclusivamente.\n\n¿Qué framework se requiere para conseguir estos dos objetivos planteados por el responsable?",
+    "options": [
+      {
+        "index": 0,
+        "text": "Bootstrap"
+      },
+      {
+        "index": 1,
+        "text": "React Native"
+      },
+      {
+        "index": 2,
+        "text": "Laravel"
+      }
+    ],
+    "answer": {
+      "index": null,
+      "text": ""
+    },
+    "imageIndexes": [
+      147,
+      148
+    ]
+  },
+  {
+    "imageName": "11",
+    "imageIndex": "149-150",
+    "index": 11,
+    "text": "El equipo de desarrollo configurará un repositorio de código para utilizarlo Durante la etapa de construcción. El líder del equipo ha decidido mantener la integridad de la rama master.\n¿Cuál de las siguientes opciones permite tener un mejor control de versiones para el equipo de desarrollo?",
+    "options": [
+      {
+        "index": 0,
+        "text": "Mantener una rama para cada programador y configurar el merge en la rama master a través de pull request obligatorios"
+      },
+      {
+        "index": 1,
+        "text": "Generar una rama para cada programador y hacerlos colaboradores en el repositorio para tener acceso a la rama master "
+      },
+      {
+        "index": 2,
+        "text": "Generar un esquema de pruebas de integración en el equipo de desarrollo con un acceso a la rama Master"
+      }
+    ],
+    "answer": {
+      "index": null,
+      "text": ""
+    },
+    "imageIndexes": [
+      149,
+      150
+    ]
+  },
+  {
+    "imageName": "12",
+    "imageIndex": "151-152",
+    "index": 12,
+    "text": "En una empresa farmacéutica existe la necesidad de registrar los movimientos del almacén para llevar el control exacto de las existencias. De acuerdo con el último conteo de movimientos se efectúan alrededor de 5000 diarios.\n\n¿Qué tipo de procesamiento resuelve la problemática planteada?",
+    "options": [
+      {
+        "index": 0,
+        "text": "OLAP"
+      },
+      {
+        "index": 1,
+        "text": "OLTP"
+      },
+      {
+        "index": 2,
+        "text": "Consulta histórica"
+      }
+    ],
+    "answer": {
+      "index": null,
+      "text": ""
+    },
+    "imageIndexes": [
+      151,
+      152
+    ]
+  },
+  {
+    "imageName": "13",
+    "imageIndex": "153-154",
+    "index": 13,
+    "text": "En el desarrollo de un sistema para el ramo químico-bacteriológico, se está por entrar al al sprint que creará el programa de cálculo de resultados para cualquier fórmula química, por lo que se necesita asegurar que el componente esté optimizado en líneas de código y ninguna de las condiciones que se plantean llevan a un resultado no previsto.\n\n ¿Cuál es la técnica de prueba que se debe aplicar a la problemática planteada?",
+    "options": [
+      {
+        "index": 0,
+        "text": "Caja blanca "
+      },
+      {
+        "index": 1,
+        "text": "Caja negra "
+      },
+      {
+        "index": 2,
+        "text": "Top-down"
+      }
+    ],
+    "answer": {
+      "index": null,
+      "text": ""
+    },
+    "imageIndexes": [
+      153,
+      154
+    ]
+  },
+  {
+    "imageName": "14",
+    "imageIndex": "155",
+    "index": 14,
+    "text": "Se hicieron cambios a un sistema de venta de boletos que permitía hasta 500 usuarios, simultáneos para soportar 3000 usuarios; se desea validar cuál es la respuesta al procesar el ingreso de 500, 1500 y 3000 usuarios, de forma parametrizada. \n\nLa prueba que se debe efectuar, de acuerdo con el atributo de calidad solicitado, es la de…",
+    "options": [
+      {
+        "index": 0,
+        "text": "carga"
+      },
+      {
+        "index": 1,
+        "text": "estrés"
+      },
+      {
+        "index": 2,
+        "text": "rendimiento "
+      }
+    ],
+    "answer": {
+      "index": null,
+      "text": ""
+    },
+    "imageIndexes": [
+      155
+    ]
+  }
+]

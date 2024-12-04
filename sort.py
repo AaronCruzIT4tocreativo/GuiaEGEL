@@ -1,65 +1,63 @@
 import os
 import json
-from collections import defaultdict
 
-# Ruta de la carpeta donde están los archivos .json
-carpeta_entrada = "./out_questions"
-carpeta_salida = "./sorted_questions"
+# Función para convertir un rango "100-105" en un array de números [100, 101, 102, 103, 104, 105]
+def parse_range(range_str):
+    parts = range_str.split('-')
+    start = int(parts[0])
+    
+    if len(parts) == 1:
+        return [start]
+    
+    end = int(parts[1])
+    return list(range(start, end + 1))
 
-# Crear la carpeta de salida si no existe
-os.makedirs(carpeta_salida, exist_ok=True)
+# Función para leer los archivos JSON en la carpeta
+def read_json_files(directory):
+    all_data = []
+    for file_name in os.listdir(directory):
+        if file_name.endswith('.json'):
+            with open(os.path.join(directory, file_name), 'r', encoding='utf-8') as file:
+                all_data.extend(json.load(file))
+    return all_data
 
-# Lista para combinar todos los valores de 'imageIndex'
-todos_los_elementos = []
+# Función para procesar los datos y extraer los rangos de números en 'imageIndex'
+def process_image_indexes(data):
+    for item in data:
+        # Procesamos la propiedad 'imageIndex', la cual puede ser un rango o una lista de rangos
+        ranges = item['imageIndex'].split(',')
+        item['imageIndexes'] = []
+        for range_str in ranges:
+            item['imageIndexes'].extend(parse_range(range_str.strip()))
+    return data
 
-# Función para dividir un rango en números individuales
-def expandir_rango(rango):
-    if "-" in rango:
-        inicio, fin = map(int, rango.split("-"))
-        return list(range(inicio, fin + 1))
-    else:
-        return [int(rango)]  # Si no es un rango, convertir a entero
+# Función para ordenar los datos por los números extraídos de imageIndex
+def sort_data_by_image_index(data):
+    return sorted(data, key=lambda x: min(x['imageIndexes']))
 
-# Procesar cada archivo en la carpeta
-for archivo in os.listdir(carpeta_entrada):
-    if archivo.endswith(".json"):
-        ruta_entrada = os.path.join(carpeta_entrada, archivo)
-        try:
-            with open(ruta_entrada, "r", encoding="utf-8") as f:
-                data = json.load(f)
+# Función para guardar los datos en un archivo JSON
+def save_to_json_file(data, output_file):
+    with open(output_file, 'w', encoding='utf-8') as file:
+        json.dump(data, file, indent=2, ensure_ascii=False)  # Asegura que los caracteres no sean escapados
 
-            if isinstance(data, list):
-                for item in data:
-                    if 'imageIndex' in item:
-                        try:
-                            valores = expandir_rango(item['imageIndex'])
-                            # Crear los items con la propiedad 'questionIndex'
-                            for valor in valores:
-                                item['questionIndex'] = valor
-                                todos_los_elementos.append(item.copy())  # Guardamos una copia de cada item
-                        except ValueError:
-                            print(f"Error en archivo '{archivo}': valor no convertible: {item['imageIndex']}")
-            else:
-                print(f"El archivo '{archivo}' no contiene un array en el nivel raíz.")
-        except json.JSONDecodeError:
-            print(f"El archivo '{archivo}' no es un JSON válido.")
-        except Exception as e:
-            print(f"Error inesperado en archivo '{archivo}': {e}")
+# Función principal
+def main():
+    directory = './questions'  # Directorio donde están los archivos JSON
+    base_output_file = './sorted/salida_'  # Prefijo para los archivos de salida
 
-# Agrupar los elementos por 'imageIndex' (convertido a 'questionIndex')
-grupos_por_index = defaultdict(list)
+    # Leer y procesar los datos
+    data = read_json_files(directory)
+    processed_data = process_image_indexes(data)
+    sorted_data = sort_data_by_image_index(processed_data)
 
-for item in todos_los_elementos:
-    grupos_por_index[item['imageIndex']].append(item)
+    # Agrupar los datos en bloques de 5 elementos
+    grouped_data = [sorted_data[i:i + 5] for i in range(0, len(sorted_data), 5)]
 
-# Guardar los elementos en archivos separados por 'imageIndex' y en grupos de 5
-for image_index, elementos in grupos_por_index.items():
-    # Dividir los elementos en grupos de 5
-    for i in range(0, len(elementos), 5):
-        grupo = elementos[i:i+5]
-        nombre_salida = f"{image_index}_{i//5 + 1}.json"
-        ruta_salida = os.path.join(carpeta_salida, nombre_salida)
-        with open(ruta_salida, "w", encoding="utf-8") as salida:
-            json.dump(grupo, salida, indent=4, ensure_ascii=False)
+    # Guardar cada bloque de 5 datos en un archivo separado
+    for index, group in enumerate(grouped_data, start=1):
+        output_file = f"{base_output_file}{index}.json"
+        save_to_json_file(group, output_file)
+        print(f'Datos procesados y guardados en {output_file}')
 
-print(f"Archivos generados y guardados en '{carpeta_salida}'.")
+if __name__ == "__main__":
+    main()

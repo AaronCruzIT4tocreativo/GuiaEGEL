@@ -1,0 +1,145 @@
+[
+  {
+    "imageName": "5",
+    "imageIndex": "134-137",
+    "index": 5,
+    "text": "Una empresa cuenta con un sistema que administra la información de su persona. La base de datos contiene estas tablas:\n\n$img$\n\n$img$\n\n La empresa tiene dos sucursales, en una se desarrollan las actividades propias de producción que únicamente requieren los datos personales de los trabajadores como parte de los registros y la otra, donde se llevan a cabo labores administrativas como el cálculo de la nómina. Para tener una respuesta más rápida del sistema en cada sucursal, el administrador de la base de datos ha decidido fragmentarla, quedando las tablas de este modo:\n\n$img$\n\n$img$\n\n ¿Qué tipo de fragmentación debe realizarse para generar ese resultado?",
+    "options": [
+      {
+        "index": 0,
+        "text": "Mixta"
+      },
+      {
+        "index": 1,
+        "text": "Horizontal "
+      },
+      {
+        "index": 2,
+        "text": "Vertical"
+      }
+    ],
+    "answer": {
+      "index": null,
+      "text": ""
+    },
+    "imageIndexes": [
+      134,
+      135,
+      136,
+      137
+    ]
+  },
+  {
+    "imageName": "6",
+    "imageIndex": "138-141",
+    "index": 6,
+    "text": "En una aseguradora de vehículos, cada vez que se presenta un accidente, el ajustador (código, nombre) acude para levantar un acta de incidente que incluye los datos del accidente (folio, lugar, fecha, hora, causante), de los vehículos involucrados (matrícula, modelo, color, estado, propietario, tipo_participación), de los conductores (id, nombre, versión), de los propietarios (id, nombre, versión), de la póliza de seguro (número, vigencia, cobertura) y de los posibles testigos (id, nombre, versión).\n¿Cuál de los siguientes esquemas representa correctamente la estructura de los datos en una base de datos orientada a grafos?",
+    "options": [
+      {
+        "index": 0,
+        "text": "$img$"
+      },
+      {
+        "index": 1,
+        "text": "$img$"
+      },
+      {
+        "index": 2,
+        "text": "$img$"
+      }
+    ],
+    "answer": {
+      "index": null,
+      "text": ""
+    },
+    "imageIndexes": [
+      138,
+      139,
+      140,
+      141
+    ]
+  },
+  {
+    "imageName": "7",
+    "imageIndex": "142-143",
+    "index": 7,
+    "text": "La red de servicios hospitalarios del país decide distribuir los datos de su base de datos a cada uno de los estados para una mayor velocidad de consulta. Se desea fragmentar las tablas 1 y 2, tomando como criterio el estado al cual se van a transferir.\n\nSi el primer estado que se le va a distribuir es Pue, ¿qué tipo de fragmentación se lleva a cabo en la tabla 3?\n\nTabla 1\n$img$\n\nTabla2\n$img$ \n\nTabla3\n$img$",
+    "options": [
+      {
+        "index": 0,
+        "text": "S/R"
+      },
+      {
+        "index": 1,
+        "text": "S/R"
+      },
+      {
+        "index": 2,
+        "text": "S/R"
+      }
+    ],
+    "answer": {
+      "index": null,
+      "text": ""
+    },
+    "imageIndexes": [
+      142,
+      143
+    ]
+  },
+  {
+    "imageName": "8",
+    "imageIndex": "144-145",
+    "index": 8,
+    "text": "El encargado del Registro Civil de una ciudad desea filtrar en un archivo el número del libro, el nombre, la fecha de nacimiento y el género de las personas registradas ahí, y algunos datos estadísticos por libro. Se desea respetar la confidencialidad de la información filtrada, por lo que se ha creado un archivo que pueda leer la información y mostrarla al encargado de forma entendible. Sin este programa, cuando alguien abra el archivo de forma directa, no podrá visualizar la información. \n\n¿Qué tipo de archivo se requiere utilizar?",
+    "options": [
+      {
+        "index": 0,
+        "text": "De texto con flujos de bytes"
+      },
+      {
+        "index": 1,
+        "text": "De texto con flujos de caracteres"
+      },
+      {
+        "index": 2,
+        "text": "Binario "
+      }
+    ],
+    "answer": {
+      "index": null,
+      "text": ""
+    },
+    "imageIndexes": [
+      144,
+      145
+    ]
+  },
+  {
+    "imageName": "9",
+    "imageIndex": "146",
+    "index": 9,
+    "text": "En una empresa de distribución se ha tomado la decisión de llevar los datos a la nube, por lo cual se resolvió que toda descarga de archivos debe tener un hash asociado para que el usuario que lo descargue lo valide de forma inmediata.\n\n¿Qué principio de seguridad se utiliza en la descarga de archivos?",
+    "options": [
+      {
+        "index": 0,
+        "text": "Disponibilidad "
+      },
+      {
+        "index": 1,
+        "text": "Integridad "
+      },
+      {
+        "index": 2,
+        "text": "Confidencialidad"
+      }
+    ],
+    "answer": {
+      "index": null,
+      "text": ""
+    },
+    "imageIndexes": [
+      146
+    ]
+  }
+]

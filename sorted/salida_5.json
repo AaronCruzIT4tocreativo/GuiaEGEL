@@ -1,0 +1,141 @@
+[
+  {
+    "imageName": "27",
+    "imageIndex": "23",
+    "index": 21,
+    "text": "Una empresa de desarrollo de software debe implementar un sistema informático de gestión de tutorías para una reconocida universidad. Entre los requisitos del cliente se incluye que contenga un dashboard con información obtenida del sistema externo de servicios escolares desarrollado con enfoque orientado a objetos. Por otro lado, también debe apegarse a proceso existente, ya que este se encuentra certificado. Indique el lenguaje de modelado por utilizar para construir y documentar el sistema de forma gráfica, de acuerdo con los requerimientos establecidos.",
+    "options": [
+      {
+        "index": 0,
+        "text": "UML (Unified Modeling Language)"
+      },
+      {
+        "index": 1,
+        "text": "BPMN (Business Processing Modeling Notation)"
+      },
+      {
+        "index": 2,
+        "text": "EMF (Eclipse Modeling Framework)"
+      }
+    ],
+    "answer": {
+      "index": null,
+      "text": ""
+    },
+    "imageIndexes": [
+      23
+    ]
+  },
+  {
+    "imageName": "28",
+    "imageIndex": "24-26",
+    "index": 22,
+    "text": "Se desea documentar los casos de uso de una aplicación móvil para compartir auto.\n\n¿Cuál diagrama modelo correctamente el caso de uso para este sistema?",
+    "options": [
+      {
+        "index": 0,
+        "text": "$img$"
+      },
+      {
+        "index": 1,
+        "text": "$img$"
+      },
+      {
+        "index": 2,
+        "text": "$img$"
+      }
+    ],
+    "answer": {
+      "index": null,
+      "text": ""
+    },
+    "imageIndexes": [
+      24,
+      25,
+      26
+    ]
+  },
+  {
+    "imageName": "29",
+    "imageIndex": "27-29",
+    "index": 23,
+    "text": "Se requiere escribir historias de un usuario con perfil de viajero para diseñar una aplicación de reservación de vuelos.\n\n¿Qué historia es la más adecuada?",
+    "options": [
+      {
+        "index": 0,
+        "text": "Como viajero, quiero que el sistema me muestre en orden los vuelos más baratos de mis fechas disponibles."
+      },
+      {
+        "index": 1,
+        "text": "Cómo viajero, quiero saber cuáles son los destinos más baratos a partir de mi lugar de origen en mis fechas disponibles, para decidir dónde ir de vacaciones"
+      },
+      {
+        "index": 2,
+        "text": "Cómo usuario, quiero saber cuáles son los destinos más baratos para poder seleccionarlos desde un menú desplegable"
+      }
+    ],
+    "answer": {
+      "index": null,
+      "text": ""
+    },
+    "imageIndexes": [
+      27,
+      28,
+      29
+    ]
+  },
+  {
+    "imageName": "30",
+    "imageIndex": "30",
+    "index": 24,
+    "text": "Un sistema web de pagos a terceros está sujeto constantemente a revisiones de seguridad para evitar fraudes; los fallos al sistema son revisados por medio de tickets que permiten confirmar transacciones que no fueron exitosas con los clientes o con las instituciones bancarias involucradas en la disposición de los recursos. Se tiene como objetivo cumplir el escenario de calidad para el atributo rendimiento:\n\nFuente = clientes\nEstímulo = 85 clientes simultáneamente\nEntorno = operación normal\nArtefacto = interfaz de usuario\nRespuesta = tiempo de respuesta\n\nEl estímulo de respuesta al estímulo especificado representa el tiempo en que...",
+    "options": [
+      {
+        "index": 0,
+        "text": "ocurren fallos"
+      },
+      {
+        "index": 1,
+        "text": "atiende un cliente"
+      },
+      {
+        "index": 2,
+        "text": "debe operar"
+      }
+    ],
+    "answer": {
+      "index": null,
+      "text": ""
+    },
+    "imageIndexes": [
+      30
+    ]
+  },
+  {
+    "imageName": "31",
+    "imageIndex": "32",
+    "index": 25,
+    "text": "En el proceso de compras de un sistema se deben realizar las siguientes transacciones: ingreso de la requisición, emisión de la solicitud de cotización y emisión de la orden de compra. Además, deben visualizarse los flujos de los procesos para identificar las áreas que necesitan mejoras o para destacar los sectores de eficiencia.\n\n¿Qué artefactos se necesita documentar de acuerdo con las especificaciones de requerimientos dadas?",
+    "options": [
+      {
+        "index": 0,
+        "text": "Casos de uso"
+      },
+      {
+        "index": 1,
+        "text": "Prototipo de interfaz de usuario"
+      },
+      {
+        "index": 2,
+        "text": "Diagrama de actividades"
+      }
+    ],
+    "answer": {
+      "index": null,
+      "text": ""
+    },
+    "imageIndexes": [
+      32
+    ]
+  }
+]

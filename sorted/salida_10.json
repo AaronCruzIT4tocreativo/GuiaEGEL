@@ -1,0 +1,139 @@
+[
+  {
+    "imageName": "63",
+    "imageIndex": "105",
+    "index": 63,
+    "text": "En una aplicación web de un hospital se maneja todo tipo de expediente electrónico de los pacientes,\npor lo que se almacenan múltiples archivos de diferente tamaño y formato.\n\nClasifique los métodos de envió y recepción de datos al servidor de acuerdo con las peticiones:\n\n1. Es necesario conocer si la pagina principal esta disponible por medio del protocolo HTTP/1.1\nsin obtener cuerpo de respuesta.\n\n2. Es necesario saber si la pagina del expendiente tiene habilitado el metodo de transferencia POST.\n\n3. Envia el expendiente para su almacenamiento.",
+    "options": [
+      {
+        "index": 0,
+        "text": "1-GET, 2-OPTIONS, 3-POST"
+      },
+      {
+        "index": 1,
+        "text": "1-HEAD, 2-OPTIONS, 3-PUT"
+      },
+      {
+        "index": 2,
+        "text": "1-HEAD, 2-GET, 3-POST"
+      }
+    ],
+    "answer": {
+      "index": null,
+      "text": ""
+    },
+    "imageIndexes": [
+      105
+    ]
+  },
+  {
+    "imageName": "64",
+    "imageIndex": "106",
+    "index": 64,
+    "text": "Debido a una nueva política interna, un banco dedicado al sector agrícola busca desconcentrar las actividades de atención y otorgamiento de crédito centrándose en las necesidades de atención a los cuentahabientes. Asimismo se requiere aplicar la técnica de fragmentación a la base de datos relacional actual a fin de decidir la mejor forma de fragmentar; para ello de debe considerar lo siguiente:\n\n. El banco tiene cuentahabientes solo en el norte, centro y sur del país, ya que se dedica a dar prestamos exclusivamente a productores que no exportan.\n\n. La tabla de cuentahabientes incluye los siguientes datos: nombre, dirección, teléfono y correo de contacto.\n\n. Las oficinas que valúan el crédito no se moverán, reciben la solicitud del crédito. realiza el perfilamiento y la clasificación del crédito y asignan el monto por prestar.\n\n. La tabla de crédito tiene los datos de la solicitud, los datos de la calificación y el monto del crédito otorgado.\n\n. La solicitud y el monto del crédito otorgado deben ser en todas las sucursales pero la calificación solo debe realizarla el área central.\n\nEl resultado de aplicar la fragmentación a la tabla de cuentahabiente es _______.\nmientras que para el crédito es ______.",
+    "options": [
+      {
+        "index": 0,
+        "text": "vertical-horizontal\n"
+      },
+      {
+        "index": 1,
+        "text": "horizontal-horizontal"
+      },
+      {
+        "index": 2,
+        "text": "horizontal-vertical"
+      }
+    ],
+    "answer": {
+      "index": null,
+      "text": ""
+    },
+    "imageIndexes": [
+      106
+    ]
+  },
+  {
+    "imageName": "65",
+    "imageIndex": "107-108",
+    "index": 65,
+    "text": "La base de datos de una empresa de reparto se encuentra distribuida en cuatro nodos,\ncomo se muestra en el diagrama. Las tablas de clientes y pedidos están replicadas, los\nlos anchos de banda en cada conexión son los mismos, pero en los últimos días cada que\nse actualiza información en las tablas de pedidos se degradan el tiempo de respuesta.\nLa información en clientes siempre debe tener lo mismo en todos los nodos al mismo \ntiempo.\n\n¿Cual es el enfoque de replicacion por tabla que se debe usar para evitar que se degrade el servicio?",
+    "options": [
+      {
+        "index": 0,
+        "text": "Clientes: activo, Pedidos: activo "
+      },
+      {
+        "index": 1,
+        "text": "Clientes: activo, Pedidos: pasivo"
+      },
+      {
+        "index": 2,
+        "text": "Clientes: pasivo, Pedidos: pasivo"
+      }
+    ],
+    "answer": {
+      "index": null,
+      "text": ""
+    },
+    "imageIndexes": [
+      107,
+      108
+    ]
+  },
+  {
+    "imageName": "66",
+    "imageIndex": "109-110",
+    "index": 66,
+    "text": "Una empresa ferretera con sucursales por todo el país tiene centralizada las compras de producto de sus\nproveedores de todas las filiales en la oficina matriz, para lo cual dispone de una base de datos jerárquica\nque le permita almacenar los datos de todos sus proveedores Como se muestra en el siguiente modelo: \n\n$img$\n\n¿Cuál de los siguientes enunciados describe la organización de los datos presentada en el modelo?",
+    "options": [
+      {
+        "index": 0,
+        "text": "Un proveedor puede tener varias sucursales que distribuyen sus productos según sus zonas de repartición, \nde acuerdo con las órdenes de requisición emitidas por las sucursales."
+      },
+      {
+        "index": 1,
+        "text": "A un proveedor se le asigna un área de distribución de sus productos de acuerdo con su dirección única \npara entregar los productos de las órdenes de compra."
+      },
+      {
+        "index": 2,
+        "text": "Los proveedores cuentan con diferentes sucursales, cada una de las cuales probé distintos productos \nde acuerdo con zona de distribución para cumplir con las órdenes de compra."
+      }
+    ],
+    "answer": {
+      "index": null,
+      "text": ""
+    },
+    "imageIndexes": [
+      109,
+      110
+    ]
+  },
+  {
+    "imageName": "67",
+    "imageIndex": "111",
+    "index": 67,
+    "text": "En una aplicación bancaria se desea lograr 100% de cobertura de sentencia y de decisión en los componentes\n relacionados con los cálculos financieros. \n\n¿Qué tipo de prueba se requiere llevar a cabo para este caso?",
+    "options": [
+      {
+        "index": 0,
+        "text": "Funcional "
+      },
+      {
+        "index": 1,
+        "text": "De portabilidad "
+      },
+      {
+        "index": 2,
+        "text": "Estructural"
+      }
+    ],
+    "answer": {
+      "index": null,
+      "text": ""
+    },
+    "imageIndexes": [
+      111
+    ]
+  }
+]
