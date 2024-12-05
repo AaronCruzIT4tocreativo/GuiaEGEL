@@ -1,21 +1,21 @@
 [
   {
-    "imageName": "5",
-    "imageIndex": "134-137",
-    "index": 5,
-    "text": "Una empresa cuenta con un sistema que administra la información de su persona. La base de datos contiene estas tablas:\n\n$img$\n\n$img$\n\n La empresa tiene dos sucursales, en una se desarrollan las actividades propias de producción que únicamente requieren los datos personales de los trabajadores como parte de los registros y la otra, donde se llevan a cabo labores administrativas como el cálculo de la nómina. Para tener una respuesta más rápida del sistema en cada sucursal, el administrador de la base de datos ha decidido fragmentarla, quedando las tablas de este modo:\n\n$img$\n\n$img$\n\n ¿Qué tipo de fragmentación debe realizarse para generar ese resultado?",
+    "imageName": "67",
+    "imageIndex": "111",
+    "index": 67,
+    "text": "En una aplicación bancaria se desea lograr 100% de cobertura de sentencia y de decisión en los componentes\n relacionados con los cálculos financieros. \n\n¿Qué tipo de prueba se requiere llevar a cabo para este caso?",
     "options": [
       {
         "index": 0,
-        "text": "Mixta"
+        "text": "Funcional "
       },
       {
         "index": 1,
-        "text": "Horizontal "
+        "text": "De portabilidad "
       },
       {
         "index": 2,
-        "text": "Vertical"
+        "text": "Estructural"
       }
     ],
     "answer": {
@@ -23,17 +23,14 @@
       "text": ""
     },
     "imageIndexes": [
-      134,
-      135,
-      136,
-      137
+      111
     ]
   },
   {
-    "imageName": "6",
-    "imageIndex": "138-141",
-    "index": 6,
-    "text": "En una aseguradora de vehículos, cada vez que se presenta un accidente, el ajustador (código, nombre) acude para levantar un acta de incidente que incluye los datos del accidente (folio, lugar, fecha, hora, causante), de los vehículos involucrados (matrícula, modelo, color, estado, propietario, tipo_participación), de los conductores (id, nombre, versión), de los propietarios (id, nombre, versión), de la póliza de seguro (número, vigencia, cobertura) y de los posibles testigos (id, nombre, versión).\n¿Cuál de los siguientes esquemas representa correctamente la estructura de los datos en una base de datos orientada a grafos?",
+    "imageName": "68",
+    "imageIndex": "112-113",
+    "index": 68,
+    "text": "Se desea crear un juego didáctico para que los niños aprendan diversos temas de interés escolar o de cultura general, por medio de preguntas correctas que les permitan acceder a escenarios más complejos.\nSe contará con un estímulo de recompensas por avanzar de nivel y se obtendrán certificados de \nparticipación sobresaliente. \nConsiderando que la aplicación será utilizada por niños y no es tan relevante llevar un registro muy estricto o confidencialidad de los usuarios, se puede identificar la línea desde donde se recibe la solicitud de acceso. Dado que el diseño debe ser sencillo, ¿qué interfaz de autenticación de baja fidelidad se requiere?",
     "options": [
       {
         "index": 0,
@@ -53,29 +50,27 @@
       "text": ""
     },
     "imageIndexes": [
-      138,
-      139,
-      140,
-      141
+      112,
+      113
     ]
   },
   {
-    "imageName": "7",
-    "imageIndex": "142-143",
-    "index": 7,
-    "text": "La red de servicios hospitalarios del país decide distribuir los datos de su base de datos a cada uno de los estados para una mayor velocidad de consulta. Se desea fragmentar las tablas 1 y 2, tomando como criterio el estado al cual se van a transferir.\n\nSi el primer estado que se le va a distribuir es Pue, ¿qué tipo de fragmentación se lleva a cabo en la tabla 3?\n\nTabla 1\n$img$\n\nTabla2\n$img$ \n\nTabla3\n$img$",
+    "imageName": "69",
+    "imageIndex": "114-115",
+    "index": 69,
+    "text": "El equipo de desarrollo realiza el caso de uso \"editor de texto\". Esto debe contener una barra de menú y el área donde se escribirá la información. ¿Cómo se completa el código snippet que aplica el esquema de diseño de alta fidelidad? \n\nJFrame v = new JFrame (\"\");\nJMenuBar barraMenu= new JMenuBar();\nJTextArea areaTexto= new jTextArea();",
     "options": [
       {
         "index": 0,
-        "text": "S/R"
+        "text": "v.getContentPane().add(barra Menu, BorderLayout.NORTH);\n\nv.getContentPane().add(areaTexto, BorderLayout.CENTER);"
       },
       {
         "index": 1,
-        "text": "S/R"
+        "text": "v.getContentPane().add(barra Menu, FlowLayout.NORTH);\n\nv.getContentPane().add(area Texto, FlowLayout.CENTER);"
       },
       {
         "index": 2,
-        "text": "S/R"
+        "text": "v.getContentPane().add(barraMenu, GridLayout.NORTH);\n\nv.getContentPane().add(areaTexto, GridLayout.CENTER);"
       }
     ],
     "answer": {
@@ -83,27 +78,27 @@
       "text": ""
     },
     "imageIndexes": [
-      142,
-      143
+      114,
+      115
     ]
   },
   {
-    "imageName": "8",
-    "imageIndex": "144-145",
-    "index": 8,
-    "text": "El encargado del Registro Civil de una ciudad desea filtrar en un archivo el número del libro, el nombre, la fecha de nacimiento y el género de las personas registradas ahí, y algunos datos estadísticos por libro. Se desea respetar la confidencialidad de la información filtrada, por lo que se ha creado un archivo que pueda leer la información y mostrarla al encargado de forma entendible. Sin este programa, cuando alguien abra el archivo de forma directa, no podrá visualizar la información. \n\n¿Qué tipo de archivo se requiere utilizar?",
+    "imageName": "70",
+    "imageIndex": "116-119",
+    "index": 70,
+    "text": "Se desea diseñar una aplicación (skill) para un asistente de voz que permita hacer pedidos de diferentes tipos de pizza.\n\n Si la intención (intent) es order_pizza, ¿cuál de las siguientes opciones indica el esquema de una expresión (utterance) válida que incluya un nombre de ranura (slot)?",
     "options": [
       {
         "index": 0,
-        "text": "De texto con flujos de bytes"
+        "text": "$img$"
       },
       {
         "index": 1,
-        "text": "De texto con flujos de caracteres"
+        "text": "$img$"
       },
       {
         "index": 2,
-        "text": "Binario "
+        "text": "$img$"
       }
     ],
     "answer": {
@@ -111,27 +106,29 @@
       "text": ""
     },
     "imageIndexes": [
-      144,
-      145
+      116,
+      117,
+      118,
+      119
     ]
   },
   {
-    "imageName": "9",
-    "imageIndex": "146",
-    "index": 9,
-    "text": "En una empresa de distribución se ha tomado la decisión de llevar los datos a la nube, por lo cual se resolvió que toda descarga de archivos debe tener un hash asociado para que el usuario que lo descargue lo valide de forma inmediata.\n\n¿Qué principio de seguridad se utiliza en la descarga de archivos?",
+    "imageName": "71",
+    "imageIndex": "120-121",
+    "index": 71,
+    "text": "En una página web dirigida a personas que desean aprender a programar, al intentar crear una cuenta de maestro aparece el siguiente error.\n\n$img$\n\n Considerando la heurística \"Ayuda a los usuarios a reconocer, diagnosticar y recuperarse de errores\",  ¿qué modificación se requiere para la correcta implementación de la cuenta de maestro?",
     "options": [
       {
         "index": 0,
-        "text": "Disponibilidad "
+        "text": "Colocar un botón que permita regresar al paso anterior e ilustrar el error en color rojo."
       },
       {
         "index": 1,
-        "text": "Integridad "
+        "text": "Agregar al mensaje de las características que debe de tener un password válido."
       },
       {
         "index": 2,
-        "text": "Confidencialidad"
+        "text": "Mostrar el error junto al campo de contraseña."
       }
     ],
     "answer": {
@@ -139,7 +136,8 @@
       "text": ""
     },
     "imageIndexes": [
-      146
+      120,
+      121
     ]
   }
 ]

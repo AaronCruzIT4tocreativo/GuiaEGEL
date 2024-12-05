@@ -1,0 +1,26 @@
+[
+  {
+    "imageName": "62",
+    "imageIndex": "103-104",
+    "index": 62,
+    "text": "La aplicación que conecta al servidor de base de datos de una empresa de venta de tecnología necesita aumentar 10% el costo de los 600 productos de importación que ofrece.\n\nSeleccione el método requerido para enviar la información al servidor sin que se afecte el desempeño del sistema.",
+    "options": [
+      {
+        "index": 0,
+        "text": "Put"
+      },
+      {
+        "index": 1,
+        "text": "Patch"
+      },
+      {
+        "index": 2,
+        "text": "Post"
+      }
+    ],
+    "answer": {
+      "index": null,
+      "text": ""
+    }
+  }
+]

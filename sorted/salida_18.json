@@ -1,21 +1,21 @@
 [
   {
-    "imageName": "30",
-    "imageIndex": "171",
-    "index": 30,
-    "text": "La empresa TecnoVisión está desarrollando sistema de control administrativo para una inmobiliaria. La duración del proyecto es de 4 meses, con la colaboración de dos desarrolladores y un analista de datos. El cliente solicita que el proyecto se termine en un 1 mes antes de lo previsto, por lo que el líder de proyecto debe mostrar la diferentes alternativas para lograr cumplir con la reducción del tiempo de desarrollo que el cliente solicita.\n\n¿Qué métrica se requiere para calcular este proyecto?",
+    "imageName": "19",
+    "imageIndex": "160",
+    "index": 19,
+    "text": "Un sistema de rastreo, dentro de un centro de tutorías para estudiantes, se accede mediante una aplicación web; en este, los estudiantes o sus \ntutores pueden registrar su ingreso o salida. El centro de tutorías puede rastrear la asistencia, las actualizaciones de estado y, además, pueden registrar información de contacto para tutores y estudiantes. Asimismo, se probó cuando fuera aumentando el número de usuarios (Estudiantes y tutores) no disminuyera la velocidad y tampoco la cantidad de tráfico en la red.\n\n¿Qué artefacto permite documentar los resultados de las pruebas en la aplicación web?",
     "options": [
       {
         "index": 0,
-        "text": "Variación del cronograma "
+        "text": "Formulario de carta de aceptación"
       },
       {
         "index": 1,
-        "text": "Índice de desempeño del trabajo por completar (TCPI)"
+        "text": "Formulario de instrucciones de entrega"
       },
       {
         "index": 2,
-        "text": "Ruta crítica"
+        "text": "Matriz de seguimiento de requerimientos"
       }
     ],
     "answer": {
@@ -23,26 +23,26 @@
       "text": ""
     },
     "imageIndexes": [
-      171
+      160
     ]
   },
   {
-    "imageName": "31",
-    "imageIndex": "172",
-    "index": 31,
-    "text": "Una microempresa inicia un proyecto de desarrollo de una aplicación de intercambio de divisas para una casa de cambio que tiene sucursales en diferentes ciudades del mundo.\n\nSi desea tener el reconocimiento de mercado internacional, cuál es el estándar de calidad que debe utilizar",
+    "imageName": "20",
+    "imageIndex": "161",
+    "index": 20,
+    "text": "Un equipo de trabajo requiere desarrollar una aplicación Movil, multi plataforma( iOS, Android, Windows Phone en C# y .NET) para ayudar a los pacientes diabéticos a calcular las dosis de insulina antes de la ingesta diaria de los alimentos. El cálculo se realiza con base en el conteo de carbohidratos, el nivel de glucosa actual y otros parámetros. Adicionalmente, se ha pedido que la aplicación conserve el aspecto y comportamiento inherentes a cada tipo de dispositivo móvil. \n\n¿Cuál de las siguientes plataformas se requiere para desarrollar la aplicación?",
     "options": [
       {
         "index": 0,
-        "text": "ISO/IEC 29110"
+        "text": "Knockout"
       },
       {
         "index": 1,
-        "text": "ITMark"
+        "text": "Ionic"
       },
       {
         "index": 2,
-        "text": "Moprosoft"
+        "text": "Xamarin"
       }
     ],
     "answer": {
@@ -50,26 +50,26 @@
       "text": ""
     },
     "imageIndexes": [
-      172
+      161
     ]
   },
   {
-    "imageName": "32",
-    "imageIndex": "173",
-    "index": 32,
-    "text": "Un equipo, desarrollo en sistema de incorporación transaccional, utilizando una metodología de desarrollo RUP. Con base en los requisitos funcionales y el análisis de sistema, se estimado una duración de 10 meses, durante los cuales será implementado por cinco programadores quienes cobran $1,500 por día. Sin embargo, el cliente ha solicitado un tiempo de 9 meses para la terminación del proyecto.\n\n¿Qué método permite identificar los ajustes requeridos por cumplir con la solicitud del cliente?",
+    "imageName": "21",
+    "imageIndex": "162",
+    "index": 21,
+    "text": "Se implementará un desarrollo web para una empresa de la industria planificadora. En ese sentido, el requerimiento es administrar las ventas en la línea de sus productos. Asimismo, el servidor propio para la empresa debe contar con las siguientes características: \n\nprocesador Intel Xeon(ocho núcleos)\n\nDisco duro 2 × 1 TB en RAID 1 \n\nMemoria RAM de 8 GB.\n\nControl de puerto.\n\nSistema operativo Linux.\n\nPor otra parte, se lleva a cabo un estudio de costo, y el valor optimista del servidor es de $8,000, el más probable es de $10,000 y la pesimista es de $12,000;  no obstante, el contrato de mantenimiento costaría $5,000 y los componentes de reemplazo de servidor $2,500.\n\nAplicando la distribución beta de la estimación por tres valores, ¿cuál es el costo total del servidor para el desarrollo web?",
     "options": [
       {
         "index": 0,
-        "text": "Variación del cronograma "
+        "text": "$16,500"
       },
       {
         "index": 1,
-        "text": "Índice de desempeño del cronograma"
+        "text": "$17,500"
       },
       {
         "index": 2,
-        "text": "Ruta crítica"
+        "text": "$18,500"
       }
     ],
     "answer": {
@@ -77,26 +77,26 @@
       "text": ""
     },
     "imageIndexes": [
-      173
+      162
     ]
   },
   {
-    "imageName": "33",
-    "imageIndex": "174",
-    "index": 33,
-    "text": "La empresa Teknei desarrolla un software para la administración de un servicio de transporte público de autobuses en una ciudad donde debe controlar recorridos por camiones, cobro por usuario estación con mayor demanda estación con menor demanda, tiempo de recorrido, etcétera. El sistema presenta un error en el código ya que no está ejecutando la instrucción correcta para que se contabilice de manera adecuada el cobro por usuario y se vaya sumando para que nos arroje el total de los ingresos al día.\n\n¿Cuál técnica se requiere para resolver el problema?",
+    "imageName": "22",
+    "imageIndex": "163",
+    "index": 22,
+    "text": "Un equipo desarrolla un sistema de reservas para un hotel y utilizar RUP como método de desarrollo. Ha concluido un ciclo de vida para el proyecto y el cliente solicita incorporar nuevas funcionalidades al sistema por lo que se debe estimar el tiempo de desarrollo con base en la ruta crítica.\n\nDe acuerdo con los datos de la tabla, determine, en semanas, el tiempo de desarrollo para incorporar las nuevas funcionalidades al sistema\n\n$img$",
     "options": [
       {
         "index": 0,
-        "text": "Depuración"
+        "text": "9"
       },
       {
         "index": 1,
-        "text": "Bitácora "
+        "text": "10"
       },
       {
         "index": 2,
-        "text": "Guías y estándares de programación"
+        "text": "11"
       }
     ],
     "answer": {
@@ -104,26 +104,26 @@
       "text": ""
     },
     "imageIndexes": [
-      174
+      163
     ]
   },
   {
-    "imageName": "34",
-    "imageIndex": "175",
-    "index": 34,
-    "text": "Calidrax desarrolla  un software para el control de contratos en compra  de suministros, el Departamento de Calidad tiene que validar en dónde se encuentra el error, documentar la revisión, inspeccionar para identificar las fallas y tener el registro de incidencias. Es necesario realizar las anotaciones pertinentes con identificación de defectos en el sistema.\n\n¿Cuál es el método que tiene que implementar el departamento de calidad?",
+    "imageName": "23",
+    "imageIndex": "164",
+    "index": 23,
+    "text": "La empresa Design debe desarrollar un sistema para control de ventas e inventarios para el cual contra dos desarrolladores y un analista por 2 meses. La compañía hizo un proyecto similar, hace 1 año y el costo por día fue de $530 para los desarrolladores y $350 para analistas, trabajando 8 horas por dos meses, sólo en días hábiles.\n\nUtilizando la herramienta de estimación análoga, calcula el costo en el recurso humano para este proyecto.",
     "options": [
       {
         "index": 0,
-        "text": "Revisiones de desempeño "
+        "text": "$56,400"
       },
       {
         "index": 1,
-        "text": "Hojas de verificación "
+        "text": "$78,960"
       },
       {
         "index": 2,
-        "text": "Listas de verificación"
+        "text": "631,680"
       }
     ],
     "answer": {
@@ -131,7 +131,7 @@
       "text": ""
     },
     "imageIndexes": [
-      175
+      164
     ]
   }
 ]

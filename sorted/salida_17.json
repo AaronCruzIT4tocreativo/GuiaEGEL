@@ -1,21 +1,21 @@
 [
   {
-    "imageName": "25",
-    "imageIndex": "166",
-    "index": 25,
-    "text": "Una empresa de desarrollo de software trabaja en la creación de un sistema para el control de una línea de ensamble de una planta automotriz.\n\nTeniendo en cuenta el modelo Cocomo ll, y que dicho sistema tendrá un tamaño de 20KLDC, una constante de esfuerzo de 2.8 debido a la alta complejidad del proyecto y un factor exponencial de 1.2, ¿cuál es el esfuerzo requerido en personas-mes, para atender con éxito dicho proyecto?",
+    "imageName": "14",
+    "imageIndex": "155",
+    "index": 14,
+    "text": "Se hicieron cambios a un sistema de venta de boletos que permitía hasta 500 usuarios, simultáneos para soportar 3000 usuarios; se desea validar cuál es la respuesta al procesar el ingreso de 500, 1500 y 3000 usuarios, de forma parametrizada. \n\nLa prueba que se debe efectuar, de acuerdo con el atributo de calidad solicitado, es la de…",
     "options": [
       {
         "index": 0,
-        "text": "33.4 persona-mes"
+        "text": "carga"
       },
       {
         "index": 1,
-        "text": "66.8 persona-mes"
+        "text": "estrés"
       },
       {
         "index": 2,
-        "text": "101.94 persona-mes"
+        "text": "rendimiento "
       }
     ],
     "answer": {
@@ -23,26 +23,26 @@
       "text": ""
     },
     "imageIndexes": [
-      166
+      155
     ]
   },
   {
-    "imageName": "26",
-    "imageIndex": "167",
-    "index": 26,
-    "text": "Un desarrollo de software de inteligencia artificial para el reconocimiento de patrones debe tener un atributo de exactitud, bajo acoplamiento y alta cohesión, por lo que se debe considerar el riesgo de incluir módulos en el sistema que no cumplan con lo solicitado.\n\nLa siguiente tabla muestra los posibles riesgos:\n\n$img$\n\n¿Cuál es la estimación de riesgo, si se aplica un análisis cuantitativo, al realizar la inspecciones en los módulos del sistema?",
+    "imageName": "15",
+    "imageIndex": "156",
+    "index": 15,
+    "text": "Se desarrolló una aplicación para hacer empleada en un proyecto de lanzamiento que correrá en un sistema operativo iOS; sin embargo, aún no se dan cuenta con los dispositivos, por lo que las pruebas se deberán correrse en un emulador para PC para que para no desfasar el proyecto.\n\n¿Cuál es la herramienta que se puede emplear para aprobarla?",
     "options": [
       {
         "index": 0,
-        "text": "$8,000"
+        "text": "Apetito"
       },
       {
         "index": 1,
-        "text": "$15,000"
+        "text": "Genimotion "
       },
       {
         "index": 2,
-        "text": "$39,000"
+        "text": "Memi"
       }
     ],
     "answer": {
@@ -50,26 +50,26 @@
       "text": ""
     },
     "imageIndexes": [
-      167
+      156
     ]
   },
   {
-    "imageName": "27",
-    "imageIndex": "168",
-    "index": 27,
-    "text": "El análisis de viabilidad de un proyecto para un corporativo financiero indica que el principal aspecto por considerar son los problemas de seguridad. Una alternativa de solución para la ejecución del proyecto es el desarrollo de un software bancario, cuya característica más importante debe ser la resistencia de los ataques accidentales o intencionales que podrían hacerse en los programas, datos y documentación.\n\nLa acción que sigue para ejecutar el proyecto es definirlas las ___ por utilizar",
+    "imageName": "16",
+    "imageIndex": "157",
+    "index": 16,
+    "text": "Un equipo de desarrollo de software ha codificado una aplicación móvil que permite mantener una conversación con una persona, detectar su estado de ánimo y proponer la actividades, dependiendo del caso; la aplicación ha sido desarrollada utilizando Android Studio. El equipo desea un código fuente de calidad que proporcione un alto rendimiento, por lo que va a utilizar un validador de código estático para verificar si existen problemas estructurales.\n\n¿Qué tipo de validador se requiere?",
     "options": [
       {
         "index": 0,
-        "text": "métricas de contenido"
+        "text": "SonarQube"
       },
       {
         "index": 1,
-        "text": "métricas de calidad "
+        "text": "Lint"
       },
       {
         "index": 2,
-        "text": "métricas de proceso"
+        "text": "Review Board"
       }
     ],
     "answer": {
@@ -77,26 +77,26 @@
       "text": ""
     },
     "imageIndexes": [
-      168
+      157
     ]
   },
   {
-    "imageName": "28",
-    "imageIndex": "169",
-    "index": 28,
-    "text": "Se tiene que un requerimiento de un sistema web complejo y con tiempos muy acotados, que de acuerdo con el contrato será penalizado con 18% del costo total del proyecto establecido en $250,000, en caso de accederse hasta 15 días de fecha límite. Derivado de la alta rotación de los líderes de proyecto con experiencia que existe en la consultoría para este tipo de desarrollos, se tiene identificado el riesgo de qué se retrase la conclusión del proyecto hasta semana y media más el tiempo estimado, y con base en los movimientos del personal que se ha tenido de los en el último año, la probabilidad de qué el proyecto se pueda retrasar hasta 10 días, es de15%.\n\nLa consultoría utilizada la matriz de calificación, evaluación y respuesta al riesgo, a la cual desea integrar el riesgo existente en este proyecto. Determine el resultado del cálculo.",
+    "imageName": "17",
+    "imageIndex": "158",
+    "index": 17,
+    "text": "En un hospital para niños con cáncer se requiere de una aplicación para registrar el estado de ánimo de aquellos que van a entrar a un procedimiento; por medio de una encuesta con animaciones se explicará a cada uno de ellos el tipo de preguntas. La mayoría de los niños por encuestar se encuentra en la cama y no se puede desplazar.\n\n¿Qué tipo de plataforma de desarrollo se requiere? \n",
     "options": [
       {
         "index": 0,
-        "text": "$6,750"
+        "text": "De escritorio "
       },
       {
         "index": 1,
-        "text": "$37,500"
+        "text": "Embebido "
       },
       {
         "index": 2,
-        "text": "$45,000"
+        "text": "Móvil"
       }
     ],
     "answer": {
@@ -104,26 +104,26 @@
       "text": ""
     },
     "imageIndexes": [
-      169
+      158
     ]
   },
   {
-    "imageName": "29",
-    "imageIndex": "170",
-    "index": 29,
-    "text": "En una empresa de transporte se desarrolló un sistema para el pago por medio de tarjeta, el cual tendrá que validar 25 procesos por un máximo de 3 segundos para dar acceso al usuario. El sistema está presentado problemas ya que en ocasiones el sistema tiene un atraso hasta de 30 segundos. Asumiendo que la conexión de Internet funciona correctamente y tiene una velocidad estándar en el mercado, se requiere identificar el problema raíz.\n\n¿Cuál es la métrica a implementar?",
+    "imageName": "18",
+    "imageIndex": "159",
+    "index": 18,
+    "text": "Se han contratado los servicios de un ingeniero de software para documentar una API que se liberará en una semana. Debido a que el líder de proyecto responsable renunció y no dejó nada documentado, se revisaron los programas y se encontró que todas las clases sin excepción, tienen los identificadores en el inicio: @autor,@deprecated,@param,@return,@see,@versión. Es necesario que la documentación sea generada en HTML. \n\n¿Cuál es la herramienta necesaria para generar documentación de acuerdo con lo planteado?",
     "options": [
       {
         "index": 0,
-        "text": "Reporte de tiempo de respuesta al cliente"
+        "text": "DocFX"
       },
       {
         "index": 1,
-        "text": "Reporte de throughput"
+        "text": "JavaDoc"
       },
       {
         "index": 2,
-        "text": "Reporte de errores encontrados por línea de código  "
+        "text": "Docxgen"
       }
     ],
     "answer": {
@@ -131,7 +131,7 @@
       "text": ""
     },
     "imageIndexes": [
-      170
+      159
     ]
   }
 ]

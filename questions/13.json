@@ -21,13 +21,7 @@
     "answer": {
       "index": null,
       "text": ""
-    },
-    "imageIndexes": [
-      81,
-      82,
-      83,
-      84
-    ]
+    }
   },
   {
     "imageName": "58",
@@ -51,11 +45,7 @@
     "answer": {
       "index": null,
       "text": ""
-    },
-    "imageIndexes": [
-      85,
-      86
-    ]
+    }
   },
   {
     "imageName": "59",
@@ -79,13 +69,7 @@
     "answer": {
       "index": null,
       "text": ""
-    },
-    "imageIndexes": [
-      87,
-      88,
-      89,
-      90
-    ]
+    }
   },
   {
     "imageName": "60",
@@ -109,16 +93,11 @@
     "answer": {
       "index": null,
       "text": ""
-    },
-    "imageIndexes": [
-      91,
-      92,
-      93
-    ]
+    }
   },
   {
     "imageName": "61",
-    "imageIndex": "94-102",
+    "imageIndex": "95-103",
     "index": 61,
     "text": "En un punto de venta de un distribuidor de papel se tiene la hoja de cálculo con la información de las ventas realizadas, como se muestra a continuación.\n\n$img$",
     "options": [
@@ -138,17 +117,6 @@
     "answer": {
       "index": null,
       "text": ""
-    },
-    "imageIndexes": [
-      94,
-      95,
-      96,
-      97,
-      98,
-      99,
-      100,
-      101,
-      102
-    ]
+    }
   }
 ]
