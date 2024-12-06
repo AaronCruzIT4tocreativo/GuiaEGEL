@@ -1,0 +1,22 @@
+[
+    {
+        "index": "67",
+        "answer": "\"Estructural\".",
+        "explanation": "Las pruebas estructurales se centran en la cobertura de las estructuras del código, como las sentencias y decisiones, asegurando que todos los caminos posibles sean ejecutados, lo cual es necesario para asegurar una cobertura del 100% en cálculos financieros."
+    },
+    {
+        "index": "69",
+        "answer": "\"v.getContentPane().add(barraMenu, BorderLayout.NORTH); v.getContentPane().add(areaTexto, BorderLayout.CENTER);\".",
+        "explanation": "Este código usa el diseño de alta fidelidad en un `JFrame`, colocando la barra de menú en la parte superior (`BorderLayout.NORTH`) y el área de texto en el centro (`BorderLayout.CENTER`), lo que garantiza una interfaz limpia y funcional."
+    },
+    {
+        "index": "70",
+        "answer": "Sin respuesta (sin detalles del esquema de expresión).",
+        "explanation": "Para crear una expresión válida en un asistente de voz que incluya un nombre de ranura, se necesita un ejemplo específico del esquema de la expresión con un nombre de ranura (`slot`)."
+    },
+    {
+        "index": "71",
+        "answer": "\"Agregar al mensaje de las características que debe de tener un password válido.\"",
+        "explanation": "Según la heurística mencionada, proporcionar una indicación clara sobre las características del password directamente en el mensaje de error ayudará al usuario a comprender el error y corregirlo sin frustración."
+    }
+]

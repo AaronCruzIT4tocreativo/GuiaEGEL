@@ -1,0 +1,146 @@
+[
+    {
+        "imageName": "9",
+        "imageIndex": "146",
+        "index": 9,
+        "text": "En una empresa de distribución se ha tomado la decisión de llevar los datos a la nube, por lo cual se resolvió que toda descarga de archivos debe tener un hash asociado para que el usuario que lo descargue lo valide de forma inmediata.\n\n¿Qué principio de seguridad se utiliza en la descarga de archivos?",
+        "options": [
+            {
+                "index": 0,
+                "text": "Disponibilidad "
+            },
+            {
+                "index": 1,
+                "text": "Integridad "
+            },
+            {
+                "index": 2,
+                "text": "Confidencialidad"
+            }
+        ],
+        "answer": {
+            "index": 0,
+            "text": "Disponibilidad ",
+            "explanation": "Explicación no proporcionada, ya que no se seleccionó una respuesta."
+        },
+        "imageIndexes": [
+            146
+        ]
+    },
+    {
+        "imageName": "10",
+        "imageIndex": "147-148",
+        "index": 10,
+        "text": "De acuerdo con el responsable de desarrollo, se plantea la necesidad de implementar un sistema web que dentro de su funcionalidad permita una navegación intuitiva y que su desarrollo esté enfocado al front-end exclusivamente.\n\n¿Qué framework se requiere para conseguir estos dos objetivos planteados por el responsable?",
+        "options": [
+            {
+                "index": 0,
+                "text": "Bootstrap"
+            },
+            {
+                "index": 1,
+                "text": "React Native"
+            },
+            {
+                "index": 2,
+                "text": "Laravel"
+            }
+        ],
+        "answer": {
+            "index": 0,
+            "text": "Bootstrap",
+            "explanation": "Explicación no proporcionada, ya que no se seleccionó una respuesta."
+        },
+        "imageIndexes": [
+            147,
+            148
+        ]
+    },
+    {
+        "imageName": "11",
+        "imageIndex": "149-150",
+        "index": 11,
+        "text": "El equipo de desarrollo configurará un repositorio de código para utilizarlo Durante la etapa de construcción. El líder del equipo ha decidido mantener la integridad de la rama master.\n¿Cuál de las siguientes opciones permite tener un mejor control de versiones para el equipo de desarrollo?",
+        "options": [
+            {
+                "index": 0,
+                "text": "Mantener una rama para cada programador y configurar el merge en la rama master a través de pull request obligatorios"
+            },
+            {
+                "index": 1,
+                "text": "Generar una rama para cada programador y hacerlos colaboradores en el repositorio para tener acceso a la rama master "
+            },
+            {
+                "index": 2,
+                "text": "Generar un esquema de pruebas de integración en el equipo de desarrollo con un acceso a la rama Master"
+            }
+        ],
+        "answer": {
+            "index": 0,
+            "text": "Mantener una rama para cada programador y configurar el merge en la rama master a través de pull request obligatorios",
+            "explanation": "Explicación no proporcionada, ya que no se seleccionó una respuesta."
+        },
+        "imageIndexes": [
+            149,
+            150
+        ]
+    },
+    {
+        "imageName": "12",
+        "imageIndex": "151-152",
+        "index": 12,
+        "text": "En una empresa farmacéutica existe la necesidad de registrar los movimientos del almacén para llevar el control exacto de las existencias. De acuerdo con el último conteo de movimientos se efectúan alrededor de 5000 diarios.\n\n¿Qué tipo de procesamiento resuelve la problemática planteada?",
+        "options": [
+            {
+                "index": 0,
+                "text": "OLAP"
+            },
+            {
+                "index": 1,
+                "text": "OLTP"
+            },
+            {
+                "index": 2,
+                "text": "Consulta histórica"
+            }
+        ],
+        "answer": {
+            "index": 0,
+            "text": "OLAP",
+            "explanation": "Explicación no proporcionada, ya que no se seleccionó una respuesta."
+        },
+        "imageIndexes": [
+            151,
+            152
+        ]
+    },
+    {
+        "imageName": "13",
+        "imageIndex": "153-154",
+        "index": 13,
+        "text": "En el desarrollo de un sistema para el ramo químico-bacteriológico, se está por entrar al al sprint que creará el programa de cálculo de resultados para cualquier fórmula química, por lo que se necesita asegurar que el componente esté optimizado en líneas de código y ninguna de las condiciones que se plantean llevan a un resultado no previsto.\n\n ¿Cuál es la técnica de prueba que se debe aplicar a la problemática planteada?",
+        "options": [
+            {
+                "index": 0,
+                "text": "Caja blanca "
+            },
+            {
+                "index": 1,
+                "text": "Caja negra "
+            },
+            {
+                "index": 2,
+                "text": "Top-down"
+            }
+        ],
+        "answer": {
+            "index": 0,
+            "text": "Caja blanca ",
+            "explanation": "Explicación no proporcionada, ya que no se seleccionó una respuesta."
+        },
+        "imageIndexes": [
+            153,
+            154
+        ]
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "index": "4",
+        "answer": "Sin respuesta (diagrama de datos no puede ser interpretado sin las imágenes).",
+        "explanation": "El diagrama de datos es necesario para determinar el registro de datos correcto, pero las imágenes son esenciales para brindar una respuesta precisa."
+    },
+    {
+        "index": "5",
+        "answer": "\"Mixta\".",
+        "explanation": "La fragmentación mixta es adecuada cuando se combinan fragmentaciones horizontales y verticales, dependiendo de los datos y las necesidades de cada sucursal. Esta opción permite una fragmentación eficiente para el rendimiento."
+    },
+    {
+        "index": "6",
+        "answer": "Sin respuesta (esquema de base de datos orientada a grafos no puede ser interpretado sin las imágenes).",
+        "explanation": "La estructura de los datos en una base de datos orientada a grafos necesita ser visualizada en el diagrama para identificar la correcta representación de los nodos y relaciones."
+    },
+    {
+        "index": "7",
+        "answer": "Sin respuesta (tipo de fragmentación en tabla no puede ser determinado sin las imágenes).",
+        "explanation": "La fragmentación de datos debe basarse en la distribución de los estados, pero las imágenes proporcionadas son necesarias para brindar una respuesta adecuada."
+    },
+    {
+        "index": "8",
+        "answer": "\"Binario\".",
+        "explanation": "Un archivo binario es ideal para almacenar datos confidenciales y hacerlos inaccesibles a usuarios no autorizados, ya que se puede leer de forma segura con un programa que decodifique la información."
+    }
+]

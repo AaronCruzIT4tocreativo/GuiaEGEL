@@ -1,0 +1,27 @@
+[
+    {
+        "index": "19",
+        "answer": "\"Matriz de seguimiento de requerimientos\".",
+        "explanation": "La matriz de seguimiento de requerimientos documenta los resultados de las pruebas y permite asegurar que todos los requerimientos del sistema se han probado correctamente, lo cual es esencial para rastrear la asistencia y las actualizaciones de estado."
+    },
+    {
+        "index": "20",
+        "answer": "\"Xamarin\".",
+        "explanation": "Xamarin permite el desarrollo de aplicaciones móviles multiplataforma en C# y .NET, conservando el aspecto y comportamiento nativo de cada dispositivo móvil, ideal para la aplicación que se requiere en este caso."
+    },
+    {
+        "index": "21",
+        "answer": "\"$17,500\".",
+        "explanation": "El costo total del servidor se calcula utilizando la distribución beta, lo que da como resultado un costo aproximado de $17,500, considerando el valor optimista, el más probable y el pesimista para la estimación."
+    },
+    {
+        "index": "22",
+        "answer": "\"10\".",
+        "explanation": "El tiempo de desarrollo para incorporar las nuevas funcionalidades al sistema se calcula utilizando la ruta crítica, y de acuerdo con los datos proporcionados en la tabla, el tiempo estimado es de 10 semanas."
+    },
+    {
+        "index": "23",
+        "answer": "\"$78,960\".",
+        "explanation": "Utilizando la herramienta de estimación análoga, el costo del recurso humano para este proyecto se calcula con base en el costo por día de los desarrolladores y analistas, considerando el tiempo trabajado durante los dos meses."
+    }
+]

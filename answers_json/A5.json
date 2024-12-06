@@ -1,0 +1,22 @@
+[
+    {
+        "index": "27",
+        "answer": "\"UML (Unified Modeling Language)\".",
+        "explanation": "UML es el estándar para modelar sistemas orientados a objetos y se utiliza ampliamente para documentar procesos y sistemas de software con diagramas como clases, casos de uso, y secuencia, lo cual es ideal para cumplir con los requisitos del cliente."
+    },
+    {
+        "index": "29",
+        "answer": "\"Como viajero, quiero que el sistema me muestre en orden los vuelos más baratos de mis fechas disponibles.\"",
+        "explanation": "Esta historia está redactada de manera clara, centrada en el usuario (perfil de viajero) y sus necesidades específicas, además de ser breve y directa, lo que facilita su implementación."
+    },
+    {
+        "index": "30",
+        "answer": "\"Atiende un cliente\".",
+        "explanation": "El tiempo de respuesta mide la capacidad del sistema para responder a un cliente de manera efectiva en un entorno de operación normal, especialmente con la carga especificada de usuarios simultáneos."
+    },
+    {
+        "index": "31",
+        "answer": "\"Diagrama de actividades\".",
+        "explanation": "Un diagrama de actividades es ideal para visualizar los flujos de procesos, destacando áreas de mejora y eficiencia, ya que muestra de forma gráfica las secuencias de acciones y decisiones dentro de un proceso."
+    }
+]

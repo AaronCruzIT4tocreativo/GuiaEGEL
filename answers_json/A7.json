@@ -1,0 +1,22 @@
+[
+    {
+        "index": "37",
+        "answer": "\"Indicar cómo llegar al destino\".",
+        "explanation": "El propósito principal es que los usuarios puedan ubicar la casilla para emitir su voto. Esto implica proporcionarles direcciones claras o indicaciones sobre cómo llegar, lo cual corresponde directamente al requisito funcional de \"indicar cómo llegar al destino\"."
+    },
+    {
+        "index": "39",
+        "answer": "\"El tiempo de autenticación de los usuarios debe ser siempre de 0.006 segundos, sin que se degrade, aún cuando la carga de usuarios se incremente hasta en 200%\".",
+        "explanation": "La escalabilidad asegura que el sistema mantenga su desempeño independientemente del aumento en la carga, por lo que el tiempo de respuesta constante bajo incrementos de usuarios es clave para este atributo."
+    },
+    {
+        "index": "40",
+        "answer": "\"Bus y cliente-servidor\".",
+        "explanation": "El patrón de \"bus\" facilita la integración de sistemas distribuidos para la transmisión de datos (como fotos y archivos), mientras que \"cliente-servidor\" proporciona la arquitectura básica para que los usuarios interactúen con el sistema y almacenen datos."
+    },
+    {
+        "index": "41",
+        "answer": "\"Attribute-driven design (ADD)\".",
+        "explanation": "ADD es un método que se centra en los atributos de calidad como punto de partida para diseñar una arquitectura, identificando tácticas específicas para satisfacerlos y unificando la estructura de los sistemas existentes."
+    }
+]

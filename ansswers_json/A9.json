@@ -1,0 +1,17 @@
+[
+    {
+        "index": "47",
+        "answer": "\"MVC\".",
+        "explanation": "El patrón Modelo-Vista-Controlador (MVC) es ideal para separar la lógica de negocio (modelo), la presentación (vista) y la interacción con el usuario (controlador), tal como se solicita en el diseño de la arquitectura."
+    },
+    {
+        "index": "50",
+        "answer": "\"Funcional\".",
+        "explanation": "La cohesión funcional asegura que el componente se centre en una única responsabilidad, como el cálculo del IVA, lo que lo hace más reutilizable y eficiente."
+    },
+    {
+        "index": "51",
+        "answer": "\"Crear un archivo de intercambio para que el sistema de ventas grabe la información necesaria de la venta y el módulo de facturación procese información a partir del archivo\".",
+        "explanation": "Esta solución permite un acoplamiento externo, donde los sistemas se comunican a través de un medio compartido sin modificar internamente ninguno de ellos, cumpliendo con los requerimientos establecidos."
+    }
+]

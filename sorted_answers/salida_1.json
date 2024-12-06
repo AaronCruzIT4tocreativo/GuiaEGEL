@@ -1,0 +1,142 @@
+[
+    {
+        "imageName": "7",
+        "imageIndex": "1",
+        "index": 1,
+        "text": "Un equipo de desarrollo con distintos recursos operacionales Crea una aplicación para venta de cuadros de una galería. Los dueños piden que pueda ser utilizada en celulares y tabletas con el mejor rendimiento.\n\n¿Cuál es un requerimiento que corresponde a la necesidad planteada?",
+        "options": [
+            {
+                "index": 0,
+                "text": "La aplicación será desarrollada para sistemas operativos nativos"
+            },
+            {
+                "index": 1,
+                "text": "La aplicación será desarrollada de forma híbrida"
+            },
+            {
+                "index": 2,
+                "text": "La aplicación será desarrollada utilizando HTML5"
+            }
+        ],
+        "answer": {
+            "index": 0,
+            "text": "La aplicación será desarrollada para sistemas operativos nativos",
+            "explanation": "Explicación no proporcionada, ya que no se seleccionó una respuesta."
+        },
+        "imageIndexes": [
+            1
+        ]
+    },
+    {
+        "imageName": "8",
+        "imageIndex": "2",
+        "index": 2,
+        "text": "En una empresa del sector asegurador se necesita calcular la tendencia de las primas de seguro y realizar un pronóstico de su comportamiento para los siguientes 24 meses, usando gráficas, sin invertir tiempo programando el cálculo de las tendencias y los pronósticos ni comprando ningún componente adicional.\n\n¿Qué lenguaje de programación se requiere?",
+        "options": [
+            {
+                "index": 0,
+                "text": "Python"
+            },
+            {
+                "index": 1,
+                "text": "Java"
+            },
+            {
+                "index": 2,
+                "text": "C++"
+            }
+        ],
+        "answer": {
+            "index": 0,
+            "text": "Python",
+            "explanation": "Explicación no proporcionada, ya que no se seleccionó una respuesta."
+        },
+        "imageIndexes": [
+            2
+        ]
+    },
+    {
+        "imageName": "9",
+        "imageIndex": "3",
+        "index": 3,
+        "text": "Una vez que se autoriza el desarrollo de una aplicación móvil para el control de las unidades de reparto de una empresa, se solicita al Área de Sistemas que se elabore el cronograma de trabajo determinando el menor tiempo posible de entrega, ya que será un desarrollo prioritario para la empresa. ¿Qué aspecto se debe revisar para poder elaborarlo?",
+        "options": [
+            {
+                "index": 0,
+                "text": "Proyectos en cartera"
+            },
+            {
+                "index": 1,
+                "text": "Lenguaje de programación"
+            },
+            {
+                "index": 2,
+                "text": "Infraestructura para el desarrollo"
+            }
+        ],
+        "answer": {
+            "index": 0,
+            "text": "Proyectos en cartera",
+            "explanation": "Explicación no proporcionada, ya que no se seleccionó una respuesta."
+        },
+        "imageIndexes": [
+            3
+        ]
+    },
+    {
+        "imageName": "10",
+        "imageIndex": "4",
+        "index": 4,
+        "text": "En un sistema de nómina de una empresa se detectaron varios accesos no autorizados y se determinó que se realizaron mediante crackers de contraseñas de usuarios activos, a pesar que se le solicita frecuentemente al usuario adoptar prácticas que reduzcan riesgos derivados del mal uso de contraseñas y su establecimiento se controla por software. Por tal motivo, se le solicita al Área de Sistemas que se apliquen otros mecanismos que queden aprobados y establecidos en las políticas informáticas de la empresa.\n\n¿Qué requerimiento debe quedar integrado en las políticas informáticas de la empresa para mitigar el riesgo detectado?",
+        "options": [
+            {
+                "index": 0,
+                "text": "Utilizar contraseñas seguras y cambiarlas periódicamente"
+            },
+            {
+                "index": 1,
+                "text": "Dar de baja cuentas sin acceso de acuerdo con periodos establecidos"
+            },
+            {
+                "index": 2,
+                "text": "Aplicar la autenticación multifactor en todos los sistemas"
+            }
+        ],
+        "answer": {
+            "index": 0,
+            "text": "Utilizar contraseñas seguras y cambiarlas periódicamente",
+            "explanation": "Explicación no proporcionada, ya que no se seleccionó una respuesta."
+        },
+        "imageIndexes": [
+            4
+        ]
+    },
+    {
+        "imageName": "11",
+        "imageIndex": "5",
+        "index": 5,
+        "text": "Un sitio web de una tienda en línea sufrió un ataque recientemente, mediante el método de inyección SQL, el cual corrompió algunos datos de los productos. Afortunadamente el daño no fue extenso y pudo repararse de forma rápida por medio de una copia de respaldo; sin embargo, se debe prevenir está vulnerabilidad, por lo que se definió un requerimiento para establecer medidas preventivas contra ataques por inyección de código.\n\nCon la interpretación de este requerimiento de seguridad, ¿Qué medidas deben implementarse?",
+        "options": [
+            {
+                "index": 0,
+                "text": "Habilitar un servidor web espejo"
+            },
+            {
+                "index": 1,
+                "text": "Proteger las interfaces del sistema"
+            },
+            {
+                "index": 2,
+                "text": "Implementar un sistema de detección de intrusos"
+            }
+        ],
+        "answer": {
+            "index": 0,
+            "text": "Habilitar un servidor web espejo",
+            "explanation": "Explicación no proporcionada, ya que no se seleccionó una respuesta."
+        },
+        "imageIndexes": [
+            5
+        ]
+    }
+]

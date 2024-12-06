@@ -1,0 +1,142 @@
+[
+    {
+        "imageName": "24",
+        "imageIndex": "165",
+        "index": 24,
+        "text": "El área de sistemas de una empresa requiere desarrollar un proyecto que va a trabajar con Oracle para la base de datos en un servidor de dos procesadores y versión de Oracle gratuita para el servidor de pruebas, así como un servidor web HTTP con Oracle web Logic. El licenciamiento requerido es nominal hasta para 30 usuarios concurrentes, en el caso de Oracle data Base Enterprise Edition y se contará con una infraestructura de producción replicada en tiempo real, para asegurar la continuidad de operaciones en el caso de falla.\nEl costo de licenciamiento de Oracle Database Enterprise Edition (25 Usuarios Nominales Plus por cada procesador) es de $80,000 y el de Oracle WebLogic de $30,000.\n\nDetermine el costo del licenciamiento del proyecto",
+        "options": [
+            {
+                "index": 0,
+                "text": "$190,000"
+            },
+            {
+                "index": 1,
+                "text": "$220,000"
+            },
+            {
+                "index": 2,
+                "text": "$380,000"
+            }
+        ],
+        "answer": {
+            "index": 0,
+            "text": "$190,000",
+            "explanation": "Explicación no proporcionada, ya que no se seleccionó una respuesta."
+        },
+        "imageIndexes": [
+            165
+        ]
+    },
+    {
+        "imageName": "25",
+        "imageIndex": "166",
+        "index": 25,
+        "text": "Una empresa de desarrollo de software trabaja en la creación de un sistema para el control de una línea de ensamble de una planta automotriz.\n\nTeniendo en cuenta el modelo Cocomo ll, y que dicho sistema tendrá un tamaño de 20KLDC, una constante de esfuerzo de 2.8 debido a la alta complejidad del proyecto y un factor exponencial de 1.2, ¿cuál es el esfuerzo requerido en personas-mes, para atender con éxito dicho proyecto?",
+        "options": [
+            {
+                "index": 0,
+                "text": "33.4 persona-mes"
+            },
+            {
+                "index": 1,
+                "text": "66.8 persona-mes"
+            },
+            {
+                "index": 2,
+                "text": "101.94 persona-mes"
+            }
+        ],
+        "answer": {
+            "index": 0,
+            "text": "33.4 persona-mes",
+            "explanation": "Explicación no proporcionada, ya que no se seleccionó una respuesta."
+        },
+        "imageIndexes": [
+            166
+        ]
+    },
+    {
+        "imageName": "26",
+        "imageIndex": "167",
+        "index": 26,
+        "text": "Un desarrollo de software de inteligencia artificial para el reconocimiento de patrones debe tener un atributo de exactitud, bajo acoplamiento y alta cohesión, por lo que se debe considerar el riesgo de incluir módulos en el sistema que no cumplan con lo solicitado.\n\nLa siguiente tabla muestra los posibles riesgos:\n\n$img$\n\n¿Cuál es la estimación de riesgo, si se aplica un análisis cuantitativo, al realizar la inspecciones en los módulos del sistema?",
+        "options": [
+            {
+                "index": 0,
+                "text": "$8,000"
+            },
+            {
+                "index": 1,
+                "text": "$15,000"
+            },
+            {
+                "index": 2,
+                "text": "$39,000"
+            }
+        ],
+        "answer": {
+            "index": 0,
+            "text": "$8,000",
+            "explanation": "Explicación no proporcionada, ya que no se seleccionó una respuesta."
+        },
+        "imageIndexes": [
+            167
+        ]
+    },
+    {
+        "imageName": "27",
+        "imageIndex": "168",
+        "index": 27,
+        "text": "El análisis de viabilidad de un proyecto para un corporativo financiero indica que el principal aspecto por considerar son los problemas de seguridad. Una alternativa de solución para la ejecución del proyecto es el desarrollo de un software bancario, cuya característica más importante debe ser la resistencia de los ataques accidentales o intencionales que podrían hacerse en los programas, datos y documentación.\n\nLa acción que sigue para ejecutar el proyecto es definirlas las ___ por utilizar",
+        "options": [
+            {
+                "index": 0,
+                "text": "métricas de contenido"
+            },
+            {
+                "index": 1,
+                "text": "métricas de calidad "
+            },
+            {
+                "index": 2,
+                "text": "métricas de proceso"
+            }
+        ],
+        "answer": {
+            "index": 0,
+            "text": "métricas de contenido",
+            "explanation": "Explicación no proporcionada, ya que no se seleccionó una respuesta."
+        },
+        "imageIndexes": [
+            168
+        ]
+    },
+    {
+        "imageName": "28",
+        "imageIndex": "169",
+        "index": 28,
+        "text": "Se tiene que un requerimiento de un sistema web complejo y con tiempos muy acotados, que de acuerdo con el contrato será penalizado con 18% del costo total del proyecto establecido en $250,000, en caso de accederse hasta 15 días de fecha límite. Derivado de la alta rotación de los líderes de proyecto con experiencia que existe en la consultoría para este tipo de desarrollos, se tiene identificado el riesgo de qué se retrase la conclusión del proyecto hasta semana y media más el tiempo estimado, y con base en los movimientos del personal que se ha tenido de los en el último año, la probabilidad de qué el proyecto se pueda retrasar hasta 10 días, es de15%.\n\nLa consultoría utilizada la matriz de calificación, evaluación y respuesta al riesgo, a la cual desea integrar el riesgo existente en este proyecto. Determine el resultado del cálculo.",
+        "options": [
+            {
+                "index": 0,
+                "text": "$6,750"
+            },
+            {
+                "index": 1,
+                "text": "$37,500"
+            },
+            {
+                "index": 2,
+                "text": "$45,000"
+            }
+        ],
+        "answer": {
+            "index": 0,
+            "text": "$6,750",
+            "explanation": "Explicación no proporcionada, ya que no se seleccionó una respuesta."
+        },
+        "imageIndexes": [
+            169
+        ]
+    }
+]

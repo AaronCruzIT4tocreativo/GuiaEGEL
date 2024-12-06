@@ -1,0 +1,159 @@
+[
+    {
+        "imageName": "57",
+        "imageIndex": "81-84",
+        "index": 57,
+        "text": "En una arrendadora de autos laboran diferentes empleados en turnos aleatorios, cada empleado atiende a un cliente según su disponibilidad. Un cliente puede rentar los autos que necesite; sin embargo, no puede hacerlo el mismo día. Los autos tienen diferentes características que los hacen únicos y cada uno de ellos está protegido por una sola aseguradora, la cual asigna un número de contrato, aunque la arrendadora trabaja con diferentes aseguradoras.\n\nDetermine el modelo de datos relacional.",
+        "options": [
+            {
+                "index": 0,
+                "text": "$img$"
+            },
+            {
+                "index": 1,
+                "text": "$img$"
+            },
+            {
+                "index": 2,
+                "text": "$img$"
+            }
+        ],
+        "answer": {
+            "index": 0,
+            "text": "$img$",
+            "explanation": "Explicación no proporcionada, ya que no se seleccionó una respuesta."
+        },
+        "imageIndexes": [
+            81,
+            82,
+            83,
+            84
+        ]
+    },
+    {
+        "imageName": "58",
+        "imageIndex": "85-86",
+        "index": 58,
+        "text": "Una compañía requiere que su sistema de control de almacén permita una relación entre dos tablas. La principal restricción que existe es que cada elemento de una tabla llamada \"Producto\" pueda relacionarse con solo un elemento de una tabla llamada \"Proveedor\", y a su vez que cada elemento de la tabla \"Proveedor\" pueda relacionarse con uno o más elementos de la tabla \"Producto\".\n\n¿Qué modelo relacional permite manejar la restricción descrita?",
+        "options": [
+            {
+                "index": 0,
+                "text": "$img$"
+            },
+            {
+                "index": 1,
+                "text": "$img$"
+            },
+            {
+                "index": 2,
+                "text": "$img$"
+            }
+        ],
+        "answer": {
+            "index": 0,
+            "text": "$img$",
+            "explanation": "Explicación no proporcionada, ya que no se seleccionó una respuesta."
+        },
+        "imageIndexes": [
+            85,
+            86
+        ]
+    },
+    {
+        "imageName": "59",
+        "imageIndex": "87-90",
+        "index": 59,
+        "text": "Se desea analizar el momento en que se emiten comentarios, preguntas e interacción, en general, en un sitio web donde los usuarios interactúan con los ponentes mediante un servicio de video-streaming; por ejemplo, una conferencia. Uno de los requerimientos es que cualquier usuario puede hacer múltiples interacciones en cualquier momento; por ejemplo, poner un emoji, un comentario, alzar la mano etcétera, y se registra en el tiempo en que se realizó la interacción (event timestamp). Eventualmente, esa información se utiliza para saber qué, de lo expuesto, atrajo la atención de la audiencia. La información recabada se debe almacenar en una base de datos NoSQL.\n\n¿Cuál de los siguientes modelados de datos es el adecuado para este fin?",
+        "options": [
+            {
+                "index": 0,
+                "text": "$img$"
+            },
+            {
+                "index": 1,
+                "text": "$img$"
+            },
+            {
+                "index": 2,
+                "text": "$img$"
+            }
+        ],
+        "answer": {
+            "index": 0,
+            "text": "$img$",
+            "explanation": "Explicación no proporcionada, ya que no se seleccionó una respuesta."
+        },
+        "imageIndexes": [
+            87,
+            88,
+            89,
+            90
+        ]
+    },
+    {
+        "imageName": "60",
+        "imageIndex": "91-93",
+        "index": 60,
+        "text": "Una empresa de ventas en línea implementará un sistema de registro para el control de sus clientes y pedidos. Ha decidido utilizar una base de datos relacional y ha definido las siguientes condiciones para su estructura:\n\n    • Se requiere el almacenamiento de clientes asignando a cada uno de ellos un identificador único; adicionalmente se desea conocer su nombre, edad, sexo, correo electrónico y RFC\n    • Se requiere conocer toda la historia de los pedidos de cada cliente; cada pedido ofrece un folio, tiene una descripción, fecha de solicitud y fecha de entrega.\n\nPara este sistema, ¿cuál es la representación que se debería obtener con una herramienta de modelado de datos entidad-relación?",
+        "options": [
+            {
+                "index": 0,
+                "text": "$img$"
+            },
+            {
+                "index": 1,
+                "text": "$img$"
+            },
+            {
+                "index": 2,
+                "text": "$img$"
+            }
+        ],
+        "answer": {
+            "index": 0,
+            "text": "$img$",
+            "explanation": "Explicación no proporcionada, ya que no se seleccionó una respuesta."
+        },
+        "imageIndexes": [
+            91,
+            92,
+            93
+        ]
+    },
+    {
+        "imageName": "61",
+        "imageIndex": "94-102",
+        "index": 61,
+        "text": "En un punto de venta de un distribuidor de papel se tiene la hoja de cálculo con la información de las ventas realizadas, como se muestra a continuación.\n\n$img$",
+        "options": [
+            {
+                "index": 0,
+                "text": "$img$"
+            },
+            {
+                "index": 1,
+                "text": "$img$"
+            },
+            {
+                "index": 2,
+                "text": "$img$"
+            }
+        ],
+        "answer": {
+            "index": 0,
+            "text": "$img$",
+            "explanation": "Explicación no proporcionada, ya que no se seleccionó una respuesta."
+        },
+        "imageIndexes": [
+            94,
+            95,
+            96,
+            97,
+            98,
+            99,
+            100,
+            101,
+            102
+        ]
+    }
+]

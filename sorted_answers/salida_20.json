@@ -1,0 +1,142 @@
+[
+    {
+        "imageName": "29",
+        "imageIndex": "170",
+        "index": 29,
+        "text": "En una empresa de transporte se desarrolló un sistema para el pago por medio de tarjeta, el cual tendrá que validar 25 procesos por un máximo de 3 segundos para dar acceso al usuario. El sistema está presentado problemas ya que en ocasiones el sistema tiene un atraso hasta de 30 segundos. Asumiendo que la conexión de Internet funciona correctamente y tiene una velocidad estándar en el mercado, se requiere identificar el problema raíz.\n\n¿Cuál es la métrica a implementar?",
+        "options": [
+            {
+                "index": 0,
+                "text": "Reporte de tiempo de respuesta al cliente"
+            },
+            {
+                "index": 1,
+                "text": "Reporte de throughput"
+            },
+            {
+                "index": 2,
+                "text": "Reporte de errores encontrados por línea de código  "
+            }
+        ],
+        "answer": {
+            "index": 0,
+            "text": "Reporte de tiempo de respuesta al cliente",
+            "explanation": "Explicación no proporcionada, ya que no se seleccionó una respuesta."
+        },
+        "imageIndexes": [
+            170
+        ]
+    },
+    {
+        "imageName": "30",
+        "imageIndex": "171",
+        "index": 30,
+        "text": "La empresa TecnoVisión está desarrollando sistema de control administrativo para una inmobiliaria. La duración del proyecto es de 4 meses, con la colaboración de dos desarrolladores y un analista de datos. El cliente solicita que el proyecto se termine en un 1 mes antes de lo previsto, por lo que el líder de proyecto debe mostrar la diferentes alternativas para lograr cumplir con la reducción del tiempo de desarrollo que el cliente solicita.\n\n¿Qué métrica se requiere para calcular este proyecto?",
+        "options": [
+            {
+                "index": 0,
+                "text": "Variación del cronograma "
+            },
+            {
+                "index": 1,
+                "text": "Índice de desempeño del trabajo por completar (TCPI)"
+            },
+            {
+                "index": 2,
+                "text": "Ruta crítica"
+            }
+        ],
+        "answer": {
+            "index": 0,
+            "text": "Variación del cronograma ",
+            "explanation": "Explicación no proporcionada, ya que no se seleccionó una respuesta."
+        },
+        "imageIndexes": [
+            171
+        ]
+    },
+    {
+        "imageName": "31",
+        "imageIndex": "172",
+        "index": 31,
+        "text": "Una microempresa inicia un proyecto de desarrollo de una aplicación de intercambio de divisas para una casa de cambio que tiene sucursales en diferentes ciudades del mundo.\n\nSi desea tener el reconocimiento de mercado internacional, cuál es el estándar de calidad que debe utilizar",
+        "options": [
+            {
+                "index": 0,
+                "text": "ISO/IEC 29110"
+            },
+            {
+                "index": 1,
+                "text": "ITMark"
+            },
+            {
+                "index": 2,
+                "text": "Moprosoft"
+            }
+        ],
+        "answer": {
+            "index": 0,
+            "text": "ISO/IEC 29110",
+            "explanation": "Explicación no proporcionada, ya que no se seleccionó una respuesta."
+        },
+        "imageIndexes": [
+            172
+        ]
+    },
+    {
+        "imageName": "32",
+        "imageIndex": "173",
+        "index": 32,
+        "text": "Un equipo, desarrollo en sistema de incorporación transaccional, utilizando una metodología de desarrollo RUP. Con base en los requisitos funcionales y el análisis de sistema, se estimado una duración de 10 meses, durante los cuales será implementado por cinco programadores quienes cobran $1,500 por día. Sin embargo, el cliente ha solicitado un tiempo de 9 meses para la terminación del proyecto.\n\n¿Qué método permite identificar los ajustes requeridos por cumplir con la solicitud del cliente?",
+        "options": [
+            {
+                "index": 0,
+                "text": "Variación del cronograma "
+            },
+            {
+                "index": 1,
+                "text": "Índice de desempeño del cronograma"
+            },
+            {
+                "index": 2,
+                "text": "Ruta crítica"
+            }
+        ],
+        "answer": {
+            "index": 0,
+            "text": "Variación del cronograma ",
+            "explanation": "Explicación no proporcionada, ya que no se seleccionó una respuesta."
+        },
+        "imageIndexes": [
+            173
+        ]
+    },
+    {
+        "imageName": "33",
+        "imageIndex": "174",
+        "index": 33,
+        "text": "La empresa Teknei desarrolla un software para la administración de un servicio de transporte público de autobuses en una ciudad donde debe controlar recorridos por camiones, cobro por usuario estación con mayor demanda estación con menor demanda, tiempo de recorrido, etcétera. El sistema presenta un error en el código ya que no está ejecutando la instrucción correcta para que se contabilice de manera adecuada el cobro por usuario y se vaya sumando para que nos arroje el total de los ingresos al día.\n\n¿Cuál técnica se requiere para resolver el problema?",
+        "options": [
+            {
+                "index": 0,
+                "text": "Depuración"
+            },
+            {
+                "index": 1,
+                "text": "Bitácora "
+            },
+            {
+                "index": 2,
+                "text": "Guías y estándares de programación"
+            }
+        ],
+        "answer": {
+            "index": 0,
+            "text": "Depuración",
+            "explanation": "Explicación no proporcionada, ya que no se seleccionó una respuesta."
+        },
+        "imageIndexes": [
+            174
+        ]
+    }
+]

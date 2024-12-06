@@ -1,0 +1,27 @@
+[
+    {
+        "index": "7",
+        "answer": "\"La aplicación será desarrollada utilizando HTML5\".",
+        "explanation": "HTML5 permite el desarrollo de aplicaciones híbridas que funcionan en múltiples dispositivos, optimizando recursos sin necesidad de desarrollo nativo para cada sistema operativo."
+    },
+    {
+        "index": "8",
+        "answer": "\"Python\".",
+        "explanation": "Python tiene bibliotecas como `matplotlib` y `pandas` que permiten realizar cálculos avanzados y gráficos sin mucho esfuerzo de programación, cumpliendo con los requisitos de la pregunta."
+    },
+    {
+        "index": "9",
+        "answer": "No hay una respuesta seleccionada.",
+        "explanation": "Este tipo de pregunta requiere evaluación adicional para priorizar proyectos y determinar la infraestructura y recursos necesarios."
+    },
+    {
+        "index": "10",
+        "answer": "\"Aplicar la autenticación multifactor en todos los sistemas\".",
+        "explanation": "La autenticación multifactor añade una capa adicional de seguridad al exigir múltiples formas de verificación, lo que reduce significativamente el riesgo de accesos no autorizados."
+    },
+    {
+        "index": "11",
+        "answer": "\"Proteger las interfaces del sistema\".",
+        "explanation": "Proteger las interfaces incluye el uso de parámetros preparados, sanitización de entradas y mecanismos de validación para prevenir ataques de inyección SQL, abordando directamente la vulnerabilidad descrita."
+    }
+]

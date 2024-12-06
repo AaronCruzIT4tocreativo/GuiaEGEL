@@ -1,0 +1,27 @@
+[
+    {
+        "index": "62",
+        "answer": "\"Patch\".",
+        "explanation": "`Patch` es el método adecuado para realizar actualizaciones parciales en recursos existentes, como el aumento del costo de productos, sin afectar el desempeño al no modificar todo el recurso."
+    },
+    {
+        "index": "63",
+        "answer": "\"1-HEAD, 2-OPTIONS, 3-POST\".",
+        "explanation": "`HEAD` verifica la disponibilidad de la página sin descargar el cuerpo de la respuesta. `OPTIONS` consulta los métodos HTTP habilitados, y `POST` envía datos para almacenamiento en el servidor."
+    },
+    {
+        "index": "64",
+        "answer": "\"horizontal-vertical\".",
+        "explanation": "La fragmentación horizontal es adecuada para los cuentahabientes debido a su localización geográfica, mientras que la fragmentación vertical es apropiada para créditos, ya que la calificación debe ser centralizada y los demás datos son distribuidos."
+    },
+    {
+        "index": "65",
+        "answer": "\"Clientes: activo, Pedidos: pasivo\".",
+        "explanation": "La replicación activa en clientes garantiza consistencia inmediata en todos los nodos, mientras que una replicación pasiva en pedidos reduce la carga de actualización y mejora el tiempo de respuesta."
+    },
+    {
+        "index": "66",
+        "answer": "\"Los proveedores cuentan con diferentes sucursales, cada una de las cuales provee distintos productos de acuerdo con zona de distribución para cumplir con las órdenes de compra\".",
+        "explanation": "Este enunciado describe correctamente la jerarquía del modelo, donde cada proveedor tiene sucursales que distribuyen productos según su zona."
+    }
+]

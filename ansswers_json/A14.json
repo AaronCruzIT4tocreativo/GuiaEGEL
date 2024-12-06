@@ -1,0 +1,27 @@
+[
+    {
+        "index": "72",
+        "answer": "Sin respuesta (diagrama HIPO no puede ser interpretado sin las imágenes).",
+        "explanation": "El diagrama HIPO describe cómo interactúan los componentes, pero las imágenes proporcionadas son necesarias para dar una respuesta correcta."
+    },
+    {
+        "index": "73",
+        "answer": "\"Pruebas A/B\".",
+        "explanation": "Las pruebas A/B son útiles para comparar diferentes versiones de un contenido y medir su efectividad, lo que es adecuado para analizar la frecuencia de visitas y relevancia de los contenidos."
+    },
+    {
+        "index": "74",
+        "answer": "\"Arreglo\".",
+        "explanation": "Un arreglo es la estructura de datos más adecuada para almacenar información de ventas y calcular resultados como ventas altas, bajas y promedio, ya que permite acceso rápido a elementos específicos."
+    },
+    {
+        "index": "75",
+        "answer": "\"Atributo\".",
+        "explanation": "El costo unitario de los productos es un atributo de la tabla \"Productos\" en una base de datos relacional, ya que representa una propiedad específica de cada producto."
+    },
+    {
+        "index": "76",
+        "answer": "\"Algunas de las variables del modelo deben ser consideradas flotantes\".",
+        "explanation": "Las variables en un modelo que involucra ecuaciones diferenciales, como la velocidad de contagio, deben ser de tipo flotante para manejar números decimales y realizar cálculos precisos."
+    }
+]

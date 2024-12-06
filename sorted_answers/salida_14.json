@@ -1,0 +1,145 @@
+[
+    {
+        "imageName": "72",
+        "imageIndex": "122-123",
+        "index": 72,
+        "text": "En una clínica dental con varios consultorios, los usuarios agendan citas mediante un sistema en línea. Al iniciar una jornada de trabajo, el sistema despliega las citas del día a cada médico. El sistema cuenta con dos componentes: \n 1. Gestor de citas encargado de agendar las citas y generar los reportes de citas.\n 2. SD_cita: encargado de la manipulación y consulta de datos de las citas en la base de datos.\nDetermine el diagrama HIPO que describe la interfaz Obtener_Bajo_Listado_Citas entre el Gestor de citas y SD_ cita",
+        "options": [
+            {
+                "index": 0,
+                "text": "$img$"
+            },
+            {
+                "index": 1,
+                "text": "$img$"
+            },
+            {
+                "index": 2,
+                "text": "$img$"
+            }
+        ],
+        "answer": {
+            "index": 0,
+            "text": "$img$",
+            "explanation": "Explicación no proporcionada, ya que no se seleccionó una respuesta."
+        },
+        "imageIndexes": [
+            122,
+            123
+        ]
+    },
+    {
+        "imageName": "73",
+        "imageIndex": "124-125",
+        "index": 73,
+        "text": "Una institución privada desarrollo una base de datos científica con diferentes áreas de conocimiento para que sus estudiantes descarguen información de acuerdo con sus necesidades. Se desea saber con qué frecuencia visitan ciertos contenidos y qué tan irrelevantes son (si tienen poca o mucha importancia los contenidos visitados).\n\n ¿Qué caso de prueba debe aplicarse?",
+        "options": [
+            {
+                "index": 0,
+                "text": "Repeticiones de Sesiones "
+            },
+            {
+                "index": 1,
+                "text": "Pruebas A/B"
+            },
+            {
+                "index": 2,
+                "text": "Mapas de calor"
+            }
+        ],
+        "answer": {
+            "index": 0,
+            "text": "Repeticiones de Sesiones ",
+            "explanation": "Explicación no proporcionada, ya que no se seleccionó una respuesta."
+        },
+        "imageIndexes": [
+            124,
+            125
+        ]
+    },
+    {
+        "imageName": "1",
+        "imageIndex": "126",
+        "index": 74,
+        "text": "Una tienda de licores ha registrado en papel sus ventas diarias de los últimos 20 meses, pero requiere analizar algunas operaciones con los datos, como conocer las fechas de ventas más altas y bajas, y el promedio de ventas. Por este motivo necesita un programa que lea esa información y la almacene en memoria para obtener el resultado de las operaciones solicitadas de una forma sencilla.\n\n ¿Qué tipo de estructura de datos se requiere para este caso?",
+        "options": [
+            {
+                "index": 0,
+                "text": "Matriz "
+            },
+            {
+                "index": 1,
+                "text": "Arreglo "
+            },
+            {
+                "index": 2,
+                "text": "Cola"
+            }
+        ],
+        "answer": {
+            "index": 0,
+            "text": "Matriz ",
+            "explanation": "Explicación no proporcionada, ya que no se seleccionó una respuesta."
+        },
+        "imageIndexes": [
+            126
+        ]
+    },
+    {
+        "imageName": "2",
+        "imageIndex": "127",
+        "index": 75,
+        "text": "En una comercializadora de abarrotes al mayoreo se dispone de una base de datos relacional con estas especificaciones: tres entidades, una tabla llamada \"Clientes\",  indexada por medio de una llave primaria a la tabla \"Pedidos\" que, a su vez, se relaciona con la tabla \"Productos\"\n\n¿Qué elemento de la base de datos relacional representa el costo unitario de los productos?",
+        "options": [
+            {
+                "index": 0,
+                "text": "Atributo"
+            },
+            {
+                "index": 1,
+                "text": "Registro"
+            },
+            {
+                "index": 2,
+                "text": "Instancia"
+            }
+        ],
+        "answer": {
+            "index": 0,
+            "text": "Atributo",
+            "explanation": "Explicación no proporcionada, ya que no se seleccionó una respuesta."
+        },
+        "imageIndexes": [
+            127
+        ]
+    },
+    {
+        "imageName": "3",
+        "imageIndex": "128-129",
+        "index": 76,
+        "text": "El equipo de desarrollo se reunió para analizar la construcción de un algoritmo que prediga el contagio por coronavirus, basado en datos históricos. \n\n\"En este modelo se basa en ecuaciones diferenciales para describir la dinámica de los contagios en una población cerrada. Quienes las integran, van contagiándose a una determinada velocidad (V) y se convierten en infectados (I).  Tras un periodo de enfermedad activa, los que no fallecen pasan al estado de inmunes:  se han recuperado (R) y ya no contagiarán más.\"\n\n El lenguaje utilizado para el desarrollo es Java. Considerando las partes del modelo, determine las características que se deben tomar en cuenta para finalizar correctamente dicho algoritmo",
+        "options": [
+            {
+                "index": 0,
+                "text": "Algunas de las variables del modelo deben ser consideradas flotantes\n"
+            },
+            {
+                "index": 1,
+                "text": "Es suficiente considerar la variable del resultado del cálculo del modelo de tipo flotante\n"
+            },
+            {
+                "index": 2,
+                "text": "Todas las variables deben ser de tipo booleano y que correspondan de igual manera al resultado final"
+            }
+        ],
+        "answer": {
+            "index": 0,
+            "text": "Algunas de las variables del modelo deben ser consideradas flotantes\n",
+            "explanation": "Explicación no proporcionada, ya que no se seleccionó una respuesta."
+        },
+        "imageIndexes": [
+            128,
+            129
+        ]
+    }
+]

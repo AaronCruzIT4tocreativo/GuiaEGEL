@@ -1,0 +1,22 @@
+[
+    {
+        "index": "32",
+        "answer": "\"Se debe contratar a un arquitecto de datos para la recopilación e integración de la información de clientes potenciales\".",
+        "explanation": "Este requerimiento aborda aspectos estratégicos del proyecto y contribuye a la visión general del producto, ya que la recopilación e integración de datos son esenciales para el alcance y éxito del proyecto."
+    },
+    {
+        "index": "34",
+        "answer": "\"DRES\".",
+        "explanation": "DRES es una herramienta de uso libre y accesible a través de la web, cumpliendo con la principal restricción mencionada en el contexto del problema."
+    },
+    {
+        "index": "35",
+        "answer": "\"Proyección del riesgo\".",
+        "explanation": "La proyección del riesgo implica evaluar el impacto potencial de los riesgos, como la saturación de la plataforma, y comparar alternativas tecnológicas en términos de costo y beneficio para seleccionar la más adecuada."
+    },
+    {
+        "index": "36",
+        "answer": "\"Análisis funcional - costo - tiempo\".",
+        "explanation": "Para incorporar nuevas funcionalidades, es esencial realizar un análisis funcional (para evaluar viabilidad y requisitos), estimar el costo asociado al desarrollo, y determinar el tiempo necesario para implementarlo. Esto asegura un control efectivo del cambio."
+    }
+]

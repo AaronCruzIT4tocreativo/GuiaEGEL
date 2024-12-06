@@ -1,0 +1,17 @@
+[
+    {
+        "index": "42",
+        "answer": "\"Attribute-Driven Design (ADD)\".",
+        "explanation": "ADD es un método adecuado porque parte de los atributos de calidad y descompone la arquitectura en componentes, lo que facilita la integración con interfaces XML y la compatibilidad necesaria para las aplicaciones en la nube."
+    },
+    {
+        "index": "43",
+        "answer": "\"Spikes\".",
+        "explanation": "Los spikes son ideales en metodologías ágiles para investigar y resolver problemas técnicos específicos, como la falta de documentación en la interfaz entre Java y los sensores de producción."
+    },
+    {
+        "index": "44",
+        "answer": "\"4+1 views\".",
+        "explanation": "Este método es adecuado porque utiliza UML y proporciona vistas funcionales, lógicas, físicas, de implementación y de casos de uso, cumpliendo con la necesidad de documentar tanto la parte funcional como la estática del sistema."
+    }
+]

@@ -1,0 +1,142 @@
+[
+    {
+        "imageName": "14",
+        "imageIndex": "155",
+        "index": 14,
+        "text": "Se hicieron cambios a un sistema de venta de boletos que permitía hasta 500 usuarios, simultáneos para soportar 3000 usuarios; se desea validar cuál es la respuesta al procesar el ingreso de 500, 1500 y 3000 usuarios, de forma parametrizada. \n\nLa prueba que se debe efectuar, de acuerdo con el atributo de calidad solicitado, es la de…",
+        "options": [
+            {
+                "index": 0,
+                "text": "carga"
+            },
+            {
+                "index": 1,
+                "text": "estrés"
+            },
+            {
+                "index": 2,
+                "text": "rendimiento "
+            }
+        ],
+        "answer": {
+            "index": 0,
+            "text": "carga",
+            "explanation": "Explicación no proporcionada, ya que no se seleccionó una respuesta."
+        },
+        "imageIndexes": [
+            155
+        ]
+    },
+    {
+        "imageName": "15",
+        "imageIndex": "156",
+        "index": 15,
+        "text": "Se desarrolló una aplicación para hacer empleada en un proyecto de lanzamiento que correrá en un sistema operativo iOS; sin embargo, aún no se dan cuenta con los dispositivos, por lo que las pruebas se deberán correrse en un emulador para PC para que para no desfasar el proyecto.\n\n¿Cuál es la herramienta que se puede emplear para aprobarla?",
+        "options": [
+            {
+                "index": 0,
+                "text": "Apetito"
+            },
+            {
+                "index": 1,
+                "text": "Genimotion "
+            },
+            {
+                "index": 2,
+                "text": "Memi"
+            }
+        ],
+        "answer": {
+            "index": 0,
+            "text": "Apetito",
+            "explanation": "Explicación no proporcionada, ya que no se seleccionó una respuesta."
+        },
+        "imageIndexes": [
+            156
+        ]
+    },
+    {
+        "imageName": "16",
+        "imageIndex": "157",
+        "index": 16,
+        "text": "Un equipo de desarrollo de software ha codificado una aplicación móvil que permite mantener una conversación con una persona, detectar su estado de ánimo y proponer la actividades, dependiendo del caso; la aplicación ha sido desarrollada utilizando Android Studio. El equipo desea un código fuente de calidad que proporcione un alto rendimiento, por lo que va a utilizar un validador de código estático para verificar si existen problemas estructurales.\n\n¿Qué tipo de validador se requiere?",
+        "options": [
+            {
+                "index": 0,
+                "text": "SonarQube"
+            },
+            {
+                "index": 1,
+                "text": "Lint"
+            },
+            {
+                "index": 2,
+                "text": "Review Board"
+            }
+        ],
+        "answer": {
+            "index": 0,
+            "text": "SonarQube",
+            "explanation": "Explicación no proporcionada, ya que no se seleccionó una respuesta."
+        },
+        "imageIndexes": [
+            157
+        ]
+    },
+    {
+        "imageName": "17",
+        "imageIndex": "158",
+        "index": 17,
+        "text": "En un hospital para niños con cáncer se requiere de una aplicación para registrar el estado de ánimo de aquellos que van a entrar a un procedimiento; por medio de una encuesta con animaciones se explicará a cada uno de ellos el tipo de preguntas. La mayoría de los niños por encuestar se encuentra en la cama y no se puede desplazar.\n\n¿Qué tipo de plataforma de desarrollo se requiere? \n",
+        "options": [
+            {
+                "index": 0,
+                "text": "De escritorio "
+            },
+            {
+                "index": 1,
+                "text": "Embebido "
+            },
+            {
+                "index": 2,
+                "text": "Móvil"
+            }
+        ],
+        "answer": {
+            "index": 0,
+            "text": "De escritorio ",
+            "explanation": "Explicación no proporcionada, ya que no se seleccionó una respuesta."
+        },
+        "imageIndexes": [
+            158
+        ]
+    },
+    {
+        "imageName": "18",
+        "imageIndex": "159",
+        "index": 18,
+        "text": "Se han contratado los servicios de un ingeniero de software para documentar una API que se liberará en una semana. Debido a que el líder de proyecto responsable renunció y no dejó nada documentado, se revisaron los programas y se encontró que todas las clases sin excepción, tienen los identificadores en el inicio: @autor,@deprecated,@param,@return,@see,@versión. Es necesario que la documentación sea generada en HTML. \n\n¿Cuál es la herramienta necesaria para generar documentación de acuerdo con lo planteado?",
+        "options": [
+            {
+                "index": 0,
+                "text": "DocFX"
+            },
+            {
+                "index": 1,
+                "text": "JavaDoc"
+            },
+            {
+                "index": 2,
+                "text": "Docxgen"
+            }
+        ],
+        "answer": {
+            "index": 0,
+            "text": "DocFX",
+            "explanation": "Explicación no proporcionada, ya que no se seleccionó una respuesta."
+        },
+        "imageIndexes": [
+            159
+        ]
+    }
+]

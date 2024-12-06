@@ -1,0 +1,143 @@
+[
+    {
+        "imageName": "22",
+        "imageIndex": "17",
+        "index": 16,
+        "text": "Una institución dedicada a los servicios de salud desea obtener una certificación internacional en el área de calidad de software, por lo que requiere la validación y verificación de sus procesos informáticos y de los sistemas automatizados que controlan los diferentes programas y aplicaciones que usan. En la primera etapa la autoridad competente le solicitó a la institución revisar documentación del software que utiliza y los manuales de procedimiento de los procesos para verificar el cumplimiento de ciertos estándares.\n\n¿Qué técnica de validación de requerimientos se debe aplicar para obtener la certificación?",
+        "options": [
+            {
+                "index": 0,
+                "text": "Auditoría"
+            },
+            {
+                "index": 1,
+                "text": "Pruebas"
+            },
+            {
+                "index": 2,
+                "text": "Simulación"
+            }
+        ],
+        "answer": {
+            "index": 0,
+            "text": "Auditoría",
+            "explanation": "Explicación no proporcionada, ya que no se seleccionó una respuesta."
+        },
+        "imageIndexes": [
+            17
+        ]
+    },
+    {
+        "imageName": "23",
+        "imageIndex": "18",
+        "index": 17,
+        "text": "Un equipo desarrolla una aplicación web de venta de boletos para conciertos, luego de la revisión con el cliente se pide que el sistema tenga un control del acceso, que sea más rápido, qué puede responder ante fallos o caídas de la red y que haya un respaldo cada 24 horas. Derivado de esto, se deben revisar los requisitos para verificar que su especificación cumpla con las características de un requerimiento excelente.\n\n¿Qué requerimiento no funcional anteriormente mencionado incumple con la característica de no ambigüedad?",
+        "options": [
+            {
+                "index": 0,
+                "text": "El sistema debe de tener un control de acceso"
+            },
+            {
+                "index": 1,
+                "text": "El sistema debe ser más rápido"
+            },
+            {
+                "index": 2,
+                "text": "El sistema debe responder ante fallos o caídas de la red"
+            }
+        ],
+        "answer": {
+            "index": 0,
+            "text": "El sistema debe de tener un control de acceso",
+            "explanation": "Explicación no proporcionada, ya que no se seleccionó una respuesta."
+        },
+        "imageIndexes": [
+            18
+        ]
+    },
+    {
+        "imageName": "24",
+        "imageIndex": "19",
+        "index": 18,
+        "text": "Para el desarrollo de un sitio web para licitaciones gubernamentales, se ha visto que la forma adecuada de construcción es mediante iteraciones, debido a que para el cliente es fácil determinar cuáles requerimientos se deben realizar, cuáles podrían hacerse, cuáles deberían estar y cuáles se pueden dejar para otra iteración.\n\nDesde la complejidad en cada iteración, ¿Qué herramienta de priorización y validación de requerimientos se requiere?",
+        "options": [
+            {
+                "index": 0,
+                "text": "In Vision"
+            },
+            {
+                "index": 1,
+                "text": "Axure RP"
+            },
+            {
+                "index": 2,
+                "text": "Proto.io"
+            }
+        ],
+        "answer": {
+            "index": 0,
+            "text": "In Vision",
+            "explanation": "Explicación no proporcionada, ya que no se seleccionó una respuesta."
+        },
+        "imageIndexes": [
+            19
+        ]
+    },
+    {
+        "imageName": "25",
+        "imageIndex": "20-21",
+        "index": 19,
+        "text": "Se liberó una aplicación para el control de asistencia de los médicos en un hospital. Con los turnos previamente asignados se obtuvieron las siguientes historias de usuario para integrarse de forma inmediata a ella:\n    • H1. Como doctor responsable, necesito conocer al colega que no ha llegado al hospital, a fin de poder llamar a algún otro doctor que lo sopla y esté disponible para mantener el nivel de servicio del hospital.\n    • H2. Como administrador, requiero programar turnos adicionales para poder cubrir necesidades de atención a grupos vulnerables como parte de la responsabilidad civil del hospital.\n    • H3. Como doctor, necesito avisar en la aplicación mi hora de llegada para que el médico responsable sepa que voy atrasado y no se llame a ningún compañero.\n\nSe decidió considerar sólo una, por lo que se obtuvieron los siguientes valores de costo y beneficio que representan para el hospital cada historia de usuario:\n\n$img$\n\nConsiderando la técnica de costo beneficio, ¿Qué historia de usuario se debe implementar?",
+        "options": [
+            {
+                "index": 0,
+                "text": "H1"
+            },
+            {
+                "index": 1,
+                "text": "H2"
+            },
+            {
+                "index": 2,
+                "text": "H3"
+            }
+        ],
+        "answer": {
+            "index": 0,
+            "text": "H1",
+            "explanation": "Explicación no proporcionada, ya que no se seleccionó una respuesta."
+        },
+        "imageIndexes": [
+            20,
+            21
+        ]
+    },
+    {
+        "imageName": "26",
+        "imageIndex": "22",
+        "index": 20,
+        "text": "En el desarrollo de un proyecto de software trabajan varios programadores a la vez debido a su complejidad. Una vez aprobado un cambio, siguen teniendo acceso en paralelo a un mismo código, pero no cuentan con un controlador de versiones que integra el control de acceso y de sincronización.\n\nEn el escenario anterior, se recomienda implementar el controlador de versiones con el fin de...",
+        "options": [
+            {
+                "index": 0,
+                "text": "Dar acceso al código para la modificación"
+            },
+            {
+                "index": 1,
+                "text": "Bloquear el objeto de código por modificar"
+            },
+            {
+                "index": 2,
+                "text": "Bloquear el acceso y el objeto de código"
+            }
+        ],
+        "answer": {
+            "index": 0,
+            "text": "Dar acceso al código para la modificación",
+            "explanation": "Explicación no proporcionada, ya que no se seleccionó una respuesta."
+        },
+        "imageIndexes": [
+            22
+        ]
+    }
+]

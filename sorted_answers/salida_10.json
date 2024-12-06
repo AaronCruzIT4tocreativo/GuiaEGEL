@@ -1,0 +1,154 @@
+[
+    {
+        "imageName": "52",
+        "imageIndex": "64-68",
+        "index": 52,
+        "text": "A partir del siguiente diagrama de clases, se requiere cambiar el encapsulamiento de los métodos, de modo que cualquier otro objeto pueda acceder a los métodos de pedido, las clases que se heredan a los métodos de producto y que solo los métodos de carro pueden acceder a sí mismos\n\n¿Cuál es el diagrama de UML encapsulado en forma correcta, de acuerdo con él problema solicitado?\n\n$img$",
+        "options": [
+            {
+                "index": 0,
+                "text": "$img$"
+            },
+            {
+                "index": 1,
+                "text": "$img$"
+            },
+            {
+                "index": 2,
+                "text": "$img$"
+            }
+        ],
+        "answer": {
+            "index": 0,
+            "text": "$img$",
+            "explanation": "Explicación no proporcionada, ya que no se seleccionó una respuesta."
+        },
+        "imageIndexes": [
+            64,
+            65,
+            66,
+            67,
+            68
+        ]
+    },
+    {
+        "imageName": "53",
+        "imageIndex": "69-73",
+        "index": 53,
+        "text": "Se desea generar una sesión por medio de lenguaje PHP. Entre los elementos a los que debe tenerse acceso están el ID del usuario, nombre y correo electrónico. También, es posible modificar y establecer dichos valores.\n\n¿Cuál método implementa la sesión utilizando encapsulación?",
+        "options": [
+            {
+                "index": 0,
+                "text": "$img$"
+            },
+            {
+                "index": 1,
+                "text": "$img$"
+            },
+            {
+                "index": 2,
+                "text": "$img$"
+            }
+        ],
+        "answer": {
+            "index": 0,
+            "text": "$img$",
+            "explanation": "Explicación no proporcionada, ya que no se seleccionó una respuesta."
+        },
+        "imageIndexes": [
+            69,
+            70,
+            71,
+            72,
+            73
+        ]
+    },
+    {
+        "imageName": "54",
+        "imageIndex": "74-77",
+        "index": 54,
+        "text": "Se necesita construir el módulo de inicio de sesión único en una compañía; el usuario debe registrarse con su cuenta empresarial y confirmar un código de identificación que le llegará por mensaje de texto a su celular una vez que inicie el proceso; se debe poder reiniciar la contraseña en casa de olvido y debe permitir por medio de una pregunta que el navegador guarde la clave de usuario con la que ingresó para futuros accesos.\n\nAplicando el principio de simplicidad, ¿cuál es la pantalla de acceso que se debe diseñar?",
+        "options": [
+            {
+                "index": 0,
+                "text": "$img$"
+            },
+            {
+                "index": 1,
+                "text": "$img$"
+            },
+            {
+                "index": 2,
+                "text": "$img$"
+            }
+        ],
+        "answer": {
+            "index": 0,
+            "text": "$img$",
+            "explanation": "Explicación no proporcionada, ya que no se seleccionó una respuesta."
+        },
+        "imageIndexes": [
+            74,
+            75,
+            76,
+            77
+        ]
+    },
+    {
+        "imageName": "55",
+        "imageIndex": "78",
+        "index": 55,
+        "text": "De acuerdo con el siguiente diagrama de clases, correspondiente a una serie de comportamientos distintos que puede tener la construcción de una casa, ¿que patrón de diseño de bajo nivel se está utilizando?\n\n$img$",
+        "options": [
+            {
+                "index": 0,
+                "text": "Facade"
+            },
+            {
+                "index": 1,
+                "text": "Estrategia"
+            },
+            {
+                "index": 2,
+                "text": "Observer"
+            }
+        ],
+        "answer": {
+            "index": 0,
+            "text": "Facade",
+            "explanation": "Explicación no proporcionada, ya que no se seleccionó una respuesta."
+        },
+        "imageIndexes": [
+            78
+        ]
+    },
+    {
+        "imageName": "56",
+        "imageIndex": "79-80",
+        "index": 56,
+        "text": "De acuerdo con el siguiente diagrama de clases UML, ¿cuál opción es una interpretación correcta de la relación de las clases?\n\n$img$",
+        "options": [
+            {
+                "index": 0,
+                "text": "Las clases País y Provincia son derivadas de la clase base zona geográfica"
+            },
+            {
+                "index": 1,
+                "text": "La interfaz ZonaGeografica es la base para las clases derivadas País y Provincia"
+            },
+            {
+                "index": 2,
+                "text": "Las clases País y Provincia proporcionan herencia múltiple a la clase ZonaGeografica"
+            }
+        ],
+        "answer": {
+            "index": 0,
+            "text": "Las clases País y Provincia son derivadas de la clase base zona geográfica",
+            "explanation": "Explicación no proporcionada, ya que no se seleccionó una respuesta."
+        },
+        "imageIndexes": [
+            79,
+            80
+        ]
+    }
+]

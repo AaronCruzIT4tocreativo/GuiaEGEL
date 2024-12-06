@@ -1,0 +1,143 @@
+[
+    {
+        "imageName": "17",
+        "imageIndex": "11-12",
+        "index": 11,
+        "text": "Una empresa desarrolladora de software realiza, para cada sistema que sus clientes le solicitan, una estimación donde se contemplan los datos de las tablas que se muestran como entrada:\n\n$img$\n\nA partir de lo anterior se genera como resultado:\n\n$img$",
+        "options": [
+            {
+                "index": 0,
+                "text": "Cocomo con puntos de función"
+            },
+            {
+                "index": 1,
+                "text": "Puntos de función"
+            },
+            {
+                "index": 2,
+                "text": "Planning poker"
+            }
+        ],
+        "answer": {
+            "index": 0,
+            "text": "Cocomo con puntos de función",
+            "explanation": "Explicación no proporcionada, ya que no se seleccionó una respuesta."
+        },
+        "imageIndexes": [
+            11,
+            12
+        ]
+    },
+    {
+        "imageName": "18",
+        "imageIndex": "13",
+        "index": 12,
+        "text": "En una empresa farmacéutica se solicitó a la gerencia de Tecnologías de Información que desarrollara un sistema para controlar los stocks de los genéricos intercambiables existentes en las diferentes sucursales. Se dispone de información específica de cada sucursal y de los diferentes módulos, cómo reportes, inventarios y ventas.\n\n¿Qué técnica se requiere para determinar el alcance del proyecto de software?",
+        "options": [
+            {
+                "index": 0,
+                "text": "Casos de uso"
+            },
+            {
+                "index": 1,
+                "text": "Puntos de función"
+            },
+            {
+                "index": 2,
+                "text": "Cocomo"
+            }
+        ],
+        "answer": {
+            "index": 0,
+            "text": "Casos de uso",
+            "explanation": "Explicación no proporcionada, ya que no se seleccionó una respuesta."
+        },
+        "imageIndexes": [
+            13
+        ]
+    },
+    {
+        "imageName": "19",
+        "imageIndex": "14",
+        "index": 13,
+        "text": "Una lista tiene la siguiente lista de tres requisitos, la cual se priorizó y etiquetó usando la técnica Moscow:\n\n    • El sistema debe de ser compatible con Android (M)\n    • El sistema debe ser compatible con iOS (M)\n    • El sistema debe notificar sobre envíos no realizados (C)\n\n¿Cuál requisito tiene una prioridad más baja?",
+        "options": [
+            {
+                "index": 0,
+                "text": "Compatibilidad con Android"
+            },
+            {
+                "index": 1,
+                "text": "Compatibilidad con iOS (W)"
+            },
+            {
+                "index": 2,
+                "text": "Notificación sobre envíos no realizados (C)"
+            }
+        ],
+        "answer": {
+            "index": 0,
+            "text": "Compatibilidad con Android",
+            "explanation": "Explicación no proporcionada, ya que no se seleccionó una respuesta."
+        },
+        "imageIndexes": [
+            14
+        ]
+    },
+    {
+        "imageName": "20",
+        "imageIndex": "15",
+        "index": 14,
+        "text": "El equipo de desarrollo ha decidido tomar el primer elemento del backlog para estimar el tiempo requerido de programación y para ello deben asignar story points. Sin embargo, existen diferencias con respecto al tiempo que les llevará tal desarrollo por lo que se requiere utilizar una técnica que permita a sus integrantes ponerse de acuerdo y estimar el esfuerzo necesario.\n\n¿Qué técnica se debe usar?",
+        "options": [
+            {
+                "index": 0,
+                "text": "Estimación por analogía"
+            },
+            {
+                "index": 1,
+                "text": "Juicio de expertos"
+            },
+            {
+                "index": 2,
+                "text": "Planning poker"
+            }
+        ],
+        "answer": {
+            "index": 0,
+            "text": "Estimación por analogía",
+            "explanation": "Explicación no proporcionada, ya que no se seleccionó una respuesta."
+        },
+        "imageIndexes": [
+            15
+        ]
+    },
+    {
+        "imageName": "21",
+        "imageIndex": "16",
+        "index": 15,
+        "text": "Una maquiladora de pantalones solicitó el apoyo de una empresa de software para el desarrollo de una nueva versión del sistema de control del proceso de producción, debido a la gran cantidad de defectos presentes en la fábrica. Se busca incluir sensores que adviertan sobre posibles desviaciones de los estándares por cumplir.\n\n¿Qué técnica de priorización de requerimiento se debe aplicar?",
+        "options": [
+            {
+                "index": 0,
+                "text": "Scorecard"
+            },
+            {
+                "index": 1,
+                "text": "Puntos de función"
+            },
+            {
+                "index": 2,
+                "text": "Líneas de código"
+            }
+        ],
+        "answer": {
+            "index": 0,
+            "text": "Scorecard",
+            "explanation": "Explicación no proporcionada, ya que no se seleccionó una respuesta."
+        },
+        "imageIndexes": [
+            16
+        ]
+    }
+]

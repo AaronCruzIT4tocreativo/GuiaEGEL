@@ -1,0 +1,27 @@
+[
+    {
+        "index": "14",
+        "answer": "\"Rendimiento\".",
+        "explanation": "La prueba de rendimiento se enfoca en medir la capacidad del sistema para manejar diferentes volúmenes de usuarios simultáneos, como se solicita al validar el ingreso de 500, 1500 y 3000 usuarios."
+    },
+    {
+        "index": "15",
+        "answer": "\"Genimotion\".",
+        "explanation": "Genimotion es una herramienta de emulación de Android que permite ejecutar aplicaciones desarrolladas para iOS en un emulador de PC, ideal para realizar pruebas sin contar con dispositivos físicos."
+    },
+    {
+        "index": "16",
+        "answer": "\"SonarQube\".",
+        "explanation": "SonarQube es una herramienta de análisis estático de código que ayuda a identificar problemas estructurales, de rendimiento y de calidad en el código fuente, lo cual es adecuado para asegurar un alto rendimiento en una aplicación móvil."
+    },
+    {
+        "index": "17",
+        "answer": "\"Móvil\".",
+        "explanation": "Dado que los niños están en cama y no pueden desplazarse, se requiere una plataforma de desarrollo móvil para permitir que la aplicación sea accesible de forma cómoda en dispositivos móviles como teléfonos o tabletas."
+    },
+    {
+        "index": "18",
+        "answer": "\"JavaDoc\".",
+        "explanation": "JavaDoc es una herramienta diseñada para generar documentación en HTML a partir de comentarios en el código fuente de Java, utilizando identificadores como `@param`, `@return`, `@author`, entre otros, tal como se describe en la pregunta."
+    }
+]

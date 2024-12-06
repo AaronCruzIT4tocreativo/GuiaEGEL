@@ -1,0 +1,145 @@
+[
+    {
+        "imageName": "32",
+        "imageIndex": "32",
+        "index": 26,
+        "text": "Una empresa que se dedica a la fabricación de baños de vapor está inmersa en un proceso de transformación digital y para ello han surgido algunos requerimientos relacionados con el nuevo producto de software que se va a implementar.\n\n¿Cuál de los siguientes requerimientos forma parte de la visión del producto y del alcance del proyecto?",
+        "options": [
+            {
+                "index": 0,
+                "text": "Se propone utilizar programación orientada a objetos para resolver el control de clientes, creando una clase Cliente con atributos, métodos y constructores"
+            },
+            {
+                "index": 1,
+                "text": "Se debe contratar a un arquitecto de datos para la recopilación e integración de la información de clientes potenciales"
+            },
+            {
+                "index": 2,
+                "text": "Se recomienda usar una metodología Scrum para su facilidad de aprendizaje"
+            }
+        ],
+        "answer": {
+            "index": 0,
+            "text": "Se propone utilizar programación orientada a objetos para resolver el control de clientes, creando una clase Cliente con atributos, métodos y constructores",
+            "explanation": "Explicación no proporcionada, ya que no se seleccionó una respuesta."
+        },
+        "imageIndexes": [
+            32
+        ]
+    },
+    {
+        "imageName": "33",
+        "imageIndex": "33-36",
+        "index": 27,
+        "text": "Una empresa desarrolla un sistema de citas para un consultorio médico y utiliza RUP como método de desarrollo. El cliente pide que tanto el asistente del consultorio como los pacientes puedan agendar las consultas en los horarios disponibles y derivado de esto, cancelar o reagendar citas. Cuando un paciente llegue a su cita médica, la asistente debe acreditar su asistencia.\n\n¿Qué diagrama de casos de uso corresponde a la documentación de requerimientos?",
+        "options": [
+            {
+                "index": 0,
+                "text": "$img$"
+            },
+            {
+                "index": 1,
+                "text": "$img$"
+            },
+            {
+                "index": 2,
+                "text": "$img$"
+            }
+        ],
+        "answer": {
+            "index": 0,
+            "text": "$img$",
+            "explanation": "Explicación no proporcionada, ya que no se seleccionó una respuesta."
+        },
+        "imageIndexes": [
+            33,
+            34,
+            35,
+            36
+        ]
+    },
+    {
+        "imageName": "34",
+        "imageIndex": "37",
+        "index": 28,
+        "text": "Una empresa de desarrollo informático está escalando su producción de software, por lo que debe mejorar la gestión de sus procesos. En lo concerniente a la gestión de requerimientos, actualmente usa MS Office y desea migrar a otra herramienta; sin embargo, se ha contemplado que la principal restricción para ello es que es necesario que esta sea de uso libre y accesible, vía plataforma web.\n\nCon base en el contexto, ¿Qué herramienta de gestión de desarrollo debe elegirse?",
+        "options": [
+            {
+                "index": 0,
+                "text": "REM Software"
+            },
+            {
+                "index": 1,
+                "text": "JAMA Software"
+            },
+            {
+                "index": 2,
+                "text": "DRES"
+            }
+        ],
+        "answer": {
+            "index": 0,
+            "text": "REM Software",
+            "explanation": "Explicación no proporcionada, ya que no se seleccionó una respuesta."
+        },
+        "imageIndexes": [
+            37
+        ]
+    },
+    {
+        "imageName": "35",
+        "imageIndex": "38",
+        "index": 29,
+        "text": "Un programa social gubernamental de alcance nacional va a iniciar y requiere garantizar el acceso masivo de solicitudes a una plataforma web. Como los requisitos para los aspirantes al programa son extensos, se piensa que habrá una gran cantidad de usuarios en los días finales de la convocatoria con el riesgo de que la plataforma colapse por saturación. Existen alternativas tecnológicas para evitar este problema pero tiene un alto costo.\n\n¿Qué técnica de gestión de riesgos debe emplearse para determinar aquella alternativa que equilibra la relación costo-beneficio?",
+        "options": [
+            {
+                "index": 0,
+                "text": "Evaluación del riesgo global del proyecto"
+            },
+            {
+                "index": 1,
+                "text": "Proyección del riesgo"
+            },
+            {
+                "index": 2,
+                "text": "Refinamiento del riesgo"
+            }
+        ],
+        "answer": {
+            "index": 0,
+            "text": "Evaluación del riesgo global del proyecto",
+            "explanation": "Explicación no proporcionada, ya que no se seleccionó una respuesta."
+        },
+        "imageIndexes": [
+            38
+        ]
+    },
+    {
+        "imageName": "36",
+        "imageIndex": "39",
+        "index": 30,
+        "text": "En una aplicación móvil para una tienda de autoservicio, el usuario escanea el código de producto y así se va generando su ticket de salida, para ahorrar tiempo al momento del cobro. Se ha decidido incorporar nuevas funcionalidades a la aplicación, entre ellas, qué se pueden integrar las frutas y verduras a los registros, lo cual implica usar el celular de los clientes como báscula.\n\nLos puntos indispensables que debe llevar a cabo el control de cambio de este requerimiento son _, _ y _.",
+        "options": [
+            {
+                "index": 0,
+                "text": "usuario solicita - esfuerzo - tiempo"
+            },
+            {
+                "index": 1,
+                "text": "análisis funcional - usuario solicita - tiempo"
+            },
+            {
+                "index": 2,
+                "text": "análisis funcional - costo - tiempo"
+            }
+        ],
+        "answer": {
+            "index": 0,
+            "text": "usuario solicita - esfuerzo - tiempo",
+            "explanation": "Explicación no proporcionada, ya que no se seleccionó una respuesta."
+        },
+        "imageIndexes": [
+            39
+        ]
+    }
+]

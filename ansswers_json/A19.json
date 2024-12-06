@@ -1,0 +1,27 @@
+[
+    {
+        "index": "24",
+        "answer": "\"$190,000\".",
+        "explanation": "El costo total del licenciamiento se calcula sumando el costo de licenciamiento de Oracle Database Enterprise Edition y Oracle WebLogic. Para Oracle Database (dos procesadores) el costo es $80,000 por cada 25 usuarios, y para WebLogic el costo es $30,000. El total es $190,000."
+    },
+    {
+        "index": "25",
+        "answer": "\"66.8 persona-mes\".",
+        "explanation": "El esfuerzo requerido se calcula usando la fórmula de Cocomo II, donde el esfuerzo es el resultado de la fórmula de tamaño ajustado. El resultado correcto para este proyecto es 66.8 persona-mes, considerando la constante de esfuerzo y el factor exponencial."
+    },
+    {
+        "index": "26",
+        "answer": "\"$15,000\".",
+        "explanation": "El análisis cuantitativo del riesgo se realiza sumando los costos de los posibles riesgos, y con base en las probabilidades y el impacto de cada riesgo identificado, la estimación final de riesgo es de $15,000."
+    },
+    {
+        "index": "27",
+        "answer": "\"métricas de calidad\".",
+        "explanation": "Las métricas de calidad son esenciales para evaluar la seguridad y resistencia a ataques en un proyecto de software bancario, ya que miden la efectividad y seguridad del sistema."
+    },
+    {
+        "index": "28",
+        "answer": "\"$37,500\".",
+        "explanation": "El cálculo del riesgo relacionado con el retraso en el proyecto se realiza usando la matriz de calificación, evaluación y respuesta al riesgo, teniendo en cuenta la probabilidad de retraso y el costo asociado. El costo del retraso estimado es $37,500."
+    }
+]

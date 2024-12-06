@@ -1,0 +1,22 @@
+[
+    {
+        "index": "17",
+        "answer": "No hay respuesta seleccionada.",
+        "explanation": "La selección depende del tipo de evaluación del alcance; los \"Casos de uso\" son útiles para escenarios específicos, mientras que \"Puntos de función\" miden tamaño funcional."
+    },
+    {
+        "index": "19",
+        "answer": "No hay respuesta seleccionada.",
+        "explanation": "Según la técnica Moscow, \"C\" (Could have) tiene una prioridad más baja comparada con \"M\" (Must have), por lo que la respuesta sería: \"Notificación sobre envíos no realizados (C)\"."
+    },
+    {
+        "index": "20",
+        "answer": "No hay respuesta seleccionada.",
+        "explanation": "\"Planning poker\" es la técnica adecuada para resolver discrepancias en estimaciones, ya que fomenta el consenso entre los miembros del equipo mediante discusiones."
+    },
+    {
+        "index": "21",
+        "answer": "No hay respuesta seleccionada.",
+        "explanation": "\"Scorecard\" sería una técnica útil en este caso, ya que permite evaluar y priorizar los requerimientos con base en factores como impacto y costo, esenciales para resolver problemas críticos como defectos en producción."
+    }
+]

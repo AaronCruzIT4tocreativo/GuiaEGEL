@@ -1,0 +1,27 @@
+[
+    {
+        "index": "29",
+        "answer": "\"Reporte de tiempo de respuesta al cliente\".",
+        "explanation": "La métrica más adecuada para identificar el problema de la latencia en el sistema es el tiempo de respuesta al cliente. Esto ayudará a determinar si el sistema está cumpliendo con los plazos establecidos para procesar las solicitudes."
+    },
+    {
+        "index": "30",
+        "answer": "\"Variación del cronograma\".",
+        "explanation": "La variación del cronograma es útil para analizar la diferencia entre el tiempo planeado y el tiempo real del proyecto, lo que permite al líder del proyecto encontrar alternativas para cumplir con la nueva fecha de entrega solicitada."
+    },
+    {
+        "index": "31",
+        "answer": "\"ISO/IEC 29110\".",
+        "explanation": "ISO/IEC 29110 es un estándar de calidad que se utiliza para pequeñas empresas de desarrollo de software, especialmente en proyectos internacionales, por lo que es el más adecuado para el caso de la microempresa en este escenario."
+    },
+    {
+        "index": "32",
+        "answer": "\"Índice de desempeño del cronograma\".",
+        "explanation": "El índice de desempeño del cronograma (SPI) es una métrica que permite evaluar si el proyecto está adelantado o retrasado con respecto al cronograma, lo que ayuda a identificar los ajustes necesarios para cumplir con la solicitud del cliente."
+    },
+    {
+        "index": "33",
+        "answer": "\"Depuración\".",
+        "explanation": "La depuración es la técnica más adecuada para resolver errores en el código, como el problema de contabilizar adecuadamente el cobro por usuario en el sistema, permitiendo identificar y corregir la instrucción errónea."
+    }
+]

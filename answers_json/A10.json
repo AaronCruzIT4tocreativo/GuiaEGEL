@@ -1,0 +1,7 @@
+[
+    {
+        "index": "55",
+        "answer": "\"Estrategia\".",
+        "explanation": "El patrón de diseño \"Estrategia\" permite definir una familia de algoritmos, encapsularlos y hacerlos intercambiables, lo cual es ideal para representar diferentes comportamientos en la construcción de una casa."
+    }
+]

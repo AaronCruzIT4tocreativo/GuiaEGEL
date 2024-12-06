@@ -1,0 +1,142 @@
+[
+    {
+        "imageName": "19",
+        "imageIndex": "160",
+        "index": 19,
+        "text": "Un sistema de rastreo, dentro de un centro de tutorías para estudiantes, se accede mediante una aplicación web; en este, los estudiantes o sus \ntutores pueden registrar su ingreso o salida. El centro de tutorías puede rastrear la asistencia, las actualizaciones de estado y, además, pueden registrar información de contacto para tutores y estudiantes. Asimismo, se probó cuando fuera aumentando el número de usuarios (Estudiantes y tutores) no disminuyera la velocidad y tampoco la cantidad de tráfico en la red.\n\n¿Qué artefacto permite documentar los resultados de las pruebas en la aplicación web?",
+        "options": [
+            {
+                "index": 0,
+                "text": "Formulario de carta de aceptación"
+            },
+            {
+                "index": 1,
+                "text": "Formulario de instrucciones de entrega"
+            },
+            {
+                "index": 2,
+                "text": "Matriz de seguimiento de requerimientos"
+            }
+        ],
+        "answer": {
+            "index": 0,
+            "text": "Formulario de carta de aceptación",
+            "explanation": "Explicación no proporcionada, ya que no se seleccionó una respuesta."
+        },
+        "imageIndexes": [
+            160
+        ]
+    },
+    {
+        "imageName": "20",
+        "imageIndex": "161",
+        "index": 20,
+        "text": "Un equipo de trabajo requiere desarrollar una aplicación Movil, multi plataforma( iOS, Android, Windows Phone en C# y .NET) para ayudar a los pacientes diabéticos a calcular las dosis de insulina antes de la ingesta diaria de los alimentos. El cálculo se realiza con base en el conteo de carbohidratos, el nivel de glucosa actual y otros parámetros. Adicionalmente, se ha pedido que la aplicación conserve el aspecto y comportamiento inherentes a cada tipo de dispositivo móvil. \n\n¿Cuál de las siguientes plataformas se requiere para desarrollar la aplicación?",
+        "options": [
+            {
+                "index": 0,
+                "text": "Knockout"
+            },
+            {
+                "index": 1,
+                "text": "Ionic"
+            },
+            {
+                "index": 2,
+                "text": "Xamarin"
+            }
+        ],
+        "answer": {
+            "index": 0,
+            "text": "Knockout",
+            "explanation": "Explicación no proporcionada, ya que no se seleccionó una respuesta."
+        },
+        "imageIndexes": [
+            161
+        ]
+    },
+    {
+        "imageName": "21",
+        "imageIndex": "162",
+        "index": 21,
+        "text": "Se implementará un desarrollo web para una empresa de la industria planificadora. En ese sentido, el requerimiento es administrar las ventas en la línea de sus productos. Asimismo, el servidor propio para la empresa debe contar con las siguientes características: \n\nprocesador Intel Xeon(ocho núcleos)\n\nDisco duro 2 × 1 TB en RAID 1 \n\nMemoria RAM de 8 GB.\n\nControl de puerto.\n\nSistema operativo Linux.\n\nPor otra parte, se lleva a cabo un estudio de costo, y el valor optimista del servidor es de $8,000, el más probable es de $10,000 y la pesimista es de $12,000;  no obstante, el contrato de mantenimiento costaría $5,000 y los componentes de reemplazo de servidor $2,500.\n\nAplicando la distribución beta de la estimación por tres valores, ¿cuál es el costo total del servidor para el desarrollo web?",
+        "options": [
+            {
+                "index": 0,
+                "text": "$16,500"
+            },
+            {
+                "index": 1,
+                "text": "$17,500"
+            },
+            {
+                "index": 2,
+                "text": "$18,500"
+            }
+        ],
+        "answer": {
+            "index": 0,
+            "text": "$16,500",
+            "explanation": "Explicación no proporcionada, ya que no se seleccionó una respuesta."
+        },
+        "imageIndexes": [
+            162
+        ]
+    },
+    {
+        "imageName": "22",
+        "imageIndex": "163",
+        "index": 22,
+        "text": "Un equipo desarrolla un sistema de reservas para un hotel y utilizar RUP como método de desarrollo. Ha concluido un ciclo de vida para el proyecto y el cliente solicita incorporar nuevas funcionalidades al sistema por lo que se debe estimar el tiempo de desarrollo con base en la ruta crítica.\n\nDe acuerdo con los datos de la tabla, determine, en semanas, el tiempo de desarrollo para incorporar las nuevas funcionalidades al sistema\n\n$img$",
+        "options": [
+            {
+                "index": 0,
+                "text": "9"
+            },
+            {
+                "index": 1,
+                "text": "10"
+            },
+            {
+                "index": 2,
+                "text": "11"
+            }
+        ],
+        "answer": {
+            "index": 0,
+            "text": "9",
+            "explanation": "Explicación no proporcionada, ya que no se seleccionó una respuesta."
+        },
+        "imageIndexes": [
+            163
+        ]
+    },
+    {
+        "imageName": "23",
+        "imageIndex": "164",
+        "index": 23,
+        "text": "La empresa Design debe desarrollar un sistema para control de ventas e inventarios para el cual contra dos desarrolladores y un analista por 2 meses. La compañía hizo un proyecto similar, hace 1 año y el costo por día fue de $530 para los desarrolladores y $350 para analistas, trabajando 8 horas por dos meses, sólo en días hábiles.\n\nUtilizando la herramienta de estimación análoga, calcula el costo en el recurso humano para este proyecto.",
+        "options": [
+            {
+                "index": 0,
+                "text": "$56,400"
+            },
+            {
+                "index": 1,
+                "text": "$78,960"
+            },
+            {
+                "index": 2,
+                "text": "631,680"
+            }
+        ],
+        "answer": {
+            "index": 0,
+            "text": "$56,400",
+            "explanation": "Explicación no proporcionada, ya que no se seleccionó una respuesta."
+        },
+        "imageIndexes": [
+            164
+        ]
+    }
+]

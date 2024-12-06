@@ -1,0 +1,147 @@
+[
+    {
+        "imageName": "47",
+        "imageIndex": "54",
+        "index": 41,
+        "text": "El arquitecto de software, encargado en un proyecto para implementar un sitio para registrar a los ciudadanos en un programa de salud, ha solicitado a los desarrolladores del sistema que los servicios se construyen utilizando tres diferentes tipos de componentes, uno que se encargue de la presentación, otros separados para atender y administrar solicitudes del usuario, y otros más independientes para la comunicación y el manejo de datos. La finalidad es separar la lógica de la vista de la solución. Este requerimiento está alineado a las buenas prácticas en desarrollo de soluciones.\n\n¿Qué patrón de diseño se debe utilizar?",
+        "options": [
+            {
+                "index": 0,
+                "text": "DTO"
+            },
+            {
+                "index": 1,
+                "text": "DAO"
+            },
+            {
+                "index": 2,
+                "text": "MVC"
+            }
+        ],
+        "answer": {
+            "index": 0,
+            "text": "DTO",
+            "explanation": "Explicación no proporcionada, ya que no se seleccionó una respuesta."
+        },
+        "imageIndexes": [
+            54
+        ]
+    },
+    {
+        "imageName": "48",
+        "imageIndex": "55-57",
+        "index": 42,
+        "text": "El desarrollo de un sistema para la administración de una clínica veterinaria cuenta con las siguientes historias de usuario:\n    1. Un paciente solicita una cita a la recepcionista, la cual consulta la agenda en busca de días y horas disponibles. Una vez determinada la fecha y la hora, la recepcionista registra los datos de usuario y el motivo de la cita\n    2. Al iniciar la jornada, la recepcionista envía al médico una lista de las citas por atender. Si se presenta el paciente a la cita, el médico cambia el estado de la cita a Atendida. En caso contrario, cambia el estado a No atendida\n    3. Cada vez que termina una consulta, el médico indica a la recepcionista el monto total de la consulta por los conceptos de honorarios, medicinas, materiales utilizados. La recepcionistas se encarga de registrar los pagos y de generar un reporte al final de la jornada.\n\nDetermine el esqueleto de arquitectura que implementa este sistema.",
+        "options": [
+            {
+                "index": 0,
+                "text": "$img$"
+            },
+            {
+                "index": 1,
+                "text": "$img$"
+            },
+            {
+                "index": 2,
+                "text": "$img$"
+            }
+        ],
+        "answer": {
+            "index": 0,
+            "text": "$img$",
+            "explanation": "Explicación no proporcionada, ya que no se seleccionó una respuesta."
+        },
+        "imageIndexes": [
+            55,
+            56,
+            57
+        ]
+    },
+    {
+        "imageName": "49",
+        "imageIndex": "58-61",
+        "index": 49,
+        "text": "Un distribuidor de productos tecnológicos va a implementar un nuevo sistema para administrar su negocio, con los siguientes elementos:\n    • Módulo de clientes. En dicho bloque se gestionarán los datos de clientes y medios de pago\n    • Módulo de ventas. Serán encargados de administrar las compras que realizan los clientes\n    • Módulo de proveedores. Se administrarán sus contactos y las adquisiciones hechas con cada uno de ellos\n    • Módulo de facturación. Emitirá y administrará las facturas electrónicas tanto para clientes como para las recepciones por parte de los proveedores\n\n¿Qué diagrama representa la arquitectura basada en dichos módulos?",
+        "options": [
+            {
+                "index": 0,
+                "text": "$img$"
+            },
+            {
+                "index": 1,
+                "text": "$img$"
+            },
+            {
+                "index": 2,
+                "text": "$img$"
+            }
+        ],
+        "answer": {
+            "index": 0,
+            "text": "$img$",
+            "explanation": "Explicación no proporcionada, ya que no se seleccionó una respuesta."
+        },
+        "imageIndexes": [
+            58,
+            59,
+            60,
+            61
+        ]
+    },
+    {
+        "imageName": "50",
+        "imageIndex": "62",
+        "index": 50,
+        "text": "Un desarrollador debe de implementar un componente para el cálculo del IVA; éste se va a utilizar en diferentes sistemas. La interfaz con el componente solo se lleva a cabo proporcionando la cantidad, el porcentaje del IVA y regresa la cantidad total a pagar.\n\n¿Qué tipo de cohesión debe utilizar el desarrollador para ejecutar el componente?",
+        "options": [
+            {
+                "index": 0,
+                "text": "Funcional"
+            },
+            {
+                "index": 1,
+                "text": "Secuencial"
+            },
+            {
+                "index": 2,
+                "text": "Casual"
+            }
+        ],
+        "answer": {
+            "index": 0,
+            "text": "Funcional",
+            "explanation": "Explicación no proporcionada, ya que no se seleccionó una respuesta."
+        },
+        "imageIndexes": [
+            62
+        ]
+    },
+    {
+        "imageName": "51",
+        "imageIndex": "63",
+        "index": 51,
+        "text": "Una empresa constructora ha concluido un sistema de ventas. Entre los requerimientos que presenta se encuentra emitir facturas electrónicas, para lo cual tiene ya otro sistema en operación. Se busca un diseño que permita un acoplamiento a nivel externo entre ambos sistemas. ¿Cuál de las opciones expresa una solución acorde al diseño solicitado?",
+        "options": [
+            {
+                "index": 0,
+                "text": "Invocar procedimientos almacenados en el sistema de facturación"
+            },
+            {
+                "index": 1,
+                "text": "Modificar el sistema de ventas para incluir en su código las rutinas del sistema de facturación"
+            },
+            {
+                "index": 2,
+                "text": "Crear un archivo de intercambio para que el sistema de ventas grabe la información necesaria de la venta y el módulo de facturación procese información a partir del archivo"
+            }
+        ],
+        "answer": {
+            "index": 0,
+            "text": "Invocar procedimientos almacenados en el sistema de facturación",
+            "explanation": "Explicación no proporcionada, ya que no se seleccionó una respuesta."
+        },
+        "imageIndexes": [
+            63
+        ]
+    }
+]

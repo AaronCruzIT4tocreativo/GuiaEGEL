@@ -1,0 +1,27 @@
+[
+    {
+        "index": "12",
+        "answer": "No hay una respuesta seleccionada.",
+        "explanation": "Este tipo de pregunta requiere evaluar aspectos como \"Completitud\" (cobertura total de los elementos requeridos), pero no se seleccionó una respuesta en el archivo."
+    },
+    {
+        "index": "13",
+        "answer": "\"Priorizable\".",
+        "explanation": "La característica de \"Priorizable\" permite identificar elementos de alta importancia en el desarrollo, como la velocidad, que pueden ser atendidos antes que otros requerimientos menos urgentes."
+    },
+    {
+        "index": "14",
+        "answer": "\"Usuarios finales y soporte técnico\".",
+        "explanation": "Los usuarios finales proporcionan datos directos sobre sus preferencias, mientras que el soporte técnico facilita la interpretación y estructuración de esa información para su análisis y uso."
+    },
+    {
+        "index": "15",
+        "answer": "\"Usuarios finales\".",
+        "explanation": "Los usuarios finales son esenciales para evaluar la factibilidad porque sus necesidades y características (como accesibilidad) influyen directamente en el diseño y desarrollo del software."
+    },
+    {
+        "index": "16",
+        "answer": "\"Entrevista\".",
+        "explanation": "Las entrevistas permiten obtener información específica y detallada de los usuarios sobre sus necesidades y expectativas, lo cual es clave para evaluar el alcance y propósitos de la aplicación."
+    }
+]

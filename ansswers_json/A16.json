@@ -1,0 +1,27 @@
+[
+    {
+        "index": "9",
+        "answer": "\"Integridad\".",
+        "explanation": "El uso de un hash para verificar los archivos descargados asegura la integridad de los datos, permitiendo que el usuario valide que el archivo no ha sido alterado durante la descarga."
+    },
+    {
+        "index": "10",
+        "answer": "\"Bootstrap\".",
+        "explanation": "Bootstrap es un framework de front-end que facilita la creación de interfaces de usuario intuitivas y responsivas, lo cual cumple con los requisitos de navegación y desarrollo enfocado en el front-end."
+    },
+    {
+        "index": "11",
+        "answer": "\"Mantener una rama para cada programador y configurar el merge en la rama master a través de pull request obligatorios\".",
+        "explanation": "Esta práctica asegura que el código de cada programador se revise antes de ser fusionado con la rama master, manteniendo la integridad del código y facilitando el control de versiones."
+    },
+    {
+        "index": "12",
+        "answer": "\"OLTP\".",
+        "explanation": "OLTP (Procesamiento de Transacciones en Línea) es adecuado para sistemas que requieren un procesamiento rápido y frecuente de datos, como el registro de movimientos de inventario en un almacén."
+    },
+    {
+        "index": "13",
+        "answer": "\"Caja blanca\".",
+        "explanation": "Las pruebas de caja blanca permiten verificar la lógica interna del código y asegurar que todas las condiciones planteadas en el programa se cumplen correctamente, lo cual es necesario para evitar resultados no previstos."
+    }
+]
