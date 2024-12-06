@@ -45,9 +45,9 @@ function displayQuestion(index) {
     const questionContainer = document.getElementById('question-container');
     questionContainer.innerHTML = ''; // Limpiar la pregunta actual
 
-    // Mostrar el índice de la pregunta
+    // Mostrar el índice de la pregunta desde "imageName"
     const questionIndexText = document.createElement('h2');
-    questionIndexText.textContent = `Pregunta ${index + 1}`;
+    questionIndexText.textContent = `Pregunta ${question.imageName}`;  // Usamos "imageName" como índice
     questionContainer.appendChild(questionIndexText);
 
     // Mostrar el texto de la pregunta
